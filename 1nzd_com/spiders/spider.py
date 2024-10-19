@@ -19,7 +19,6 @@ class MusicWeb(Request):
 
     def search_singer(self, singer):
         self.singer_url = f"{self.base_url}/search?ac={str(singer)}"
-        print(self.singer_url)
 
     def get_singer_page_info(self):
         self.respon = requests.get(self.singer_url, headers=self.headers)
@@ -48,29 +47,19 @@ class MusicWeb(Request):
     def get_music_link(self):
         self.respon = requests.get(self.music_page_url, headers=self.headers)
         music_link =input_pattern_regex.findall(self.respon.text)[0]
-        logger.info(music_link)
         self.mp3_link_dick[self.name] = music_link
+        logger.info(f"start download {self.name}")
         start_download_thread(music_link, self.name)
 
-def execute():
+def star_spider():
+    logger.info("___________开始爬虫___________")
     spider = MusicWeb(read_config.get_baseurl())
-    spider.search_singer("周杰伦")
+    singer = input("请输入歌手 : ")
+    spider.search_singer(singer)
     spider.get_singer_page_info()
-    # result1 = singer_page_regex.finditer(spider.respon.text)
-    # songs = {}
-    # for it in result1:
-    #     child_page = it.group()
-    #     result2 = song_url_regex.findall(child_page)
-    #     ul_content = result2[0]
-    #     link_and_name_pattern = r'<a href="([^"]+)".*?-(.*?)</a>'
-    #     link_and_name_matches = re.findall(link_and_name_pattern, ul_content)
-    #     for link, song_name in link_and_name_matches:
-    #         print(f"链接：{link}，歌曲名字：{song_name}")
     spider.get_all_music_page_link()
-
     spider.get_all_music_link()
+    logger.info("___________爬取完毕___________")
 
-    for name, url in spider.mp3_link_dick.items():
-        print(name +" : "+url)
-
-execute()
+if __name__ == '__main__':
+    star_spider()
