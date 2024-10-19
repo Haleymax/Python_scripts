@@ -1,34 +1,30 @@
 import os
 
-from read_data import read_data
+import yaml
+
 from settings.all_path import config_path
 from util.logger import logger
 
 config_file = os.path.join(config_path, "config.yml")
 
-def get_data_by_yaml(yaml_file_name):
-    try:
-        data_file_path = os.path.join(config_path, yaml_file_name)
-        yaml_data = read_data.load_yaml(data_file_path)
-    except Exception as ex:
-        logger.warning(f"fail get data because : {ex}")
-    else:
-        return yaml_data
+def load_yaml(file_path):
+    with open(file_path, 'r', encoding='utf-8') as file:
+        data = yaml.safe_load(file)
+    return data
 
 class ReadConfig:
     def __init__(self):
-        self.data = read_data.load_ini(config_file)
+        self.data = load_yaml(config_file)
 
-    def get_mongourl(self):
-        logger.info("读取 mogo 连接地址")
-        config = self.data["mongoDB"]
-        return config['mongourl']
+    def get_baseurl(self):
+        logger.info("读取目标网站的url")
+        config = self.data["spider"]
+        return str(config['target_url'])
 
-    def get_database(self):
-        logger.info("读取 database")
-        config = self.data["mongoDB"]
-        return config['database']
-
+    def get_user_agent(self):
+        logger.info("读取浏览器用户代理")
+        config = self.data["spider"]
+        return str(config['agent'])
 
 
 read_config = ReadConfig()
