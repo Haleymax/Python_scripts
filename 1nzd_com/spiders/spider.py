@@ -1,7 +1,10 @@
+import csv
+import os.path
 import re
 
 import requests
 
+from all_path import data_path
 from config.read_config import read_config
 from spiders.regex import singer_page_regex, song_url_regex, music_page_url_regex, input_pattern_regex
 from util.download import start_download_thread
@@ -49,7 +52,28 @@ class MusicWeb(Request):
         music_link =input_pattern_regex.findall(self.respon.text)[0]
         self.mp3_link_dick[self.name] = music_link
         logger.info(f"start download {self.name}")
+        self.mp3_link_dick[self.name] = music_link
         start_download_thread(music_link, self.name)
+
+    def save_date_to_csv(self):
+        csv_path = os.path.join(data_path,"mp3.csv")
+        try:
+            fieldnames = ['歌名', '下载链接']
+            with open(csv_path, mode="w", newline='', encoding='utf-8') as f:
+                writer = csv.DictWriter(f, fieldnames=fieldnames)
+
+                # 写入表头
+                writer.writeheader()
+
+                # 遍历字典并写入每行数据
+                for song_title, song_url in self.mp3_link_dick.items():
+                    row = {'歌名': song_title, '下载链接': song_url}
+                    writer.writerow(row)
+
+            logger.info(f"歌曲数据成功保存到 {csv_path}")
+
+        except Exception as e:
+            logger.warning(f"写入文件失败，原因：{e}")
 
 def star_spider():
     logger.info("___________开始爬虫___________")
@@ -59,6 +83,7 @@ def star_spider():
     spider.get_singer_page_info()
     spider.get_all_music_page_link()
     spider.get_all_music_link()
+    spider.save_date_to_csv()
     logger.info("___________爬取完毕___________")
 
 if __name__ == '__main__':
