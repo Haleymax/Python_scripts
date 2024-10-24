@@ -4,4 +4,5 @@ spider:
 
 mongodb:
   url: mongodb://127.0.0.1:27017/
+  database: spider
   collection: spider_db
