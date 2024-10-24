@@ -32,6 +32,11 @@ class ReadConfig:
         config_data = self.data["mongodb"]
         return str(config_data['url'])
 
+    def get_mongodb_database(self):
+        logger.info("读取mongodb的数据库")
+        config_data = self.data["mongodb"]
+        return str(config_data['database'])
+
     def get_mongodb_collection(self):
         logger.info("读取collection")
         config_data = self.data["mongodb"]
