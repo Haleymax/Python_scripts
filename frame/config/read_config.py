@@ -42,4 +42,24 @@ class ReadConfig:
         config_data = self.data["mongodb"]
         return str(config_data['collection'])
 
+    def get_mysql_host(self):
+        logger.info("读取MySQL主机地址")
+        config_data = self.data["mysql"]
+        return str(config_data['host'])
+
+    def get_mysql_port(self):
+        logger.info("读取MySQL的端口")
+        config_data = self.data["mysql"]
+        return str(config_data['port'])
+
+    def get_mysql_user(self):
+        logger.info("读取MySQL用户名")
+        config_data = self.data["mysql"]
+        return str(config_data['user'])
+
+    def get_mysql_password(self):
+        logger.info("读取MySQL密码")
+        config_data = self.data["mysql"]
+        return str(config_data['password'])
+
 read_config = ReadConfig()
