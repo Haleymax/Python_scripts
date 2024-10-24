@@ -6,3 +6,10 @@ mongodb:
   url: mongodb://127.0.0.1:27017/
   database: spider
   collection: spider_db
+
+
+mysql:
+  host: 127.0.0.1
+  password: root
+  port: 3306
+  user: root
