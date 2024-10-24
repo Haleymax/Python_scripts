@@ -1,0 +1,104 @@
+[2024-10-23 11:52:04,492][spider.py 79][INFO]: ___________开始爬虫___________
+[2024-10-23 11:52:04,492][read_config.py 20][INFO]: 读取目标网站的url
+[2024-10-23 11:52:10,592][spider.py 30][INFO]: get song: 想你就写信 (Live) , url:/music/509781655.html
+[2024-10-23 11:52:10,592][spider.py 30][INFO]: get song: 屋顶 , url:/music/5257138.html
+[2024-10-23 11:52:10,593][spider.py 30][INFO]: get song: 默 (Live) , url:/music/1888354230.html
+[2024-10-23 11:52:10,593][spider.py 30][INFO]: get song: 布拉格广场 , url:/music/210049.html
+[2024-10-23 11:52:10,593][spider.py 30][INFO]: get song: 因为爱情 (Live) , url:/music/490595315.html
+[2024-10-23 11:52:10,593][spider.py 30][INFO]: get song: 刀马旦 , url:/music/255020.html
+[2024-10-23 11:52:10,594][spider.py 30][INFO]: get song: 骑士精神 , url:/music/210062.html
+[2024-10-23 11:52:10,594][spider.py 30][INFO]: get song: 屋顶 (Live) , url:/music/1317494434.html
+[2024-10-23 11:52:10,594][spider.py 30][INFO]: get song: 沧海一声笑 (Live) , url:/music/490602328.html
+[2024-10-23 11:52:10,594][spider.py 30][INFO]: get song: 只有为你 + 安静 + 不管有多苦 + 满 + 我要夏天 (Live) , url:/music/421160888.html
+[2024-10-23 11:52:10,594][spider.py 30][INFO]: get song: 海盗 , url:/music/209917.html
+[2024-10-23 11:52:10,594][spider.py 30][INFO]: get song: 乌克丽丽 (Live) , url:/music/509781651.html
+[2024-10-23 11:52:10,594][spider.py 30][INFO]: get song: 康定情歌 , url:/music/288382.html
+[2024-10-23 11:52:10,595][spider.py 30][INFO]: get song: 布拉格广场 , url:/music/400162703.html
+[2024-10-23 11:52:10,595][spider.py 30][INFO]: get song: 布拉格广场 , url:/music/5234479.html
+[2024-10-23 11:52:10,595][spider.py 30][INFO]: get song: 一笑而过 + 你的背包 (Live) , url:/music/490602323.html
+[2024-10-23 11:52:10,595][spider.py 30][INFO]: get song: 让我一次爱个够 + 因为爱所以爱 + 抚仙湖 + 等你下课 + 霍元甲 + 万里长城永不倒 (Live) , url:/music/866049359.html
+[2024-10-23 11:52:10,595][spider.py 30][INFO]: get song: 布拉格广场 , url:/music/185790.html
+[2024-10-23 11:52:10,595][spider.py 30][INFO]: get song: 布拉格广场 , url:/music/209660.html
+[2024-10-23 11:52:10,595][spider.py 30][INFO]: get song: Try (Kung Fu Panda 3 Official Theme Song) , url:/music/400876427.html
+[2024-10-23 11:52:10,596][spider.py 30][INFO]: get song: 寸草春晖">是你的狐狸ya - 寸草春晖 , url:/music/1932814567.html
+[2024-10-23 11:52:10,596][spider.py 30][INFO]: get song: Mystic Tides of Peace and Oceanic Massage Harmony">Calming Waves Consort/Relaxing Asian Spa Music - Mystic Tides of Peace and Oceanic Massage Harmony , url:/music/2087524246.html
+[2024-10-23 11:52:10,596][spider.py 30][INFO]: get song: OUT OUT (feat. Charli XCX & Saweetie)">Joel Corry/Jax Jones - OUT OUT (feat. Charli XCX & Saweetie) , url:/music/1893635430.html
+[2024-10-23 11:52:10,596][spider.py 30][INFO]: get song: Down The Train">Cyclone Temple - Down The Train , url:/music/452814299.html
+[2024-10-23 11:52:10,596][spider.py 30][INFO]: get song: Pyi Thu Chit Tae Sit Thar Gyi Phay Phay">Thet Naung - Pyi Thu Chit Tae Sit Thar Gyi Phay Phay , url:/music/2087666261.html
+[2024-10-23 11:52:10,597][spider.py 30][INFO]: get song: 我在景德镇等你">徐千雅 - 我在景德镇等你 , url:/music/27561006.html
+[2024-10-23 11:52:10,597][spider.py 30][INFO]: get song: Six Pieces on One Theme, Op. 21: II. Fugue à 4 voix. Andante">Peter Donohoe - Six Pieces on One Theme, Op. 21: II. Fugue à 4 voix. Andante , url:/music/1407394199.html
+[2024-10-23 11:52:10,597][spider.py 30][INFO]: get song: Second Guess">Dan Croll - Second Guess , url:/music/2015648508.html
+[2024-10-23 11:52:10,597][spider.py 30][INFO]: get song: Bubbly Music for Sleeping Puppies">Piano Music for Dogs Playlist - Bubbly Music for Sleeping Puppies , url:/music/1844645755.html
+[2024-10-23 11:52:10,597][spider.py 30][INFO]: get song: FIGHT IT OUT (INSTRUMENTAL)">増田武史 - FIGHT IT OUT (INSTRUMENTAL) , url:/music/28812055.html
+[2024-10-23 11:52:10,597][spider.py 30][INFO]: get song: Passing Memories">Dux/Parker - Passing Memories , url:/music/2152009748.html
+[2024-10-23 11:52:10,597][spider.py 30][INFO]: get song: 君生吾未生">于毅 - 君生吾未生 , url:/music/411314395.html
+[2024-10-23 11:52:10,598][spider.py 30][INFO]: get song: Tiempo Tormentoso">Los Cinco Latinos - Tiempo Tormentoso , url:/music/1925206531.html
+[2024-10-23 11:52:10,598][spider.py 30][INFO]: get song: 33 Variations on a Waltz by Diabelli in C Major, Op. 120:Variation XVII">Anatol Ugorski - 33 Variations on a Waltz by Diabelli in C Major, Op. 120:Variation XVII , url:/music/1961699895.html
+[2024-10-23 11:52:10,598][spider.py 30][INFO]: get song: 雨の音がもたらすリラックスBGM">ヒーリング音楽おすすめ癒しBGM - 雨の音がもたらすリラックスBGM , url:/music/2604604716.html
+[2024-10-23 11:52:10,598][spider.py 30][INFO]: get song: 채석강의 절경">V.A. - 채석강의 절경 , url:/music/527480208.html
+[2024-10-23 11:52:11,368][spider.py 54][INFO]: start download  想你就写信 (Live)
+[2024-10-23 11:52:11,586][download.py 19][INFO]:  想你就写信 (Live) ,下载成功
+[2024-10-23 11:52:12,148][spider.py 54][INFO]: start download  屋顶
+[2024-10-23 11:52:12,342][download.py 19][INFO]:  屋顶 ,下载成功
+[2024-10-23 11:52:13,058][spider.py 54][INFO]: start download  默 (Live)
+[2024-10-23 11:52:13,157][download.py 19][INFO]:  默 (Live) ,下载成功
+[2024-10-23 11:52:13,824][spider.py 54][INFO]: start download  布拉格广场
+[2024-10-23 11:52:13,943][download.py 19][INFO]:  布拉格广场 ,下载成功
+[2024-10-23 11:52:14,496][spider.py 54][INFO]: start download  因为爱情 (Live)
+[2024-10-23 11:52:14,603][download.py 19][INFO]:  因为爱情 (Live) ,下载成功
+[2024-10-23 11:52:15,322][spider.py 54][INFO]: start download  刀马旦
+[2024-10-23 11:52:15,399][download.py 19][INFO]:  刀马旦 ,下载成功
+[2024-10-23 11:52:16,416][spider.py 54][INFO]: start download  骑士精神
+[2024-10-23 11:52:16,514][download.py 19][INFO]:  骑士精神 ,下载成功
+[2024-10-23 11:52:17,283][spider.py 54][INFO]: start download  屋顶 (Live)
+[2024-10-23 11:52:17,473][download.py 19][INFO]:  屋顶 (Live) ,下载成功
+[2024-10-23 11:52:18,014][spider.py 54][INFO]: start download  沧海一声笑 (Live)
+[2024-10-23 11:52:18,140][download.py 19][INFO]:  沧海一声笑 (Live) ,下载成功
+[2024-10-23 11:52:18,700][spider.py 54][INFO]: start download  只有为你 + 安静 + 不管有多苦 + 满 + 我要夏天 (Live)
+[2024-10-23 11:52:18,792][download.py 19][INFO]:  只有为你 + 安静 + 不管有多苦 + 满 + 我要夏天 (Live) ,下载成功
+[2024-10-23 11:52:19,793][spider.py 54][INFO]: start download  海盗
+[2024-10-23 11:52:19,857][download.py 19][INFO]:  海盗 ,下载成功
+[2024-10-23 11:52:20,666][spider.py 54][INFO]: start download  乌克丽丽 (Live)
+[2024-10-23 11:52:20,793][download.py 19][INFO]:  乌克丽丽 (Live) ,下载成功
+[2024-10-23 11:52:21,479][spider.py 54][INFO]: start download  康定情歌
+[2024-10-23 11:52:21,610][download.py 19][INFO]:  康定情歌 ,下载成功
+[2024-10-23 11:52:22,218][spider.py 54][INFO]: start download  一笑而过 + 你的背包 (Live)
+[2024-10-23 11:52:22,568][download.py 19][INFO]:  一笑而过 + 你的背包 (Live) ,下载成功
+[2024-10-23 11:52:23,001][spider.py 54][INFO]: start download  让我一次爱个够 + 因为爱所以爱 + 抚仙湖 + 等你下课 + 霍元甲 + 万里长城永不倒 (Live)
+[2024-10-23 11:52:23,209][download.py 19][INFO]:  让我一次爱个够 + 因为爱所以爱 + 抚仙湖 + 等你下课 + 霍元甲 + 万里长城永不倒 (Live) ,下载成功
+[2024-10-23 11:52:23,985][spider.py 54][INFO]: start download  Try (Kung Fu Panda 3 Official Theme Song)
+[2024-10-23 11:52:24,223][download.py 19][INFO]:  Try (Kung Fu Panda 3 Official Theme Song) ,下载成功
+[2024-10-23 11:52:25,151][spider.py 54][INFO]: start download  寸草春晖">是你的狐狸ya - 寸草春晖
+[2024-10-23 11:52:25,533][download.py 21][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ 寸草春晖">是你的狐狸ya - 寸草春晖.mp3'
+[2024-10-23 11:52:27,118][spider.py 54][INFO]: start download  Mystic Tides of Peace and Oceanic Massage Harmony">Calming Waves Consort/Relaxing Asian Spa Music - Mystic Tides of Peace and Oceanic Massage Harmony
+[2024-10-23 11:52:27,609][download.py 21][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ Mystic Tides of Peace and Oceanic Massage Harmony">Calming Waves Consort/Relaxing Asian Spa Music - Mystic Tides of Peace and Oceanic Massage Harmony.mp3'
+[2024-10-23 11:52:27,863][spider.py 54][INFO]: start download  OUT OUT (feat. Charli XCX & Saweetie)">Joel Corry/Jax Jones - OUT OUT (feat. Charli XCX & Saweetie)
+[2024-10-23 11:52:27,957][download.py 21][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ OUT OUT (feat. Charli XCX & Saweetie)">Joel Corry/Jax Jones - OUT OUT (feat. Charli XCX & Saweetie).mp3'
+[2024-10-23 11:52:28,802][spider.py 54][INFO]: start download  Down The Train">Cyclone Temple - Down The Train
+[2024-10-23 11:52:29,485][spider.py 54][INFO]: start download  Pyi Thu Chit Tae Sit Thar Gyi Phay Phay">Thet Naung - Pyi Thu Chit Tae Sit Thar Gyi Phay Phay
+[2024-10-23 11:52:30,288][spider.py 54][INFO]: start download  我在景德镇等你">徐千雅 - 我在景德镇等你
+[2024-10-23 11:52:30,453][download.py 21][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ 我在景德镇等你">徐千雅 - 我在景德镇等你.mp3'
+[2024-10-23 11:52:30,832][download.py 21][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ Down The Train">Cyclone Temple - Down The Train.mp3'
+[2024-10-23 11:52:31,329][spider.py 54][INFO]: start download  Six Pieces on One Theme, Op. 21: II. Fugue à 4 voix. Andante">Peter Donohoe - Six Pieces on One Theme, Op. 21: II. Fugue à 4 voix. Andante
+[2024-10-23 11:52:31,805][download.py 21][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ Pyi Thu Chit Tae Sit Thar Gyi Phay Phay">Thet Naung - Pyi Thu Chit Tae Sit Thar Gyi Phay Phay.mp3'
+[2024-10-23 11:52:32,296][spider.py 54][INFO]: start download  Second Guess">Dan Croll - Second Guess
+[2024-10-23 11:52:32,979][download.py 21][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ Six Pieces on One Theme, Op. 21: II. Fugue à 4 voix. Andante">Peter Donohoe - Six Pieces on One Theme, Op. 21: II. Fugue à 4 voix. Andante.mp3'
+[2024-10-23 11:52:33,031][download.py 21][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ Second Guess">Dan Croll - Second Guess.mp3'
+[2024-10-23 11:52:33,332][spider.py 54][INFO]: start download  Bubbly Music for Sleeping Puppies">Piano Music for Dogs Playlist - Bubbly Music for Sleeping Puppies
+[2024-10-23 11:52:33,604][download.py 21][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ Bubbly Music for Sleeping Puppies">Piano Music for Dogs Playlist - Bubbly Music for Sleeping Puppies.mp3'
+[2024-10-23 11:52:34,185][spider.py 54][INFO]: start download  FIGHT IT OUT (INSTRUMENTAL)">増田武史 - FIGHT IT OUT (INSTRUMENTAL)
+[2024-10-23 11:52:34,939][spider.py 54][INFO]: start download  Passing Memories">Dux/Parker - Passing Memories
+[2024-10-23 11:52:35,496][download.py 21][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ Passing Memories">Dux/Parker - Passing Memories.mp3'
+[2024-10-23 11:52:36,043][download.py 21][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ FIGHT IT OUT (INSTRUMENTAL)">増田武史 - FIGHT IT OUT (INSTRUMENTAL).mp3'
+[2024-10-23 11:52:36,800][spider.py 54][INFO]: start download  君生吾未生">于毅 - 君生吾未生
+[2024-10-23 11:52:36,963][download.py 21][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ 君生吾未生">于毅 - 君生吾未生.mp3'
+[2024-10-23 11:52:37,829][spider.py 54][INFO]: start download  Tiempo Tormentoso">Los Cinco Latinos - Tiempo Tormentoso
+[2024-10-23 11:52:38,449][download.py 21][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ Tiempo Tormentoso">Los Cinco Latinos - Tiempo Tormentoso.mp3'
+[2024-10-23 11:52:38,990][spider.py 54][INFO]: start download  33 Variations on a Waltz by Diabelli in C Major, Op. 120:Variation XVII">Anatol Ugorski - 33 Variations on a Waltz by Diabelli in C Major, Op. 120:Variation XVII
+[2024-10-23 11:52:39,389][download.py 21][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ 33 Variations on a Waltz by Diabelli in C Major, Op. 120:Variation XVII">Anatol Ugorski - 33 Variations on a Waltz by Diabelli in C Major, Op. 120:Variation XVII.mp3'
+[2024-10-23 11:52:39,998][spider.py 54][INFO]: start download  雨の音がもたらすリラックスBGM">ヒーリング音楽おすすめ癒しBGM - 雨の音がもたらすリラックスBGM
+[2024-10-23 11:52:40,501][download.py 21][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ 雨の音がもたらすリラックスBGM">ヒーリング音楽おすすめ癒しBGM - 雨の音がもたらすリラックスBGM.mp3'
+[2024-10-23 11:52:40,713][spider.py 54][INFO]: start download  채석강의 절경">V.A. - 채석강의 절경
+[2024-10-23 11:52:40,720][spider.py 73][INFO]: 歌曲数据成功保存到 D:\script\Python_scripts\1nzd_com\data\mp3.csv
+[2024-10-23 11:52:40,720][spider.py 87][INFO]: ___________爬取完毕___________
+[2024-10-23 11:52:42,216][download.py 21][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ 채석강의 절경">V.A. - 채석강의 절경.mp3'
