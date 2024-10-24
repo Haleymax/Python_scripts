@@ -1,0 +1,52 @@
+[2024-10-23 11:49:44,653][spider.py 79][INFO]: ___________开始爬虫___________
+[2024-10-23 11:49:44,654][read_config.py 20][INFO]: 读取目标网站的url
+[2024-10-23 11:49:51,211][spider.py 30][INFO]: get song: No Me Arrepiento de Este Amor">Gilda - No Me Arrepiento de Este Amor , url:/music/1358388533.html
+[2024-10-23 11:49:51,211][spider.py 30][INFO]: get song: Mystic Tides of Peace and Oceanic Massage Harmony">Calming Waves Consort/Relaxing Asian Spa Music - Mystic Tides of Peace and Oceanic Massage Harmony , url:/music/2087524246.html
+[2024-10-23 11:49:51,211][spider.py 30][INFO]: get song: I Wanna Be Happy (Rayan Myers Remix)">Sound Forces/Natune - I Wanna Be Happy (Rayan Myers Remix) , url:/music/1489340873.html
+[2024-10-23 11:49:51,211][spider.py 30][INFO]: get song: 山雀鸟">池塬/言泽宇（虚拟歌手） - 山雀鸟 , url:/music/2148738953.html
+[2024-10-23 11:49:51,212][spider.py 30][INFO]: get song: Dup Dup">EK - Dup Dup , url:/music/2633443361.html
+[2024-10-23 11:49:51,212][spider.py 30][INFO]: get song: 犯了错">2个女生 - 犯了错 , url:/music/363920.html
+[2024-10-23 11:49:51,212][spider.py 30][INFO]: get song: FIGHT IT OUT (INSTRUMENTAL)">増田武史 - FIGHT IT OUT (INSTRUMENTAL) , url:/music/28812055.html
+[2024-10-23 11:49:51,212][spider.py 30][INFO]: get song: Meat Hook">420onGod - Meat Hook , url:/music/2073098356.html
+[2024-10-23 11:49:51,212][spider.py 30][INFO]: get song: 只因是你">万能和弦 - 只因是你 , url:/music/1499829148.html
+[2024-10-23 11:49:51,212][spider.py 30][INFO]: get song: Wanna Do It">Mr Dubz - Wanna Do It , url:/music/1430658178.html
+[2024-10-23 11:49:51,212][spider.py 30][INFO]: get song: Romanzen fur Oboe und Klavier, Op. 94: III. Nicht schnell">Alexandre Gattet/Helene Tysman - Romanzen fur Oboe und Klavier, Op. 94: III. Nicht schnell , url:/music/1319869001.html
+[2024-10-23 11:49:51,212][spider.py 30][INFO]: get song: We´Re Not from This World">Artificial - We´Re Not from This World , url:/music/1430426259.html
+[2024-10-23 11:49:51,212][spider.py 30][INFO]: get song: 寻">余佳运 - 寻 , url:/music/2118161560.html
+[2024-10-23 11:49:51,212][spider.py 30][INFO]: get song: Quicksilver Girl">Steve Miller Band - Quicksilver Girl , url:/music/21704349.html
+[2024-10-23 11:49:51,212][spider.py 30][INFO]: get song: Last Flight to Reggae City">Tommy McCook/Stranger Cole - Last Flight to Reggae City , url:/music/563166665.html
+[2024-10-23 11:49:51,212][spider.py 30][INFO]: get song: This World Is No More">Reflexion - This World Is No More , url:/music/1446195700.html
+[2024-10-23 11:49:52,287][spider.py 54][INFO]: start download  No Me Arrepiento de Este Amor">Gilda - No Me Arrepiento de Este Amor
+[2024-10-23 11:49:52,994][spider.py 54][INFO]: start download  Mystic Tides of Peace and Oceanic Massage Harmony">Calming Waves Consort/Relaxing Asian Spa Music - Mystic Tides of Peace and Oceanic Massage Harmony
+[2024-10-23 11:49:53,545][spider.py 54][INFO]: start download  I Wanna Be Happy (Rayan Myers Remix)">Sound Forces/Natune - I Wanna Be Happy (Rayan Myers Remix)
+[2024-10-23 11:49:54,127][spider.py 54][INFO]: start download  山雀鸟">池塬/言泽宇（虚拟歌手） - 山雀鸟
+[2024-10-23 11:49:54,289][download.py 20][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ No Me Arrepiento de Este Amor">Gilda - No Me Arrepiento de Este Amor.mp3'
+[2024-10-23 11:49:54,629][download.py 20][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ Mystic Tides of Peace and Oceanic Massage Harmony">Calming Waves Consort/Relaxing Asian Spa Music - Mystic Tides of Peace and Oceanic Massage Harmony.mp3'
+[2024-10-23 11:49:54,927][spider.py 54][INFO]: start download  Dup Dup">EK - Dup Dup
+[2024-10-23 11:49:55,055][download.py 20][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ 山雀鸟">池塬/言泽宇（虚拟歌手） - 山雀鸟.mp3'
+[2024-10-23 11:49:55,416][spider.py 54][INFO]: start download  犯了错">2个女生 - 犯了错
+[2024-10-23 11:49:55,970][spider.py 54][INFO]: start download  FIGHT IT OUT (INSTRUMENTAL)">増田武史 - FIGHT IT OUT (INSTRUMENTAL)
+[2024-10-23 11:49:56,043][download.py 20][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ I Wanna Be Happy (Rayan Myers Remix)">Sound Forces/Natune - I Wanna Be Happy (Rayan Myers Remix).mp3'
+[2024-10-23 11:49:56,127][download.py 20][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ Dup Dup">EK - Dup Dup.mp3'
+[2024-10-23 11:49:56,585][spider.py 54][INFO]: start download  Meat Hook">420onGod - Meat Hook
+[2024-10-23 11:49:57,109][spider.py 54][INFO]: start download  只因是你">万能和弦 - 只因是你
+[2024-10-23 11:49:57,804][spider.py 54][INFO]: start download  Wanna Do It">Mr Dubz - Wanna Do It
+[2024-10-23 11:49:57,979][download.py 20][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ 犯了错">2个女生 - 犯了错.mp3'
+[2024-10-23 11:49:58,503][spider.py 54][INFO]: start download  Romanzen fur Oboe und Klavier, Op. 94: III. Nicht schnell">Alexandre Gattet/Helene Tysman - Romanzen fur Oboe und Klavier, Op. 94: III. Nicht schnell
+[2024-10-23 11:49:58,707][download.py 20][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ Meat Hook">420onGod - Meat Hook.mp3'
+[2024-10-23 11:49:59,413][spider.py 54][INFO]: start download  We´Re Not from This World">Artificial - We´Re Not from This World
+[2024-10-23 11:49:59,430][download.py 20][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ FIGHT IT OUT (INSTRUMENTAL)">増田武史 - FIGHT IT OUT (INSTRUMENTAL).mp3'
+[2024-10-23 11:50:00,187][spider.py 54][INFO]: start download  寻">余佳运 - 寻
+[2024-10-23 11:50:00,391][download.py 20][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ Wanna Do It">Mr Dubz - Wanna Do It.mp3'
+[2024-10-23 11:50:00,493][download.py 20][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ We´Re Not from This World">Artificial - We´Re Not from This World.mp3'
+[2024-10-23 11:50:00,848][spider.py 54][INFO]: start download  Quicksilver Girl">Steve Miller Band - Quicksilver Girl
+[2024-10-23 11:50:00,901][download.py 20][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ 寻">余佳运 - 寻.mp3'
+[2024-10-23 11:50:01,092][download.py 20][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ 只因是你">万能和弦 - 只因是你.mp3'
+[2024-10-23 11:50:01,611][download.py 20][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ Quicksilver Girl">Steve Miller Band - Quicksilver Girl.mp3'
+[2024-10-23 11:50:01,826][spider.py 54][INFO]: start download  Last Flight to Reggae City">Tommy McCook/Stranger Cole - Last Flight to Reggae City
+[2024-10-23 11:50:02,238][download.py 20][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ Last Flight to Reggae City">Tommy McCook/Stranger Cole - Last Flight to Reggae City.mp3'
+[2024-10-23 11:50:02,485][spider.py 54][INFO]: start download  This World Is No More">Reflexion - This World Is No More
+[2024-10-23 11:50:02,486][spider.py 73][INFO]: 歌曲数据成功保存到 D:\script\Python_scripts\1nzd_com\data\mp3.csv
+[2024-10-23 11:50:02,486][spider.py 87][INFO]: ___________爬取完毕___________
+[2024-10-23 11:50:03,547][download.py 20][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ This World Is No More">Reflexion - This World Is No More.mp3'
+[2024-10-23 11:50:05,766][download.py 20][WARNING]: write file faild because : [Errno 22] Invalid argument: 'D:\\script\\Python_scripts\\1nzd_com\\data\\mp3\\ Romanzen fur Oboe und Klavier, Op. 94: III. Nicht schnell">Alexandre Gattet/Helene Tysman - Romanzen fur Oboe und Klavier, Op. 94: III. Nicht schnell.mp3'
