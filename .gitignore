@@ -2,4 +2,5 @@ test/
 1nzd_com/log
 1nzd_com/test
 **/_pycache_
-.idea
+**/.idea
+**/log

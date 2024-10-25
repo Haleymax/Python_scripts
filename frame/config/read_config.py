@@ -62,4 +62,9 @@ class ReadConfig:
         config_data = self.data["mysql"]
         return str(config_data['password'])
 
+    def get_mysql_db(self):
+        logger.info("读取MySQL数据库名")
+        config_data = self.data["mysql"]
+        return str(config_data['database'])
+
 read_config = ReadConfig()
