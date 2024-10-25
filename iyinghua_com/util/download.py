@@ -11,8 +11,8 @@ def download(url, name):
     respone = requests.get(url)
     if respone.status_code == 200:
         name.replace(' ', '')
-        file_name = f"{name}.mp3"
-        file_path = os.path.join(data_path, "mp3", file_name)
+        file_name = f"{name}.mp4"
+        file_path = os.path.join(data_path, "mp4", file_name)
         try:
             with open(file_path, 'wb') as f:
                 f.write(respone.content)
