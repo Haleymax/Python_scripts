@@ -1,10 +1,9 @@
 import os
-from distutils.command.config import config
 
 import yaml
 
-from settings.all_path import config_path
-from util.logger import logger
+from iyinghua_com.settings.all_path import config_path
+from iyinghua_com.util.logger import logger
 
 config_file = os.path.join(config_path, "config.yml")
 
