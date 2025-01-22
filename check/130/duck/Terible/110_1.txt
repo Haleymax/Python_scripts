@@ -1,323 +1,324 @@
-2025/1/21 下午3:54:18  [info]   Webglhost Git CommitId: 819ecd3  Tue Jan 21 2025 15:54:18 GMT+0800 (中国标准时间)
-2025/1/21 下午3:54:18  [log]   欢迎使用 vConsole
-2025/1/21 下午3:54:19  [info]   run new_custom.js
-2025/1/21 下午3:54:19  [info]   {}
-2025/1/21 下午3:54:19  [info]   run tj-proxy.js
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur: require module: ["game.js"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:. require module: ["plugins/screen-adapter"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:. require module: ["weapp-adapter"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:. require module: ["unity-sdk/utils"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/conf"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/resType"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/resTypeOther"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:. require module: ["events"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:. require module: ["texture-config"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:. require module: ["unity-namespace"]
-2025/1/21 下午3:54:19  [info]   game starting {"renderer":"","isH5Plus":false,"abi":"arm64-v8a","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 12","version":"1.1.0","SDKVersion":"3.4.7","benchmarkLevel":32}
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:. require module: ["webgl.wasm.framework.unityweb"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:. require module: ["wasm-split.js"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:. require module: ["check-version"]
-2025/1/21 下午3:54:19  [info]   tj.getAccountInfoSync is returning mock data
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:. require module: ["import-func-index"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:. require module: ["unity-sdk/index"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/storage"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/userinfo"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/share"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
-2025/1/21 下午3:54:19  [info]   tj.showShareMenu method is not implemented
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/ad"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/response"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/audio/utils"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/utils"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["check-version"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/store"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/const"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/canvas"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/response"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/fs"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/response"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/file-info"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/open-data"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/util"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["plugin-config"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["events"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/cloud"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/response"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/audio/index"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/inner-audio"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/module-helper"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["check-version"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/store"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/utils"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/const"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/unity-audio"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["check-version"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/store"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/const"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/utils"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/common"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/store"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/utils"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/texture"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/canvas-context"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/fix"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/canvas-context"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/video"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/logger"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/game-club"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/sdk"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/camera"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/recorder"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/upload-file"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/game-recorder"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/chat"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/font/index"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk/font require module: ["unity-sdk/module-helper"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk/font require module: ["unity-sdk/utils"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk/font require module: ["unity-sdk/font/fix-cmap"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk/font require module: ["unity-sdk/font/read-metrics"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk/font require module: ["unity-sdk/font/util"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk/font require module: ["unity-sdk/font/split-sc"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk/font require module: ["unity-sdk/font/util"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/authorize"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/video/index"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk/video require module: ["check-version"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/mobileKeyboard/index"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/touch/index"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk/touch require module: ["unity-sdk/utils"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/TCPSocket/index"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk/TCPSocket require module: ["unity-sdk/utils"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/UDPSocket/index"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk/UDPSocket require module: ["unity-sdk/utils"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/bluetooth/index"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk/bluetooth require module: ["unity-sdk/utils"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/gyroscope/index"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:unity-sdk/gyroscope require module: ["unity-sdk/utils"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:. require module: ["check-version"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:. require module: ["plugin-config"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:. require module: ["unity-sdk/font/index"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur: require module: ["UnityPlugin/index"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/Objectvalues"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/Arrayincludes"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/Objectentries"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/regeneratorRuntime"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/typeof"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/construct"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/setPrototypeOf"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/isNativeReflectConstruct"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/slicedToArray"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/arrayWithHoles"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/iterableToArrayLimit"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/unsupportedIterableToArray"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/arrayLikeToArray"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/nonIterableRest"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/defineProperty"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/toPropertyKey"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/typeof"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/toPrimitive"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/typeof"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/createForOfIteratorHelper"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/unsupportedIterableToArray"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/typeof"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/toConsumableArray"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/arrayWithoutHoles"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/arrayLikeToArray"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/iterableToArray"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/unsupportedIterableToArray"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/nonIterableSpread"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/assertThisInitialized"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/inherits"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/setPrototypeOf"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/createSuper"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/getPrototypeOf"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/isNativeReflectConstruct"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/possibleConstructorReturn"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/typeof"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/assertThisInitialized"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/classCallCheck"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/createClass"]
-2025/1/21 下午3:54:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/toPropertyKey"]
-2025/1/21 下午3:54:19  [info]   tj.getAccountInfoSync is returning mock data
-2025/1/21 下午3:54:19  [log]   [minigamefe mgp]: inited
-2025/1/21 下午3:54:19  [warn]   [minigamfe mgp ]: 当前插件不支持 gameTransfer。
-2025/1/21 下午3:54:19  [warn]   [minigamefe mgp]: 当前环境不支持质量上报。
-2025/1/21 下午3:54:19  [info]   tj.getAccountInfoSync is returning mock data
-2025/1/21 下午3:54:19  [warn]   [PLUGIN WARN 15:54.19.794]  wxfile://usr/__GAME_FILE_CACHE目录不存在，创建目录
-2025/1/21 下午3:54:19  [info]   [PLUGIN LOG]  使用公共目录存储patch
-2025/1/21 下午3:54:19  [log]   [PLUGIN LOG 15:54.19.801]  使用公共目录存储patch
-2025/1/21 下午3:54:19  [warn]   [PLUGIN WARN 15:54.19.815]  [仅开发版/体验版生效]已开启最佳实践检测, 请前往github查阅说明文档:
+2025/1/22 下午2:36:59  [info]   Webglhost Git CommitId: 819ecd3  Wed Jan 22 2025 14:36:59 GMT+0800 (中国标准时间)
+2025/1/22 下午2:36:59  [log]   欢迎使用 vConsole
+2025/1/22 下午2:37:03  [info]   run new_custom.js
+2025/1/22 下午2:37:03  [info]   {}
+2025/1/22 下午2:37:03  [info]   run tj-proxy.js
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur: require module: ["game.js"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:. require module: ["plugins/screen-adapter"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:. require module: ["weapp-adapter"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:. require module: ["unity-sdk/utils"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/conf"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/resType"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/resTypeOther"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:. require module: ["events"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:. require module: ["texture-config"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:. require module: ["unity-namespace"]
+2025/1/22 下午2:37:03  [info]   game starting {"renderer":"","isH5Plus":false,"abi":"arm64-v8a","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 12","version":"1.1.0","SDKVersion":"3.4.7","benchmarkLevel":32}
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:. require module: ["webgl.wasm.framework.unityweb"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:. require module: ["wasm-split.js"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:. require module: ["check-version"]
+2025/1/22 下午2:37:03  [info]   tj.getAccountInfoSync is returning mock data
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:. require module: ["import-func-index"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:. require module: ["unity-sdk/index"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/storage"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/userinfo"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/share"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/22 下午2:37:03  [info]   tj.showShareMenu method is not implemented
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/ad"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/response"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/audio/utils"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/utils"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk/audio require module: ["check-version"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/store"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/const"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/canvas"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/response"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/fs"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/response"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/file-info"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/open-data"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/util"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["plugin-config"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["events"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/cloud"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/response"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/audio/index"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/inner-audio"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/module-helper"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk/audio require module: ["check-version"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/store"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/utils"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/const"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/unity-audio"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk/audio require module: ["check-version"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/store"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/const"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/utils"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/common"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/store"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/utils"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/texture"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/canvas-context"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/fix"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/canvas-context"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/video"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/logger"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/game-club"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/sdk"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/camera"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/recorder"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/upload-file"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/game-recorder"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/chat"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/font/index"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk/font require module: ["unity-sdk/module-helper"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk/font require module: ["unity-sdk/utils"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk/font require module: ["unity-sdk/font/fix-cmap"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk/font require module: ["unity-sdk/font/read-metrics"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk/font require module: ["unity-sdk/font/util"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk/font require module: ["unity-sdk/font/split-sc"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk/font require module: ["unity-sdk/font/util"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/authorize"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/video/index"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk/video require module: ["check-version"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/mobileKeyboard/index"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/touch/index"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk/touch require module: ["unity-sdk/utils"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/TCPSocket/index"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk/TCPSocket require module: ["unity-sdk/utils"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/UDPSocket/index"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk/UDPSocket require module: ["unity-sdk/utils"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/bluetooth/index"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk/bluetooth require module: ["unity-sdk/utils"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/gyroscope/index"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:unity-sdk/gyroscope require module: ["unity-sdk/utils"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:. require module: ["check-version"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:. require module: ["plugin-config"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:. require module: ["unity-sdk/font/index"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur: require module: ["UnityPlugin/index"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/Objectvalues"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/Arrayincludes"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/Objectentries"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/regeneratorRuntime"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/typeof"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/construct"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/setPrototypeOf"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/isNativeReflectConstruct"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/slicedToArray"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/arrayWithHoles"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/iterableToArrayLimit"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/unsupportedIterableToArray"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/arrayLikeToArray"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/nonIterableRest"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/defineProperty"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/toPropertyKey"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/typeof"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/toPrimitive"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/typeof"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/createForOfIteratorHelper"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/unsupportedIterableToArray"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/typeof"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/toConsumableArray"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/arrayWithoutHoles"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/arrayLikeToArray"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/iterableToArray"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/unsupportedIterableToArray"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/nonIterableSpread"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/assertThisInitialized"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/inherits"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/setPrototypeOf"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/createSuper"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/getPrototypeOf"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/isNativeReflectConstruct"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/possibleConstructorReturn"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/typeof"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/assertThisInitialized"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/classCallCheck"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/createClass"]
+2025/1/22 下午2:37:03  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/toPropertyKey"]
+2025/1/22 下午2:37:03  [info]   tj.getAccountInfoSync is returning mock data
+2025/1/22 下午2:37:03  [log]   [minigamefe mgp]: inited
+2025/1/22 下午2:37:03  [warn]   [minigamfe mgp ]: 当前插件不支持 gameTransfer。
+2025/1/22 下午2:37:03  [warn]   [minigamefe mgp]: 当前环境不支持质量上报。
+2025/1/22 下午2:37:03  [info]   tj.getAccountInfoSync is returning mock data
+2025/1/22 下午2:37:03  [warn]   [PLUGIN WARN 14:37.03.656]  wxfile://usr/__GAME_FILE_CACHE目录不存在，创建目录
+2025/1/22 下午2:37:03  [info]   [PLUGIN LOG]  使用公共目录存储patch
+2025/1/22 下午2:37:03  [log]   [PLUGIN LOG 14:37.03.664]  使用公共目录存储patch
+2025/1/22 下午2:37:03  [warn]   [PLUGIN WARN 14:37.03.680]  [仅开发版/体验版生效]已开启最佳实践检测, 请前往github查阅说明文档:
 https://github.com/wechat-miniprogram/minigame-unity-webgl-transform/blob/main/Design/PerformanceMonitor.md
-2025/1/21 下午3:54:19  [info]   [PLUGIN LOG]  缓存文件数= 0 ,总文件大小= 0
-2025/1/21 下午3:54:19  [log]   [PLUGIN LOG 15:54.19.884]  缓存文件数= 0 ,总文件大小= 0
-2025/1/21 下午3:54:19  [log]   [PLUGIN LOG] systemInfo= [object Object]
-2025/1/21 下午3:54:19  [log]   [PLUGIN LOG] check permission: coverview=true, gameTransfer=false, reportKeyValue=false
-2025/1/21 下午3:54:19  [info]   [PLUGIN LOG]  特性开关拉取超时，使用默认值
-2025/1/21 下午3:54:19  [log]   [PLUGIN LOG 15:54.19.914]  特性开关拉取超时，使用默认值
-2025/1/21 下午3:54:19  [info]   [PLUGIN LOG]  资源无缓存
-2025/1/21 下午3:54:19  [log]   [PLUGIN LOG 15:54.19.915]  资源无缓存
-2025/1/21 下午3:54:19  [info]   [PLUGIN LOG]  插件信息:  [object Object]
-2025/1/21 下午3:54:19  [log]   [PLUGIN LOG 15:54.19.916]  插件信息:  [object Object]
-2025/1/21 下午3:54:19  [warn]   Try to report [object Object]
-2025/1/21 下午3:54:19  [info]   [PLUGIN LOG]  开始下载wasm代码包
-2025/1/21 下午3:54:19  [log]   [PLUGIN LOG 15:54.19.920]  开始下载wasm代码包
-2025/1/21 下午3:54:19  [info]   [PLUGIN LOG]  通过CDN加载资源 c838f5a271847193.webgl.data.unityweb.bin.br
-2025/1/21 下午3:54:19  [log]   [PLUGIN LOG 15:54.19.922]  通过CDN加载资源 c838f5a271847193.webgl.data.unityweb.bin.br
-2025/1/21 下午3:54:19  [info]   [PLUGIN LOG]  首包资源无缓存，开始下载
-2025/1/21 下午3:54:19  [log]   [PLUGIN LOG 15:54.19.922]  首包资源无缓存，开始下载
-2025/1/21 下午3:54:19  [info]   [PLUGIN LOG]  资源包下载url：https://tap-miniapp-3rdparty-bj.oss-cn-beijing.aliyuncs.com/8370/duck/TapTap/webgl/c838f5a271847193.webgl.data.unityweb.bin.br
-2025/1/21 下午3:54:19  [log]   [PLUGIN LOG 15:54.19.923]  资源包下载url：https://tap-miniapp-3rdparty-bj.oss-cn-beijing.aliyuncs.com/8370/duck/TapTap/webgl/c838f5a271847193.webgl.data.unityweb.bin.br
-2025/1/21 下午3:54:19  [info]   [PLUGIN LOG]  使用主线程写文件
-2025/1/21 下午3:54:19  [log]   [PLUGIN LOG 15:54.19.987]  使用主线程写文件
-2025/1/21 下午3:54:20  [log]   js:buildRequire cur: require module: ["wasmcode/game.js"]
-2025/1/21 下午3:54:20  [info]   [PLUGIN TIME LOG 15:54.20.196] 下载wasm代码包: 276ms
-2025/1/21 下午3:54:20  [log]   [PLUGIN TIME LOG 15:54.20.196] 下载wasm代码包: 276ms
-2025/1/21 下午3:54:20  [info]   [PLUGIN LOG]  start invoke UnityModule
-2025/1/21 下午3:54:20  [log]   [PLUGIN LOG 15:54.20.204]  start invoke UnityModule
-2025/1/21 下午3:54:20  [info]   [PLUGIN LOG]  invoke UnityModule for il2cpp
-2025/1/21 下午3:54:20  [log]   [PLUGIN LOG 15:54.20.204]  invoke UnityModule for il2cpp
-2025/1/21 下午3:54:20  [warn]   navigator.mediaDevices not supported by this browser. Webcam access will not be available. Try hosting the page over HTTPS, because some browsers disable webcam access when insecure HTTP is being used.
-2025/1/21 下午3:54:20  [info]   [PLUGIN LOG]  addRunDependency:  wasm-instantiate
-2025/1/21 下午3:54:20  [log]   [PLUGIN LOG 15:54.20.245]  addRunDependency:  wasm-instantiate
-2025/1/21 下午3:54:20  [info]   [PLUGIN LOG]  addRunDependency:  wasm-preloadAssets
-2025/1/21 下午3:54:20  [log]   [PLUGIN LOG 15:54.20.245]  addRunDependency:  wasm-preloadAssets
-2025/1/21 下午3:54:20  [log]   in wasm-split instantiateWasm
-2025/1/21 下午3:54:20  [warn]   Try to report [object Object]
-2025/1/21 下午3:54:20  [info]   [PLUGIN TIME LOG 15:54.20.537] wasm编译耗时: 292ms
-2025/1/21 下午3:54:20  [log]   [PLUGIN TIME LOG 15:54.20.537] wasm编译耗时: 292ms
-2025/1/21 下午3:54:20  [info]   [PLUGIN LOG]  removeRunDependency:  wasm-instantiate
-2025/1/21 下午3:54:20  [log]   [PLUGIN LOG 15:54.20.538]  removeRunDependency:  wasm-instantiate
-2025/1/21 下午3:54:20  [warn]   Try to report [object Object]
-2025/1/21 下午3:54:20  [info]   [PLUGIN TIME LOG 15:54.20.568] 下载资源包耗时: 645ms
-2025/1/21 下午3:54:20  [log]   [PLUGIN TIME LOG 15:54.20.568] 下载资源包耗时: 645ms
-2025/1/21 下午3:54:20  [info]   [PLUGIN LOG]  data download size=undefined
-2025/1/21 下午3:54:20  [log]   [PLUGIN LOG 15:54.20.569]  data download size=undefined
-2025/1/21 下午3:54:20  [warn]   Try to report [object Object]
-2025/1/21 下午3:54:20  [info]   [PLUGIN TIME LOG 15:54.20.689] 解压资源包耗时: 103ms
-2025/1/21 下午3:54:20  [log]   [PLUGIN TIME LOG 15:54.20.689] 解压资源包耗时: 103ms
-2025/1/21 下午3:54:20  [info]   [PLUGIN LOG]  data decompressed size=8638655
-2025/1/21 下午3:54:20  [log]   [PLUGIN LOG 15:54.20.690]  data decompressed size=8638655
-2025/1/21 下午3:54:20  [info]   [PLUGIN LOG]  [datapackage] content= 85,110,105,116,121,87,101,98,68,97,116,97,49,46,48,0,240,0,0,0,240,0,0,0,111,46,7,0,12,0,0,0,100,97,116,97,46,117,110,105,116,121,51,100,95,47,7,0,246,4,0,0,29,0,0,0,82,117,110,116,105,109,101,73
-2025/1/21 下午3:54:20  [log]   [PLUGIN LOG 15:54.20.691]  [datapackage] content= 85,110,105,116,121,87,101,98,68,97,116,97,49,46,48,0,240,0,0,0,240,0,0,0,111,46,7,0,12,0,0,0,100,97,116,97,46,117,110,105,116,121,51,100,95,47,7,0,246,4,0,0,29,0,0,0,82,117,110,116,105,109,101,73
-2025/1/21 下午3:54:20  [warn]   Try to report [object Object]
-2025/1/21 下午3:54:20  [info]   [PLUGIN LOG]  [datapackage] fileSize=8638655, defaultSize=8638655, optimalSize=NaN
-2025/1/21 下午3:54:20  [log]   [PLUGIN LOG 15:54.20.711]  [datapackage] fileSize=8638655, defaultSize=8638655, optimalSize=NaN
-2025/1/21 下午3:54:20  [info]   [PLUGIN TIME LOG 15:54.20.719] 解析资源: 8ms
-2025/1/21 下午3:54:20  [log]   [PLUGIN TIME LOG 15:54.20.719] 解析资源: 8ms
-2025/1/21 下午3:54:20  [info]   [PLUGIN LOG]  removeRunDependency:  wasm-preloadAssets
-2025/1/21 下午3:54:20  [log]   [PLUGIN LOG 15:54.20.720]  removeRunDependency:  wasm-preloadAssets
-2025/1/21 下午3:54:20  [info]   [PLUGIN LOG]  no dependencies, invoke run
-2025/1/21 下午3:54:20  [log]   [PLUGIN LOG 15:54.20.720]  no dependencies, invoke run
-2025/1/21 下午3:54:20  [warn]   [PLUGIN WARN 15:54.20.720]  IndexedDB is not available. Data will not persist in cache and PlayerPrefs will not be saved.
-2025/1/21 下午3:54:20  [log]   [UnityMemory] Configuration Parameters - Can be set up in boot.config
-2025/1/21 下午3:54:20  [log]       "memorysetup-allocator-temp-initial-block-size-main=262144"
-2025/1/21 下午3:54:20  [log]       "memorysetup-allocator-temp-initial-block-size-worker=262144"
-2025/1/21 下午3:54:20  [log]       "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
-2025/1/21 下午3:54:20  [log]       "memorysetup-temp-allocator-size-audio-worker=65536"
-2025/1/21 下午3:54:20  [log]       "memorysetup-temp-allocator-size-background-worker=32768"
-2025/1/21 下午3:54:20  [log]       "memorysetup-bucket-allocator-granularity=16"
-2025/1/21 下午3:54:20  [log]       "memorysetup-bucket-allocator-bucket-count=8"
-2025/1/21 下午3:54:20  [log]       "memorysetup-bucket-allocator-block-size=4194304"
-2025/1/21 下午3:54:20  [log]       "memorysetup-bucket-allocator-block-count=1"
-2025/1/21 下午3:54:20  [log]       "memorysetup-main-allocator-block-size=16777216"
-2025/1/21 下午3:54:20  [log]       "memorysetup-thread-allocator-block-size=16777216"
-2025/1/21 下午3:54:20  [log]       "memorysetup-gfx-main-allocator-block-size=16777216"
-2025/1/21 下午3:54:20  [log]       "memorysetup-gfx-thread-allocator-block-size=16777216"
-2025/1/21 下午3:54:20  [log]       "memorysetup-cache-allocator-block-size=4194304"
-2025/1/21 下午3:54:20  [log]       "memorysetup-typetree-allocator-block-size=2097152"
-2025/1/21 下午3:54:20  [log]       "memorysetup-profiler-bucket-allocator-granularity=16"
-2025/1/21 下午3:54:20  [log]       "memorysetup-profiler-bucket-allocator-bucket-count=8"
-2025/1/21 下午3:54:20  [log]       "memorysetup-profiler-bucket-allocator-block-size=4194304"
-2025/1/21 下午3:54:20  [log]       "memorysetup-profiler-bucket-allocator-block-count=1"
-2025/1/21 下午3:54:20  [log]       "memorysetup-profiler-allocator-block-size=16777216"
-2025/1/21 下午3:54:20  [log]       "memorysetup-profiler-editor-allocator-block-size=1048576"
-2025/1/21 下午3:54:20  [log]       "memorysetup-temp-allocator-size-main=4194304"
-2025/1/21 下午3:54:20  [log]       "memorysetup-job-temp-allocator-block-size=2097152"
-2025/1/21 下午3:54:20  [log]       "memorysetup-job-temp-allocator-block-size-background=1048576"
-2025/1/21 下午3:54:20  [log]       "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
-2025/1/21 下午3:54:20  [log]   [PhysX] Initialized SinglethreadedTaskDispatcher.
-2025/1/21 下午3:54:20  [log]   Loading player data from data.unity3d
-2025/1/21 下午3:54:20  [log]   Initialize engine version: 2022.3.40f1c1 (0bae6c114c78)
-2025/1/21 下午3:54:20  [log]   Creating WebGL 1.0 context.
-2025/1/21 下午3:54:20  [log]   Renderer: Chromium
-2025/1/21 下午3:54:20  [log]   Vendor:   Qualcomm
-2025/1/21 下午3:54:20  [log]   Version:  OpenGL ES 2.0 (OpenGL ES 3.2 V@0502.0 (GIT@db3d445dbc, Ia06b22fa1a, 1633355031) (Date:10/04/21))
-2025/1/21 下午3:54:20  [log]   GLES:     2
-2025/1/21 下午3:54:20  [log]    WEBGL_depth_texture OES_texture_half_float_linear OES_texture_half_float WEBGL_compressed_texture_astc WEBGL_color_buffer_float OES_vertex_array_object OES_texture_float WEBGL_compressed_texture_etc1 OES_texture_float_linear OES_standard_derivatives WEBGL_compressed_texture_etc OES_element_index_uint EXT_disjoint_timer_query WEBGL_debug_renderer_info EXT_texture_filter_anisotropic EXT_sRGB EXT_color_buffer_half_float ANGLE_instanced_arrays GL_WEBGL_depth_texture GL_OES_texture_half_float_linear GL_OES_texture_half_float GL_WEBGL_compressed_texture_astc GL_WEBGL_color_buffer_float GL_OES_vertex_array_object GL_OES_texture_float GL_WEBGL_compressed_texture_etc1 GL_OES_texture_float_linear GL_OES_standard_derivatives GL_WEBGL_compressed_texture_etc GL_OES_element_index_uint GL_EXT_disjoint_timer_query GL_WEBGL_debug_renderer_info GL_EXT_texture_filter_anisotropic GL_EXT_sRGB GL_EXT_color_buffer_half_float GL_ANGLE_instanced_arrays
-2025/1/21 下午3:54:20  [log]   OPENGL LOG: Creating OpenGL ES 2.0 graphics device ; Context level  <OpenGL ES 2.0> ; Context handle 1
-2025/1/21 下午3:54:21  [log]   use wx WebAudio
-2025/1/21 下午3:54:21  [log]   Input Manager initialize...
-2025/1/21 下午3:54:21  [log]   [PhysX] Initialized SinglethreadedTaskDispatcher.
-2025/1/21 下午3:54:21  [log]   UnloadTime: 11.000000 ms
-2025/1/21 下午3:54:21  [info]   [PLUGIN TIME LOG 15:54.21.333] callMain耗时: 612ms
-2025/1/21 下午3:54:21  [log]   [PLUGIN TIME LOG 15:54.21.333] callMain耗时: 612ms
-2025/1/21 下午3:54:21  [info]   [PLUGIN TIME LOG 15:54.21.333] 游戏启动耗时: 1549ms
-2025/1/21 下午3:54:21  [log]   [PLUGIN TIME LOG 15:54.21.333] 游戏启动耗时: 1549ms
-2025/1/21 下午3:54:21  [info]   Skipping calledMainCb in UnityPlugin.
-2025/1/21 下午3:54:21  [warn]   Try to report [object Object]
-2025/1/21 下午3:54:23  [log]   [PLUGIN LOG] wait for func:  10662
-2025/1/21 下午3:54:23  [log]   [PLUGIN LOG] start instantiateSubWasm: needBlock  true
-2025/1/21 下午3:54:23  [log]   [PLUGIN LOG] start loadSubPackage wasmcode1
-2025/1/21 下午3:54:23  [log]   js:buildRequire cur: require module: ["wasmcode1/game.js"]
-2025/1/21 下午3:54:23  [log]   [PLUGIN LOG] 下载代码分包1完毕:  0.47 s
-2025/1/21 下午3:54:23  [info]   [PLUGIN LOG]  subwasm下载耗时  undefined
-2025/1/21 下午3:54:23  [log]   [PLUGIN LOG 15:54.23.645]  subwasm下载耗时  undefined
-2025/1/21 下午3:54:23  [log]   [PLUGIN LOG] start compileSubWasm: needBlock  true
-2025/1/21 下午3:54:23  [info]   [PLUGIN TIME LOG 15:54.23.645] 首次加载subwasm: 3860ms
-2025/1/21 下午3:54:23  [log]   [PLUGIN TIME LOG 15:54.23.645] 首次加载subwasm: 3860ms
-2025/1/21 下午3:54:23  [info]   [PLUGIN LOG]  subwasm编译耗时  349
-2025/1/21 下午3:54:23  [log]   [PLUGIN LOG 15:54.23.995]  subwasm编译耗时  349
-2025/1/21 下午3:54:23  [log]   [PLUGIN LOG] [PLUGIN SUBWASM LOG]subwasm loaded:  349
-2025/1/21 下午3:54:23  [log]   [PLUGIN LOG] await loadSubWasmPackage and callback:  0.82 s
-2025/1/21 下午3:54:24  [warn]   Try to report [object Object]
-2025/1/21 下午3:54:24  [warn]   [PLUGIN MONITOR]  frame=86; cost=918ms; runtime=2740ms
-2025/1/21 下午3:54:28  [warn]   [PLUGIN MONITOR]  frame=305; cost=730ms; runtime=7084ms
-2025/1/21 下午3:54:30  [warn]   [PLUGIN MONITOR]  frame=395; cost=567ms; runtime=9247ms
-2025/1/21 下午3:54:30  [log]   [PhysX] Initialized SinglethreadedTaskDispatcher.
-2025/1/21 下午3:54:30  [log]   UnloadTime: 11.000000 ms
-2025/1/21 下午3:54:31  [warn]   [PLUGIN MONITOR]  frame=400; cost=573ms; runtime=9919ms
-2025/1/21 下午3:54:31  [log]   Unloading 5 Unused Serialized files (Serialized files now loaded: 53)
-2025/1/21 下午3:54:31  [log]   Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 4142.
-2025/1/21 下午3:54:31  [log]   Total: 266.000000 ms (FindLiveObjects: 1.000000 ms CreateObjectMapping: 0.000000 ms MarkObjects: 263.000000 ms  DeleteObjects: 2.000000 ms)
+2025/1/22 下午2:37:03  [info]   [PLUGIN LOG]  缓存文件数= 0 ,总文件大小= 0
+2025/1/22 下午2:37:03  [log]   [PLUGIN LOG 14:37.03.758]  缓存文件数= 0 ,总文件大小= 0
+2025/1/22 下午2:37:03  [log]   [PLUGIN LOG] systemInfo= [object Object]
+2025/1/22 下午2:37:03  [log]   [PLUGIN LOG] check permission: coverview=true, gameTransfer=false, reportKeyValue=false
+2025/1/22 下午2:37:03  [info]   [PLUGIN LOG]  特性开关拉取超时，使用默认值
+2025/1/22 下午2:37:03  [log]   [PLUGIN LOG 14:37.03.779]  特性开关拉取超时，使用默认值
+2025/1/22 下午2:37:03  [info]   [PLUGIN LOG]  资源无缓存
+2025/1/22 下午2:37:03  [log]   [PLUGIN LOG 14:37.03.780]  资源无缓存
+2025/1/22 下午2:37:03  [info]   [PLUGIN LOG]  插件信息:  [object Object]
+2025/1/22 下午2:37:03  [log]   [PLUGIN LOG 14:37.03.781]  插件信息:  [object Object]
+2025/1/22 下午2:37:03  [warn]   Try to report [object Object]
+2025/1/22 下午2:37:03  [info]   [PLUGIN LOG]  开始下载wasm代码包
+2025/1/22 下午2:37:03  [log]   [PLUGIN LOG 14:37.03.786]  开始下载wasm代码包
+2025/1/22 下午2:37:03  [info]   [PLUGIN LOG]  通过CDN加载资源 c838f5a271847193.webgl.data.unityweb.bin.br
+2025/1/22 下午2:37:03  [log]   [PLUGIN LOG 14:37.03.788]  通过CDN加载资源 c838f5a271847193.webgl.data.unityweb.bin.br
+2025/1/22 下午2:37:03  [info]   [PLUGIN LOG]  首包资源无缓存，开始下载
+2025/1/22 下午2:37:03  [log]   [PLUGIN LOG 14:37.03.789]  首包资源无缓存，开始下载
+2025/1/22 下午2:37:03  [info]   [PLUGIN LOG]  资源包下载url：https://tap-miniapp-3rdparty-bj.oss-cn-beijing.aliyuncs.com/8370/duck/TapTap/webgl/c838f5a271847193.webgl.data.unityweb.bin.br
+2025/1/22 下午2:37:03  [log]   [PLUGIN LOG 14:37.03.790]  资源包下载url：https://tap-miniapp-3rdparty-bj.oss-cn-beijing.aliyuncs.com/8370/duck/TapTap/webgl/c838f5a271847193.webgl.data.unityweb.bin.br
+2025/1/22 下午2:37:03  [info]   [PLUGIN LOG]  使用主线程写文件
+2025/1/22 下午2:37:03  [log]   [PLUGIN LOG 14:37.03.879]  使用主线程写文件
+2025/1/22 下午2:37:04  [info]   [PLUGIN TIME LOG 14:37.04.376] 下载资源包耗时: 586ms
+2025/1/22 下午2:37:04  [log]   [PLUGIN TIME LOG 14:37.04.376] 下载资源包耗时: 586ms
+2025/1/22 下午2:37:04  [info]   [PLUGIN LOG]  data download size=undefined
+2025/1/22 下午2:37:04  [log]   [PLUGIN LOG 14:37.04.377]  data download size=undefined
+2025/1/22 下午2:37:04  [warn]   Try to report [object Object]
+2025/1/22 下午2:37:04  [info]   [PLUGIN TIME LOG 14:37.04.473] 解压资源包耗时: 95ms
+2025/1/22 下午2:37:04  [log]   [PLUGIN TIME LOG 14:37.04.473] 解压资源包耗时: 95ms
+2025/1/22 下午2:37:04  [info]   [PLUGIN LOG]  data decompressed size=8638655
+2025/1/22 下午2:37:04  [log]   [PLUGIN LOG 14:37.04.474]  data decompressed size=8638655
+2025/1/22 下午2:37:04  [info]   [PLUGIN LOG]  [datapackage] content= 85,110,105,116,121,87,101,98,68,97,116,97,49,46,48,0,240,0,0,0,240,0,0,0,111,46,7,0,12,0,0,0,100,97,116,97,46,117,110,105,116,121,51,100,95,47,7,0,246,4,0,0,29,0,0,0,82,117,110,116,105,109,101,73
+2025/1/22 下午2:37:04  [log]   [PLUGIN LOG 14:37.04.475]  [datapackage] content= 85,110,105,116,121,87,101,98,68,97,116,97,49,46,48,0,240,0,0,0,240,0,0,0,111,46,7,0,12,0,0,0,100,97,116,97,46,117,110,105,116,121,51,100,95,47,7,0,246,4,0,0,29,0,0,0,82,117,110,116,105,109,101,73
+2025/1/22 下午2:37:04  [warn]   Try to report [object Object]
+2025/1/22 下午2:37:04  [log]   js:buildRequire cur: require module: ["wasmcode/game.js"]
+2025/1/22 下午2:37:04  [info]   [PLUGIN TIME LOG 14:37.04.565] 下载wasm代码包: 779ms
+2025/1/22 下午2:37:04  [log]   [PLUGIN TIME LOG 14:37.04.565] 下载wasm代码包: 779ms
+2025/1/22 下午2:37:04  [warn]   Try to report [object Object]
+2025/1/22 下午2:37:04  [info]   [PLUGIN LOG]  start invoke UnityModule
+2025/1/22 下午2:37:04  [log]   [PLUGIN LOG 14:37.04.590]  start invoke UnityModule
+2025/1/22 下午2:37:04  [info]   [PLUGIN LOG]  invoke UnityModule for il2cpp
+2025/1/22 下午2:37:04  [log]   [PLUGIN LOG 14:37.04.590]  invoke UnityModule for il2cpp
+2025/1/22 下午2:37:04  [warn]   navigator.mediaDevices not supported by this browser. Webcam access will not be available. Try hosting the page over HTTPS, because some browsers disable webcam access when insecure HTTP is being used.
+2025/1/22 下午2:37:04  [info]   [PLUGIN LOG]  addRunDependency:  wasm-instantiate
+2025/1/22 下午2:37:04  [log]   [PLUGIN LOG 14:37.04.639]  addRunDependency:  wasm-instantiate
+2025/1/22 下午2:37:04  [info]   [PLUGIN LOG]  addRunDependency:  wasm-preloadAssets
+2025/1/22 下午2:37:04  [log]   [PLUGIN LOG 14:37.04.640]  addRunDependency:  wasm-preloadAssets
+2025/1/22 下午2:37:04  [log]   in wasm-split instantiateWasm
+2025/1/22 下午2:37:04  [info]   [PLUGIN LOG]  [datapackage] fileSize=8638655, defaultSize=8638655, optimalSize=NaN
+2025/1/22 下午2:37:04  [log]   [PLUGIN LOG 14:37.04.713]  [datapackage] fileSize=8638655, defaultSize=8638655, optimalSize=NaN
+2025/1/22 下午2:37:04  [info]   [PLUGIN TIME LOG 14:37.04.722] 解析资源: 9ms
+2025/1/22 下午2:37:04  [log]   [PLUGIN TIME LOG 14:37.04.722] 解析资源: 9ms
+2025/1/22 下午2:37:04  [info]   [PLUGIN LOG]  removeRunDependency:  wasm-preloadAssets
+2025/1/22 下午2:37:04  [log]   [PLUGIN LOG 14:37.04.723]  removeRunDependency:  wasm-preloadAssets
+2025/1/22 下午2:37:04  [info]   [PLUGIN TIME LOG 14:37.04.949] wasm编译耗时: 309ms
+2025/1/22 下午2:37:04  [log]   [PLUGIN TIME LOG 14:37.04.949] wasm编译耗时: 309ms
+2025/1/22 下午2:37:04  [info]   [PLUGIN LOG]  removeRunDependency:  wasm-instantiate
+2025/1/22 下午2:37:04  [log]   [PLUGIN LOG 14:37.04.950]  removeRunDependency:  wasm-instantiate
+2025/1/22 下午2:37:04  [info]   [PLUGIN LOG]  no dependencies, invoke run
+2025/1/22 下午2:37:04  [log]   [PLUGIN LOG 14:37.04.950]  no dependencies, invoke run
+2025/1/22 下午2:37:04  [warn]   [PLUGIN WARN 14:37.04.950]  IndexedDB is not available. Data will not persist in cache and PlayerPrefs will not be saved.
+2025/1/22 下午2:37:04  [log]   [UnityMemory] Configuration Parameters - Can be set up in boot.config
+2025/1/22 下午2:37:04  [log]       "memorysetup-allocator-temp-initial-block-size-main=262144"
+2025/1/22 下午2:37:04  [log]       "memorysetup-allocator-temp-initial-block-size-worker=262144"
+2025/1/22 下午2:37:04  [log]       "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+2025/1/22 下午2:37:04  [log]       "memorysetup-temp-allocator-size-audio-worker=65536"
+2025/1/22 下午2:37:04  [log]       "memorysetup-temp-allocator-size-background-worker=32768"
+2025/1/22 下午2:37:04  [log]       "memorysetup-bucket-allocator-granularity=16"
+2025/1/22 下午2:37:04  [log]       "memorysetup-bucket-allocator-bucket-count=8"
+2025/1/22 下午2:37:04  [log]       "memorysetup-bucket-allocator-block-size=4194304"
+2025/1/22 下午2:37:04  [log]       "memorysetup-bucket-allocator-block-count=1"
+2025/1/22 下午2:37:04  [log]       "memorysetup-main-allocator-block-size=16777216"
+2025/1/22 下午2:37:04  [log]       "memorysetup-thread-allocator-block-size=16777216"
+2025/1/22 下午2:37:04  [log]       "memorysetup-gfx-main-allocator-block-size=16777216"
+2025/1/22 下午2:37:04  [log]       "memorysetup-gfx-thread-allocator-block-size=16777216"
+2025/1/22 下午2:37:04  [log]       "memorysetup-cache-allocator-block-size=4194304"
+2025/1/22 下午2:37:04  [log]       "memorysetup-typetree-allocator-block-size=2097152"
+2025/1/22 下午2:37:04  [log]       "memorysetup-profiler-bucket-allocator-granularity=16"
+2025/1/22 下午2:37:04  [log]       "memorysetup-profiler-bucket-allocator-bucket-count=8"
+2025/1/22 下午2:37:05  [log]       "memorysetup-profiler-bucket-allocator-block-size=4194304"
+2025/1/22 下午2:37:05  [log]       "memorysetup-profiler-bucket-allocator-block-count=1"
+2025/1/22 下午2:37:05  [log]       "memorysetup-profiler-allocator-block-size=16777216"
+2025/1/22 下午2:37:05  [log]       "memorysetup-profiler-editor-allocator-block-size=1048576"
+2025/1/22 下午2:37:05  [log]       "memorysetup-temp-allocator-size-main=4194304"
+2025/1/22 下午2:37:05  [log]       "memorysetup-job-temp-allocator-block-size=2097152"
+2025/1/22 下午2:37:05  [log]       "memorysetup-job-temp-allocator-block-size-background=1048576"
+2025/1/22 下午2:37:05  [log]       "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+2025/1/22 下午2:37:05  [log]   [PhysX] Initialized SinglethreadedTaskDispatcher.
+2025/1/22 下午2:37:05  [log]   Loading player data from data.unity3d
+2025/1/22 下午2:37:05  [log]   Initialize engine version: 2022.3.40f1c1 (0bae6c114c78)
+2025/1/22 下午2:37:05  [log]   Creating WebGL 1.0 context.
+2025/1/22 下午2:37:05  [log]   Renderer: Chromium
+2025/1/22 下午2:37:05  [log]   Vendor:   Qualcomm
+2025/1/22 下午2:37:05  [log]   Version:  OpenGL ES 2.0 (OpenGL ES 3.2 V@0502.0 (GIT@db3d445dbc, Ia06b22fa1a, 1633355031) (Date:10/04/21))
+2025/1/22 下午2:37:05  [log]   GLES:     2
+2025/1/22 下午2:37:05  [log]    WEBGL_depth_texture OES_texture_half_float_linear OES_texture_half_float WEBGL_compressed_texture_astc WEBGL_color_buffer_float OES_vertex_array_object OES_texture_float WEBGL_compressed_texture_etc1 OES_texture_float_linear OES_standard_derivatives WEBGL_compressed_texture_etc OES_element_index_uint EXT_disjoint_timer_query WEBGL_debug_renderer_info EXT_texture_filter_anisotropic EXT_sRGB EXT_color_buffer_half_float ANGLE_instanced_arrays GL_WEBGL_depth_texture GL_OES_texture_half_float_linear GL_OES_texture_half_float GL_WEBGL_compressed_texture_astc GL_WEBGL_color_buffer_float GL_OES_vertex_array_object GL_OES_texture_float GL_WEBGL_compressed_texture_etc1 GL_OES_texture_float_linear GL_OES_standard_derivatives GL_WEBGL_compressed_texture_etc GL_OES_element_index_uint GL_EXT_disjoint_timer_query GL_WEBGL_debug_renderer_info GL_EXT_texture_filter_anisotropic GL_EXT_sRGB GL_EXT_color_buffer_half_float GL_ANGLE_instanced_arrays
+2025/1/22 下午2:37:05  [log]   OPENGL LOG: Creating OpenGL ES 2.0 graphics device ; Context level  <OpenGL ES 2.0> ; Context handle 1
+2025/1/22 下午2:37:05  [log]   use wx WebAudio
+2025/1/22 下午2:37:05  [log]   Input Manager initialize...
+2025/1/22 下午2:37:05  [log]   [PhysX] Initialized SinglethreadedTaskDispatcher.
+2025/1/22 下午2:37:05  [log]   UnloadTime: 13.000000 ms
+2025/1/22 下午2:37:05  [info]   [PLUGIN TIME LOG 14:37.05.722] callMain耗时: 771ms
+2025/1/22 下午2:37:05  [log]   [PLUGIN TIME LOG 14:37.05.722] callMain耗时: 771ms
+2025/1/22 下午2:37:05  [info]   [PLUGIN TIME LOG 14:37.05.723] 游戏启动耗时: 2089ms
+2025/1/22 下午2:37:05  [log]   [PLUGIN TIME LOG 14:37.05.723] 游戏启动耗时: 2089ms
+2025/1/22 下午2:37:05  [info]   Skipping calledMainCb in UnityPlugin.
+2025/1/22 下午2:37:05  [warn]   Try to report [object Object]
+2025/1/22 下午2:37:08  [log]   [PLUGIN LOG] wait for func:  10662
+2025/1/22 下午2:37:08  [log]   [PLUGIN LOG] start instantiateSubWasm: needBlock  true
+2025/1/22 下午2:37:08  [log]   [PLUGIN LOG] start loadSubPackage wasmcode1
+2025/1/22 下午2:37:11  [log]   js:buildRequire cur: require module: ["wasmcode1/game.js"]
+2025/1/22 下午2:37:11  [log]   [PLUGIN LOG] 下载代码分包1完毕:  3.24 s
+2025/1/22 下午2:37:11  [info]   [PLUGIN LOG]  subwasm下载耗时  undefined
+2025/1/22 下午2:37:11  [log]   [PLUGIN LOG 14:37.11.292]  subwasm下载耗时  undefined
+2025/1/22 下午2:37:11  [log]   [PLUGIN LOG] start compileSubWasm: needBlock  true
+2025/1/22 下午2:37:11  [info]   [PLUGIN TIME LOG 14:37.11.293] 首次加载subwasm: 7659ms
+2025/1/22 下午2:37:11  [log]   [PLUGIN TIME LOG 14:37.11.293] 首次加载subwasm: 7659ms
+2025/1/22 下午2:37:11  [info]   [PLUGIN LOG]  subwasm编译耗时  426
+2025/1/22 下午2:37:11  [log]   [PLUGIN LOG 14:37.11.721]  subwasm编译耗时  426
+2025/1/22 下午2:37:11  [log]   [PLUGIN LOG] [PLUGIN SUBWASM LOG]subwasm loaded:  426
+2025/1/22 下午2:37:11  [log]   [PLUGIN LOG] await loadSubWasmPackage and callback:  3.67 s
+2025/1/22 下午2:37:11  [warn]   Try to report [object Object]
+2025/1/22 下午2:37:11  [warn]   [PLUGIN MONITOR]  frame=113; cost=3787ms; runtime=6103ms
+2025/1/22 下午2:37:16  [warn]   [PLUGIN MONITOR]  frame=321; cost=935ms; runtime=10506ms
+2025/1/22 下午2:37:18  [warn]   [PLUGIN MONITOR]  frame=404; cost=656ms; runtime=12641ms
+2025/1/22 下午2:37:18  [log]   [PhysX] Initialized SinglethreadedTaskDispatcher.
+2025/1/22 下午2:37:18  [log]   UnloadTime: 11.000000 ms
+2025/1/22 下午2:37:18  [warn]   [PLUGIN MONITOR]  frame=408; cost=560ms; runtime=13269ms
+2025/1/22 下午2:37:18  [log]   Unloading 5 Unused Serialized files (Serialized files now loaded: 53)
+2025/1/22 下午2:37:19  [info]   invoke reportMissFuncs
+2025/1/22 下午2:37:19  [log]   [WasmSplit Log]: Report split missing functions success.
+2025/1/22 下午2:37:19  [log]   Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 4142.
+2025/1/22 下午2:37:19  [log]   Total: 298.000000 ms (FindLiveObjects: 1.000000 ms CreateObjectMapping: 0.000000 ms MarkObjects: 294.000000 ms  DeleteObjects: 3.000000 ms)
 
-2025/1/21 下午3:54:31  [warn]   [PLUGIN MONITOR]  frame=402; cost=305ms; runtime=10246ms
-2025/1/21 下午3:54:31  [log]   Unloading 0 Unused Serialized files (Serialized files now loaded: 53)
-2025/1/21 下午3:54:31  [log]   Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 4157.
-2025/1/21 下午3:54:31  [log]   Total: 208.000000 ms (FindLiveObjects: 1.000000 ms CreateObjectMapping: 0.000000 ms MarkObjects: 207.000000 ms  DeleteObjects: 0.000000 ms)
+2025/1/22 下午2:37:19  [warn]   [PLUGIN MONITOR]  frame=410; cost=316ms; runtime=13601ms
+2025/1/22 下午2:37:19  [log]   Unloading 0 Unused Serialized files (Serialized files now loaded: 53)
+2025/1/22 下午2:37:19  [log]   Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 4157.
+2025/1/22 下午2:37:19  [log]   Total: 225.000000 ms (FindLiveObjects: 1.000000 ms CreateObjectMapping: 0.000000 ms MarkObjects: 224.000000 ms  DeleteObjects: 0.000000 ms)
 
-2025/1/21 下午3:54:31  [warn]   [PLUGIN MONITOR]  frame=405; cost=222ms; runtime=10502ms
-2025/1/21 下午3:54:32  [warn]   [PLUGIN MONITOR]  frame=451; cost=222ms; runtime=11512ms
-2025/1/21 下午3:54:34  [info]   invoke reportMissFuncs
-2025/1/21 下午3:54:34  [log]   [WasmSplit Log]: Report split missing functions success.
+2025/1/22 下午2:37:19  [warn]   [PLUGIN MONITOR]  frame=413; cost=238ms; runtime=13879ms
+2025/1/22 下午2:37:20  [warn]   [PLUGIN MONITOR]  frame=459; cost=231ms; runtime=14909ms
+2025/1/22 下午2:37:34  [info]   invoke reportMissFuncs
+2025/1/22 下午2:37:34  [log]   [WasmSplit Log]: Report split missing functions success.

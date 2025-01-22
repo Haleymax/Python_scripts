@@ -1,0 +1,390 @@
+2025/1/22 16:42:34  [info]   Webglhost Git CommitId: ac1c84a  Wed Jan 22 2025 16:42:34 GMT+0800 (中国标准时间)
+2025/1/22 16:42:34  [log]   欢迎使用 vConsole
+2025/1/22 16:42:35  [info]   run tj-proxy.js
+2025/1/22 16:42:35  [info]   game starting {"renderer":"","isH5Plus":false,"abi":"arm64-v8a","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","version":"1.0.0","SDKVersion":"3.4.7","benchmarkLevel":32}
+2025/1/22 16:42:35  [info]   tj.getAccountInfoSync is returning mock data
+2025/1/22 16:42:35  [error]   TypeError: Cannot read properties of undefined (reading 'default')
+    at GameContext/index.js:40454:7
+    at GameContext/helpers/module.js:45:24
+    at GameContext/index.js:17242:1
+    at GameContext/helpers/module.js:45:24
+    at GameContext/index.js:42345:1
+    at GameContext/index.js:42346:3
+2025/1/22 16:42:35  [log]   cdn request fail /241024192740/StreamingAssets/zeus_check.jsonrequest:fail invalid URL "/241024192740/StreamingAssets/zeus_check.json"
+2025/1/22 16:42:35  [log]   wx content on show 
+2025/1/22 16:42:35  [log]   wx.setKeepScreenOn success
+2025/1/22 16:42:35  [log]   代码分包1下载进度 10.19 0.90 MB 8.85 MB
+2025/1/22 16:42:35  [log]   代码分包1下载进度 20 1.77 MB 8.85 MB
+2025/1/22 16:42:35  [log]   代码分包1下载进度 30.22 2.68 MB 8.85 MB
+2025/1/22 16:42:35  [log]   代码分包1下载进度 40.07 3.55 MB 8.85 MB
+2025/1/22 16:42:35  [log]   代码分包1下载进度 50.98 4.51 MB 8.85 MB
+2025/1/22 16:42:35  [log]   代码分包1下载进度 60.13 5.32 MB 8.85 MB
+2025/1/22 16:42:35  [log]   代码分包1下载进度 70.42 6.24 MB 8.85 MB
+2025/1/22 16:42:35  [log]   代码分包1下载进度 80.11 7.09 MB 8.85 MB
+2025/1/22 16:42:35  [log]   cdn request success https://tla-1312733274.cos.ap-shanghai.myqcloud.com/dev/fyc/games/zhuxian/zx_1024/zeus/Web/TY_1_1023_59/241024192740/StreamingAssets/zeus_check.jsonzeus_check.json
+2025/1/22 16:42:35  [info]   tj.getAccountInfoSync is returning mock data
+2025/1/22 16:42:35  [log]   [minigamefe mgp]: inited
+2025/1/22 16:42:35  [warn]   [minigamfe mgp ]: 当前插件不支持 gameTransfer。
+2025/1/22 16:42:35  [warn]   [minigamefe mgp]: 当前环境不支持质量上报。
+2025/1/22 16:42:35  [info]   tj.getAccountInfoSync is returning mock data
+2025/1/22 16:42:35  [warn]   [PLUGIN WARN 16:42.35.870]  wxfile://usr/__GAME_FILE_CACHE目录不存在，创建目录
+2025/1/22 16:42:35  [info]   [PLUGIN LOG]  使用公共目录存储patch
+2025/1/22 16:42:35  [log]   [PLUGIN LOG 16:42.35.875]  使用公共目录存储patch
+2025/1/22 16:42:35  [warn]   [PLUGIN WARN 16:42.35.887]  [仅开发版/体验版生效]已开启最佳实践检测, 请前往github查阅说明文档:
+https://github.com/wechat-miniprogram/minigame-unity-webgl-transform/blob/main/Design/PerformanceMonitor.md
+2025/1/22 16:42:35  [info]   [PLUGIN LOG]  缓存文件数= 0 ,总文件大小= 0
+2025/1/22 16:42:35  [log]   [PLUGIN LOG 16:42.35.942]  缓存文件数= 0 ,总文件大小= 0
+2025/1/22 16:42:35  [log]   代码分包1下载进度 90.2 7.99 MB 8.85 MB
+2025/1/22 16:42:35  [log]   代码分包1下载进度 100 8.85 MB 8.85 MB
+2025/1/22 16:42:35  [log]   [PLUGIN LOG] systemInfo= [object Object]
+2025/1/22 16:42:35  [log]   [PLUGIN LOG] check permission: coverview=true, gameTransfer=false, reportKeyValue=false
+2025/1/22 16:42:35  [info]   [PLUGIN LOG]  特性开关拉取超时，使用默认值
+2025/1/22 16:42:35  [log]   [PLUGIN LOG 16:42.35.986]  特性开关拉取超时，使用默认值
+2025/1/22 16:42:35  [info]   [PLUGIN LOG]  资源无缓存
+2025/1/22 16:42:35  [log]   [PLUGIN LOG 16:42.35.988]  资源无缓存
+2025/1/22 16:42:35  [info]   [PLUGIN LOG]  插件信息:  [object Object]
+2025/1/22 16:42:35  [log]   [PLUGIN LOG 16:42.35.988]  插件信息:  [object Object]
+2025/1/22 16:42:35  [warn]   Try to report [object Object]
+2025/1/22 16:42:35  [info]   [PLUGIN LOG]  开始下载wasm代码包
+2025/1/22 16:42:35  [log]   [PLUGIN LOG 16:42.35.993]  开始下载wasm代码包
+2025/1/22 16:42:35  [info]   [PLUGIN LOG]  通过CDN加载资源 82b29ff25906898e.webgl.data.unityweb.bin.br
+2025/1/22 16:42:35  [log]   [PLUGIN LOG 16:42.35.994]  通过CDN加载资源 82b29ff25906898e.webgl.data.unityweb.bin.br
+2025/1/22 16:42:36  [info]   [PLUGIN LOG]  首包资源无缓存，开始下载
+2025/1/22 16:42:36  [log]   [PLUGIN LOG 16:42.35.995]  首包资源无缓存，开始下载
+2025/1/22 16:42:36  [info]   [PLUGIN LOG]  资源包下载url：https://tla-1312733274.cos.ap-shanghai.myqcloud.com/dev/fyc/games/zhuxian/zx_1024/zeus/Web/TY_1_1023_59/82b29ff25906898e.webgl.data.unityweb.bin.br
+2025/1/22 16:42:36  [log]   [PLUGIN LOG 16:42.35.996]  资源包下载url：https://tla-1312733274.cos.ap-shanghai.myqcloud.com/dev/fyc/games/zhuxian/zx_1024/zeus/Web/TY_1_1023_59/82b29ff25906898e.webgl.data.unityweb.bin.br
+2025/1/22 16:42:36  [info]   [PLUGIN LOG]  使用主线程写文件
+2025/1/22 16:42:36  [log]   [PLUGIN LOG 16:42.36.053]  使用主线程写文件
+2025/1/22 16:42:36  [log]   下载代码分包1完毕:  0.56 s
+2025/1/22 16:42:36  [info]   [PLUGIN TIME LOG 16:42.36.409] 下载wasm代码包: 417ms
+2025/1/22 16:42:36  [log]   [PLUGIN TIME LOG 16:42.36.409] 下载wasm代码包: 417ms
+2025/1/22 16:42:36  [info]   [PLUGIN LOG]  start invoke UnityModule
+2025/1/22 16:42:36  [log]   [PLUGIN LOG 16:42.36.416]  start invoke UnityModule
+2025/1/22 16:42:36  [info]   [PLUGIN LOG]  invoke UnityModule for il2cpp
+2025/1/22 16:42:36  [log]   [PLUGIN LOG 16:42.36.416]  invoke UnityModule for il2cpp
+2025/1/22 16:42:36  [log]   WebAssembly not available or WASM module could not be decoded; md5WASM will fall back to JavaScript
+2025/1/22 16:42:36  [warn]   navigator.mediaDevices not supported by this browser. Webcam access will not be available. Try hosting the page over HTTPS, because some browsers disable webcam access when insecure HTTP is being used.
+2025/1/22 16:42:36  [info]   [PLUGIN LOG]  addRunDependency:  wasm-instantiate
+2025/1/22 16:42:36  [log]   [PLUGIN LOG 16:42.36.447]  addRunDependency:  wasm-instantiate
+2025/1/22 16:42:36  [info]   [PLUGIN LOG]  addRunDependency:  wasm-preloadAssets
+2025/1/22 16:42:36  [log]   [PLUGIN LOG 16:42.36.447]  addRunDependency:  wasm-preloadAssets
+2025/1/22 16:42:36  [log]   in wasm-split instantiateWasm
+2025/1/22 16:42:36  [warn]   Try to report [object Object]
+2025/1/22 16:42:36  [log]   [PLUGIN LOG] no signal api, start instantiate sub wasm
+2025/1/22 16:42:36  [log]   [PLUGIN LOG] start instantiateSubWasm: needBlock  true
+2025/1/22 16:42:36  [log]   [PLUGIN LOG] start compileSubWasm: needBlock  true
+2025/1/22 16:42:36  [info]   [PLUGIN TIME LOG 16:42.36.776] 首次加载subwasm: 916ms
+2025/1/22 16:42:36  [log]   [PLUGIN TIME LOG 16:42.36.776] 首次加载subwasm: 916ms
+2025/1/22 16:42:36  [info]   [PLUGIN LOG]  subwasm在callmain完成前加载
+2025/1/22 16:42:36  [log]   [PLUGIN LOG 16:42.36.777]  subwasm在callmain完成前加载
+2025/1/22 16:42:37  [info]   invoke createSignal
+2025/1/22 16:42:37  [warn]   Try to report [object Object]
+2025/1/22 16:42:37  [info]   [PLUGIN TIME LOG 16:42.37.006] 下载资源包耗时: 1010ms
+2025/1/22 16:42:37  [log]   [PLUGIN TIME LOG 16:42.37.006] 下载资源包耗时: 1010ms
+2025/1/22 16:42:37  [info]   [PLUGIN LOG]  data download size=undefined
+2025/1/22 16:42:37  [log]   [PLUGIN LOG 16:42.37.006]  data download size=undefined
+2025/1/22 16:42:37  [warn]   Try to report [object Object]
+2025/1/22 16:42:37  [info]   [PLUGIN TIME LOG 16:42.37.339] 解压资源包耗时: 306ms
+2025/1/22 16:42:37  [log]   [PLUGIN TIME LOG 16:42.37.339] 解压资源包耗时: 306ms
+2025/1/22 16:42:37  [info]   [PLUGIN LOG]  data decompressed size=25662176
+2025/1/22 16:42:37  [log]   [PLUGIN LOG 16:42.37.340]  data decompressed size=25662176
+2025/1/22 16:42:37  [info]   [PLUGIN LOG]  [datapackage] content= 84,117,97,110,106,105,101,87,101,98,68,97,116,97,49,46,48,0,49,1,0,0,49,1,0,0,236,231,170,0,9,0,0,0,100,97,116,97,46,116,106,51,100,29,233,170,0,62,228,1,0,18,0,0,0,114,101,115,111,117,114,99,101,115
+2025/1/22 16:42:37  [log]   [PLUGIN LOG 16:42.37.340]  [datapackage] content= 84,117,97,110,106,105,101,87,101,98,68,97,116,97,49,46,48,0,49,1,0,0,49,1,0,0,236,231,170,0,9,0,0,0,100,97,116,97,46,116,106,51,100,29,233,170,0,62,228,1,0,18,0,0,0,114,101,115,111,117,114,99,101,115
+2025/1/22 16:42:37  [warn]   Try to report [object Object]
+2025/1/22 16:42:37  [info]   [PLUGIN LOG]  [datapackage] fileSize=25662176, defaultSize=25662176, optimalSize=NaN
+2025/1/22 16:42:37  [log]   [PLUGIN LOG 16:42.37.384]  [datapackage] fileSize=25662176, defaultSize=25662176, optimalSize=NaN
+2025/1/22 16:42:37  [info]   [PLUGIN TIME LOG 16:42.37.404] 解析资源: 20ms
+2025/1/22 16:42:37  [log]   [PLUGIN TIME LOG 16:42.37.404] 解析资源: 20ms
+2025/1/22 16:42:37  [info]   [PLUGIN LOG]  removeRunDependency:  wasm-preloadAssets
+2025/1/22 16:42:37  [log]   [PLUGIN LOG 16:42.37.404]  removeRunDependency:  wasm-preloadAssets
+2025/1/22 16:42:37  [info]   [PLUGIN LOG]  subwasm编译耗时  748
+2025/1/22 16:42:37  [log]   [PLUGIN LOG 16:42.37.525]  subwasm编译耗时  748
+2025/1/22 16:42:37  [log]   [PLUGIN LOG] [PLUGIN SUBWASM LOG]subwasm loaded:  748
+2025/1/22 16:42:37  [warn]   Try to report [object Object]
+2025/1/22 16:42:37  [info]   [PLUGIN TIME LOG 16:42.37.527] wasm编译耗时: 1080ms
+2025/1/22 16:42:37  [log]   [PLUGIN TIME LOG 16:42.37.527] wasm编译耗时: 1080ms
+2025/1/22 16:42:37  [info]   [PLUGIN LOG]  removeRunDependency:  wasm-instantiate
+2025/1/22 16:42:37  [log]   [PLUGIN LOG 16:42.37.527]  removeRunDependency:  wasm-instantiate
+2025/1/22 16:42:37  [info]   [PLUGIN LOG]  no dependencies, invoke run
+2025/1/22 16:42:37  [log]   [PLUGIN LOG 16:42.37.527]  no dependencies, invoke run
+2025/1/22 16:42:37  [warn]   [PLUGIN WARN 16:42.37.528]  IndexedDB is not available. Data will not persist in cache and PlayerPrefs will not be saved.
+2025/1/22 16:42:37  [log]   [Memory] Configuration Parameters - Can be set up in boot.config
+2025/1/22 16:42:37  [log]       "memorysetup-allocator-temp-initial-block-size-main=262144"
+2025/1/22 16:42:37  [log]       "memorysetup-allocator-temp-initial-block-size-worker=262144"
+2025/1/22 16:42:37  [log]       "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+2025/1/22 16:42:37  [log]       "memorysetup-temp-allocator-size-audio-worker=65536"
+2025/1/22 16:42:37  [log]       "memorysetup-temp-allocator-size-background-worker=32768"
+2025/1/22 16:42:37  [log]       "memorysetup-bucket-allocator-granularity=16"
+2025/1/22 16:42:37  [log]       "memorysetup-bucket-allocator-bucket-count=8"
+2025/1/22 16:42:37  [log]       "memorysetup-bucket-allocator-block-size=4194304"
+2025/1/22 16:42:37  [log]       "memorysetup-bucket-allocator-block-count=1"
+2025/1/22 16:42:37  [log]       "memorysetup-main-allocator-block-size=16777216"
+2025/1/22 16:42:37  [log]       "memorysetup-thread-allocator-block-size=16777216"
+2025/1/22 16:42:37  [log]       "memorysetup-gfx-main-allocator-block-size=16777216"
+2025/1/22 16:42:37  [log]       "memorysetup-gfx-thread-allocator-block-size=16777216"
+2025/1/22 16:42:37  [log]       "memorysetup-cache-allocator-block-size=4194304"
+2025/1/22 16:42:37  [log]       "memorysetup-typetree-allocator-block-size=2097152"
+2025/1/22 16:42:37  [log]       "memorysetup-profiler-bucket-allocator-granularity=16"
+2025/1/22 16:42:37  [log]       "memorysetup-profiler-bucket-allocator-bucket-count=8"
+2025/1/22 16:42:37  [log]       "memorysetup-profiler-bucket-allocator-block-size=4194304"
+2025/1/22 16:42:37  [log]       "memorysetup-profiler-bucket-allocator-block-count=1"
+2025/1/22 16:42:37  [log]       "memorysetup-profiler-allocator-block-size=16777216"
+2025/1/22 16:42:37  [log]       "memorysetup-profiler-editor-allocator-block-size=1048576"
+2025/1/22 16:42:37  [log]       "memorysetup-temp-allocator-size-main=4194304"
+2025/1/22 16:42:37  [log]       "memorysetup-job-temp-allocator-block-size=2097152"
+2025/1/22 16:42:37  [log]       "memorysetup-job-temp-allocator-block-size-background=1048576"
+2025/1/22 16:42:37  [log]       "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+2025/1/22 16:42:37  [log]   [No SIMD Support] - using scalar Math lib
+2025/1/22 16:42:37  [log]   [Physics::Module] Initialized SinglethreadedJobDispatcher.
+2025/1/22 16:42:37  [log]   Loading player data from data.tj3d
+2025/1/22 16:42:37  [log]   ************************** PlayerSettings verify successfully
+2025/1/22 16:42:37  [log]   Initialize engine version: 2022.3.27t1 (82279d59ff04)
+2025/1/22 16:42:37  [log]   Creating WebGL 2.0 context.
+2025/1/22 16:42:37  [log]   Renderer: Chromium
+2025/1/22 16:42:37  [log]   Vendor:   Qualcomm
+2025/1/22 16:42:37  [log]   Version:  OpenGL ES 3.0 (OpenGL ES 3.2 V@0502.0 (GIT@db3d445dbc, Ia06b22fa1a, 1633355031) (Date:10/04/21))
+2025/1/22 16:42:37  [log]   GLES:     3
+2025/1/22 16:42:37  [log]   GPUInfo:  Chromium
+2025/1/22 16:42:37  [log]    WEBGL_compressed_texture_etc1 WEBGL_debug_renderer_info WEBGL_compressed_texture_etc OVR_multiview2 OES_texture_float_linear EXT_texture_filter_anisotropic EXT_texture_norm16 WEBGL_compressed_texture_astc EXT_color_buffer_float EXT_disjoint_timer_query_webgl2 EXT_color_buffer_half_float GL_WEBGL_compressed_texture_etc1 GL_WEBGL_debug_renderer_info GL_WEBGL_compressed_texture_etc GL_OVR_multiview2 GL_OES_texture_float_linear GL_EXT_texture_filter_anisotropic GL_EXT_texture_norm16 GL_WEBGL_compressed_texture_astc GL_EXT_color_buffer_float GL_EXT_disjoint_timer_query_webgl2 GL_EXT_color_buffer_half_float
+2025/1/22 16:42:37  [log]   OPENGL LOG: Creating OpenGL ES 3.0 graphics device ; Context level  <OpenGL ES 3.0> ; Context handle 1
+2025/1/22 16:42:37  [log]   use wx WebAudio
+2025/1/22 16:42:38  [log]   Input Manager initialize...
+2025/1/22 16:42:38  [warn]   The referenced script on this Behaviour (Game Object 'GameObject') is missing!
+2025/1/22 16:42:38  [log]   [Physics::Module] Initialized SinglethreadedJobDispatcher.
+2025/1/22 16:42:38  [log]   UnloadTime: 6.000000 ms
+2025/1/22 16:42:38  [log]   512
+2025/1/22 16:42:38  [log]   600
+2025/1/22 16:42:38  [info]   [PLUGIN TIME LOG 16:42.38.180] callMain耗时: 652ms
+2025/1/22 16:42:38  [log]   [PLUGIN TIME LOG 16:42.38.180] callMain耗时: 652ms
+2025/1/22 16:42:38  [info]   [PLUGIN TIME LOG 16:42.38.180] 游戏启动耗时: 2319ms
+2025/1/22 16:42:38  [log]   [PLUGIN TIME LOG 16:42.38.180] 游戏启动耗时: 2319ms
+2025/1/22 16:42:38  [info]   Skipping calledMainCb in UnityPlugin.
+2025/1/22 16:42:38  [warn]   Try to report [object Object]
+2025/1/22 16:42:40  [log]    file not Exist PreloadFiles/241024192740/Bundles/WeixinMiniGame/zeusBundleManifest.txt
+2025/1/22 16:42:40  [log]    file not Exist PreloadFiles/241024192740/Bundles/WeixinMiniGame/unloadableBundles.txt
+2025/1/22 16:42:40  [log]    file not Exist PreloadFiles/241024192740/Bundles/WeixinMiniGame/bundle2Atlas.txt
+2025/1/22 16:42:40  [log]    file not Exist PreloadFiles/241024192740/Bundles/WeixinMiniGame/assetMapName.txt
+2025/1/22 16:42:40  [warn]   [PLUGIN MONITOR]  frame=120; cost=344ms; runtime=2368ms
+2025/1/22 16:42:40  [log]   CreateDirectory text to wxfile://usr/OuterPackage with r mkdir:ok
+2025/1/22 16:42:40  [log]   CreateDirectory text to wxfile://usr/OuterPackage/PreloadFiles with r mkdir:ok
+2025/1/22 16:42:40  [log]   CreateDirectory text to wxfile://usr/OuterPackage/PreloadFiles/241024192740 with r mkdir:ok
+2025/1/22 16:42:40  [log]   CreateDirectory text to wxfile://usr/OuterPackage/PreloadFiles/241024192740/Bundles with r mkdir:ok
+2025/1/22 16:42:40  [log]   CreateDirectory text to wxfile://usr/OuterPackage/PreloadFiles/241024192740/Bundles/WeixinMiniGame with r mkdir:ok
+2025/1/22 16:42:40  [log]   new rules
+2025/1/22 16:42:40  [log]   hash2Bundle Count: 29662 bundle Count: 21417
+2025/1/22 16:42:40  [log]   _LoadAssetMapFB 0.173
+2025/1/22 16:42:40  [log]   _LoadBundle2AtlasFB0.002
+2025/1/22 16:42:40  [log]   _LoadUnloadbleBundles count : 5157
+2025/1/22 16:42:40  [log]    file not Exist Bundles/WeixinMiniGame/zeusBundleParent.txt
+2025/1/22 16:42:40  [warn]   [PLUGIN MONITOR]  frame=125; cost=217ms; runtime=2671ms
+2025/1/22 16:42:40  [log]   GameStart !!!
+2025/1/22 16:42:40  [log]   wechat init call back with code 200
+2025/1/22 16:42:40  [info]   invoke reportEvent
+2025/1/22 16:42:40  [log]   WMOneMiniGameSDK-Unity: deviceJson:{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"","net":"","os":"2","sdk":"3.0.0"}
+2025/1/22 16:42:40  [log]   WMOneMiniGameSDK-Unity: customEvent:{"aid":"1290","batt":"","chn":"","cid":"","eid":"","k":"StartSDK","hint":"{}","loc":"","med":"5599","netw":"","oaid":"1290","plat":"9","scene":"","snid":"d52e587636a2c5699547165640e3b1c7","tid":"2","tvn":"3.0.0","ts":"1737535360927","to":"f18e326902cda36640855080e80a35af","typ":"1","vc":"3.0.0","we":""}
+2025/1/22 16:42:40  [log]   WMOneMiniGameSDK-Unity: uploadEventJson:{"device":{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"","net":"","os":"2","sdk":"3.0.0"},"events":[{"aid":"1290","batt":"","chn":"","cid":"","eid":"","k":"StartSDK","hint":"{}","loc":"","med":"5599","netw":"","oaid":"1290","plat":"9","scene":"","snid":"d52e587636a2c5699547165640e3b1c7","tid":"2","tvn":"3.0.0","ts":"1737535360927","to":"f18e326902cda36640855080e80a35af","typ":"1","vc":"3.0.0","we":""}]}
+2025/1/22 16:42:40  [log]   WMOneMiniGameSDK-Unity: 1737535360935Ja2wE127f5L7dFM131A16aU0mdh9I6nq{"device":{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"","net":"","os":"2","sdk":"3.0.0"},"events":[{"aid":"1290","batt":"","chn":"","cid":"","eid":"","k":"StartSDK","hint":"{}","loc":"","med":"5599","netw":"","oaid":"1290","plat":"9","scene":"","snid":"d52e587636a2c5699547165640e3b1c7","tid":"2","tvn":"3.0.0","ts":"1737535360927","to":"f18e326902cda36640855080e80a35af","typ":"1","vc":"3.0.0","we":""}]}
+2025/1/22 16:42:40  [log]   WX.SetKeepScreenOn successes
+2025/1/22 16:42:40  [log]   WMOneMiniGameSDK-Unity: GetLocalIPAddress success=> ip = 10.86.112.77
+2025/1/22 16:42:41  [log]   WMOneMiniGameSDK-Unity: GetLocalIPAddress complete=> complete = getLocalIPAddress:ok
+2025/1/22 16:42:41  [warn]   [PLUGIN MONITOR]  frame=126; cost=121ms; runtime=2792ms
+2025/1/22 16:42:41  [log]   WMOneMiniGameSDK-Unity: WMNetService UnityWebRequest
+https://clientlog.wanmei.com/rc?aid=1290&tid=2 
+response：{"msg":"ok","data":null,"Result":"0"}
+2025/1/22 16:42:41  [log]   WMOneMiniGameSDK-Unity: deviceJson:{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"}
+2025/1/22 16:42:41  [log]   WMOneMiniGameSDK-Unity: customEvent:{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"01_GameStart","hint":"{"info":"01_GameStart","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"5599","netw":"","oaid":"1290","plat":"9","scene":"","snid":"393fabd3982c5d25e11d2b7cc6598703","tid":"2","tvn":"3.0.0","ts":"1737535361271","to":"a06ba55f2be0996b2a449ecbf6623426","typ":"1","vc":"3.0.0","we":""}
+2025/1/22 16:42:41  [log]   WMOneMiniGameSDK-Unity: uploadEventJson:{"device":{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"},"events":[{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"01_GameStart","hint":"{"info":"01_GameStart","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"5599","netw":"","oaid":"1290","plat":"9","scene
+2025/1/22 16:42:41  [log]   WMOneMiniGameSDK-Unity: 1737535361279Ja2wE127f5L7dFM131A16aU0mdh9I6nq{"device":{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"},"events":[{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"01_GameStart","hint":"{"info":"01_GameStart","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"5599","netw":"","o
+2025/1/22 16:42:41  [log]   WMOneMiniGameSDK-Unity: WMNetService UnityWebRequest
+https://clientlog.wanmei.com/rc?aid=1290&tid=2 
+response：{"msg":"ok","data":null,"Result":"0"}
+2025/1/22 16:42:41  [log]   WMOneMiniGameSDK-Unity: deviceJson:{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"}
+2025/1/22 16:42:41  [log]   WMOneMiniGameSDK-Unity: customEvent:{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"GameResListReqBegin","hint":"{"info":"GameResListReqBegin","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"5599","netw":"","oaid":"1290","plat":"9","scene":"","snid":"4a1f79d3852f56349892a22097df6c37","tid":"2","tvn":"3.0.0","ts":"1737535361684","to":"69f39c185c3854991bf69f387bcbc618","typ":"1","vc":"3.0.0","we":""}
+2025/1/22 16:42:41  [log]   WMOneMiniGameSDK-Unity: uploadEventJson:{"device":{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"},"events":[{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"GameResListReqBegin","hint":"{"info":"GameResListReqBegin","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"5599","netw":"","oaid":"1290","pl
+2025/1/22 16:42:41  [log]   WMOneMiniGameSDK-Unity: 1737535361691Ja2wE127f5L7dFM131A16aU0mdh9I6nq{"device":{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"},"events":[{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"GameResListReqBegin","hint":"{"info":"GameResListReqBegin","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"5599
+2025/1/22 16:42:41  [log]   WMOneMiniGameSDK-Unity: WMNetService UnityWebRequest
+https://clientlog.wanmei.com/rc?aid=1290&tid=2 
+response：{"msg":"ok","data":null,"Result":"0"}
+2025/1/22 16:42:42  [log]   WMOneMiniGameSDK-Unity: deviceJson:{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"}
+2025/1/22 16:42:42  [log]   WMOneMiniGameSDK-Unity: customEvent:{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"gameUpdateAssetBegin","hint":"{"info":"gameUpdateAssetBegin","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"5599","netw":"","oaid":"1290","plat":"9","scene":"","snid":"e03d0599144a05659ce5e64541e2053f","tid":"2","tvn":"3.0.0","ts":"1737535362130","to":"e3a01f1c24837c39337c464e4bfa88c4","typ":"1","vc":"3.0.0","we":""}
+2025/1/22 16:42:42  [log]   WMOneMiniGameSDK-Unity: uploadEventJson:{"device":{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"},"events":[{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"gameUpdateAssetBegin","hint":"{"info":"gameUpdateAssetBegin","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"5599","netw":"","oaid":"1290","
+2025/1/22 16:42:42  [log]   WMOneMiniGameSDK-Unity: 1737535362137Ja2wE127f5L7dFM131A16aU0mdh9I6nq{"device":{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"},"events":[{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"gameUpdateAssetBegin","hint":"{"info":"gameUpdateAssetBegin","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"55
+2025/1/22 16:42:42  [info]   invoke reportEvent
+2025/1/22 16:42:42  [log]   WMOneMiniGameSDK-Unity: deviceJson:{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"}
+2025/1/22 16:42:42  [log]   WMOneMiniGameSDK-Unity: customEvent:{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"loginBegin","hint":"{"ndid":"5f9b0e37-2103-4c76-a19f-2643767faece"}","loc":"","med":"5599","netw":"","oaid":"1290","plat":"9","scene":"","snid":"5e56be51c58f5290165259a28ce2fa98","tid":"2","tvn":"3.0.0","ts":"1737535362152","to":"1889556597fdc5877a357096f3ecdda8","typ":"1","vc":"3.0.0","we":""}
+2025/1/22 16:42:42  [log]   WMOneMiniGameSDK-Unity: uploadEventJson:{"device":{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"},"events":[{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"loginBegin","hint":"{"ndid":"5f9b0e37-2103-4c76-a19f-2643767faece"}","loc":"","med":"5599","netw":"","oaid":"1290","plat":"9","scene":"","snid":"5e56be51c58f5290165259a28ce2fa98","tid":"2","tvn":"3.0.0","ts":"1737535362152","to":"1889556597fdc5877a357096f3ecdda8","typ":"1","vc":"3.0.0","we":""}]}
+2025/1/22 16:42:42  [log]   WMOneMiniGameSDK-Unity: 1737535362159Ja2wE127f5L7dFM131A16aU0mdh9I6nq{"device":{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"},"events":[{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"loginBegin","hint":"{"ndid":"5f9b0e37-2103-4c76-a19f-2643767faece"}","loc":"","med":"5599","netw":"","oaid":"1290","plat":"9","scene":"","snid":"5e56be51c58f5290165259a28ce2fa98","tid":"2","tvn":"3.0.0","ts":"1737535362152","to":"1889556597fdc5877a357096f3ecdda8","typ":"1","vc":"3.0.0","we":""}]}
+2025/1/22 16:42:42  [log]   WMOneMiniGameSDK-Unity: laohu uid: token:
+2025/1/22 16:42:42  [log]   WMOneMiniGameSDK-Unity: 微信登录成功:
+2025/1/22 16:42:42  [log]   WMOneMiniGameSDK-Unity: LaoHuNetService LaohuSign:adm = 
+appId = 10505
+bid = 10505
+channelId = 5599
+code = 200
+deviceId = 5f9b0e37-2103-4c76-a19f-2643767faece
+deviceModel = M2012K11AC
+deviceName = 
+deviceSys = Android 13
+deviceType = Redmi
+t = 1737535362
+2025/1/22 16:42:42  [log]   WMOneMiniGameSDK-Unity: 登录完成，失败成功都会执行:
+2025/1/22 16:42:42  [log]   WMOneMiniGameSDK-Unity: WMNetService UnityWebRequest
+https://clientlog.wanmei.com/rc?aid=1290&tid=2 
+response：{"msg":"ok","data":null,"Result":"0"}
+2025/1/22 16:42:42  [log]   WMOneMiniGameSDK-Unity: WMNetService UnityWebRequest
+https://user.laohu.com/m/newThird/wxMiniProgramLogin 
+response：{"code":1,"message":"登陆失败","result":null}
+2025/1/22 16:42:42  [log]   WMOneMiniGameSDK-Unity: LaoHuNetService WX LoginResult:{"code":1,"message":"登陆失败","result":null}
+2025/1/22 16:42:42  [log]   OnLoginFail :1 errMsg: 登陆失败
+2025/1/22 16:42:42  [info]   invoke reportEvent
+2025/1/22 16:42:42  [log]   WMOneMiniGameSDK-Unity: deviceJson:{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"}
+2025/1/22 16:42:42  [log]   WMOneMiniGameSDK-Unity: customEvent:{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"loginFailSDK","hint":"{"type":"weixin","loginway":"user","error":"code = 1 msg = 登陆失败"}","loc":"","med":"5599","netw":"","oaid":"1290","plat":"9","scene":"","snid":"692be0a55561f3122bb1f5c8fb01b1b2","tid":"2","tvn":"3.0.0","ts":"1737535362491","to":"d6759e2907409a2af944319347e811d8","typ":"1","vc":"3.0.0","we":""}
+2025/1/22 16:42:42  [log]   WMOneMiniGameSDK-Unity: uploadEventJson:{"device":{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"},"events":[{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"loginFailSDK","hint":"{"type":"weixin","loginway":"user","error":"code = 1 msg = 登陆失败"}","loc":"","med":"5599","netw":"","oaid":"1290","plat":"9","scene":"","snid":"692be0a55561f3122bb1f5c8fb01b1b2","tid":"2","tvn":"3.0.0","ts":"1737535362491","to":"d6759e2907409a2af944319347e811d8","typ":"1","vc":"3.0.0","we":""}]}
+2025/1/22 16:42:42  [log]   WMOneMiniGameSDK-Unity: 1737535362498Ja2wE127f5L7dFM131A16aU0mdh9I6nq{"device":{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"},"events":[{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"loginFailSDK","hint":"{"type":"weixin","loginway":"user","error":"code = 1 msg = 登陆失败"}","loc":"","med":"5599","netw":"","oaid":"1290","plat":"9","scene":"","snid":"692be0a55561f3122bb1f5c8fb01b1b2","tid":"2","tvn":"3.0.0","ts":"1737535362491","to":"d6759e2907409a2af944319347e811d8","typ":"1","vc":"
+2025/1/22 16:42:42  [log]   CreateDirectory text to wxfile://usr/OuterPackage/HotFixTemp with r mkdir:ok
+2025/1/22 16:42:42  [log]   WMOneMiniGameSDK-Unity: WMNetService UnityWebRequest
+https://clientlog.wanmei.com/rc?aid=1290&tid=2 
+response：{"msg":"ok","data":null,"Result":"0"}
+2025/1/22 16:42:42  [error]   [PLUGIN ERROR]  xhr_onload: 2.json?Time=2025122821下载失败: statusCode= 404 , statusText=  , networkType= wifi , isVisible= true , cost= - ms, errMsg= 404 , error= 404
+2025/1/22 16:42:42  [error]   [PLUGIN ERROR 16:42.42.728]  xhr_onload: 2.json?Time=2025122821下载失败: statusCode= 404 , statusText=  , networkType= wifi , isVisible= true , cost= - ms, errMsg= 404 , error= 404
+2025/1/22 16:42:42  [warn]   Try to report [object Object]
+2025/1/22 16:42:42  [log]   _request.responseCode : 404 isHttpError: True isNetworkError： False _request.errorHTTP/1.1 404 Not Found url:https://zxydwxcdn1.wmupd.com/hotfix/26/laohutest/2/2.json?Time=2025122821
+2025/1/22 16:42:43  [error]   [PLUGIN ERROR]  xhr_onload: 2.json?Time=2025122821下载失败: statusCode= 404 , statusText=  , networkType= wifi , isVisible= true , cost= - ms, errMsg= 404 , error= 404
+2025/1/22 16:42:43  [error]   [PLUGIN ERROR 16:42.43.051]  xhr_onload: 2.json?Time=2025122821下载失败: statusCode= 404 , statusText=  , networkType= wifi , isVisible= true , cost= - ms, errMsg= 404 , error= 404
+2025/1/22 16:42:43  [warn]   Try to report [object Object]
+2025/1/22 16:42:43  [log]   _request.responseCode : 404 isHttpError: True isNetworkError： False _request.errorHTTP/1.1 404 Not Found url:https://zxydwxcdn2.wmupd.com/hotfix/26/laohutest/2/2.json?Time=2025122821
+2025/1/22 16:42:43  [log]   文件夹不存在
+2025/1/22 16:42:43  [log]   new rules
+2025/1/22 16:42:43  [log]   hash2Bundle Count: 29662 bundle Count: 21417
+2025/1/22 16:42:43  [log]   _LoadAssetMapFB 0.064
+2025/1/22 16:42:43  [log]   _LoadBundle2AtlasFB0.001
+2025/1/22 16:42:43  [log]   _LoadUnloadbleBundles count : 5157
+2025/1/22 16:42:43  [log]    file not Exist Bundles/WeixinMiniGame/zeusBundleParent.txt
+2025/1/22 16:42:43  [log]   WMOneMiniGameSDK-Unity: deviceJson:{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"}
+2025/1/22 16:42:43  [log]   WMOneMiniGameSDK-Unity: customEvent:{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"GameResListReqSuccess","hint":"{"info":"GameResListReqSuccess","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"5599","netw":"","oaid":"1290","plat":"9","scene":"","snid":"ced42c198835bc36004e6494c8267957","tid":"2","tvn":"3.0.0","ts":"1737535363512","to":"0677636bb2edee131be8b49704743bf5","typ":"1","vc":"3.0.0","we":""}
+2025/1/22 16:42:43  [log]   WMOneMiniGameSDK-Unity: uploadEventJson:{"device":{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"},"events":[{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"GameResListReqSuccess","hint":"{"info":"GameResListReqSuccess","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"5599","netw":"","oaid":"1290"
+2025/1/22 16:42:43  [log]   WMOneMiniGameSDK-Unity: 1737535363519Ja2wE127f5L7dFM131A16aU0mdh9I6nq{"device":{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"},"events":[{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"GameResListReqSuccess","hint":"{"info":"GameResListReqSuccess","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"
+2025/1/22 16:42:43  [log]   WMOneMiniGameSDK-Unity: deviceJson:{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"}
+2025/1/22 16:42:43  [log]   WMOneMiniGameSDK-Unity: customEvent:{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"gameUpdateAssetSuccess","hint":"{"info":"gameUpdateAssetSuccess","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"5599","netw":"","oaid":"1290","plat":"9","scene":"","snid":"c1c42a99c5dd7f6fef345dbff34129f1","tid":"2","tvn":"3.0.0","ts":"1737535363534","to":"e87f58c5edb04369ff13a01791b3cebd","typ":"1","vc":"3.0.0","we":""}
+2025/1/22 16:42:43  [log]   WMOneMiniGameSDK-Unity: uploadEventJson:{"device":{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"},"events":[{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"gameUpdateAssetSuccess","hint":"{"info":"gameUpdateAssetSuccess","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"5599","netw":"","oaid":"129
+2025/1/22 16:42:43  [log]   WMOneMiniGameSDK-Unity: 1737535363541Ja2wE127f5L7dFM131A16aU0mdh9I6nq{"device":{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"},"events":[{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"gameUpdateAssetSuccess","hint":"{"info":"gameUpdateAssetSuccess","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med"
+2025/1/22 16:42:43  [log]   WMOneMiniGameSDK-Unity: deviceJson:{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"}
+2025/1/22 16:42:43  [log]   WMOneMiniGameSDK-Unity: customEvent:{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"gameGetPreloadTableBegin","hint":"{"info":"gameGetPreloadTableBegin","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"5599","netw":"","oaid":"1290","plat":"9","scene":"","snid":"1c40417310a97264015f6f8ecbf4a7a3","tid":"2","tvn":"3.0.0","ts":"1737535363557","to":"d6ea505d8dc027a76a5af8ae5d389fa4","typ":"1","vc":"3.0.0","we":""}
+2025/1/22 16:42:43  [log]   WMOneMiniGameSDK-Unity: uploadEventJson:{"device":{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"},"events":[{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"gameGetPreloadTableBegin","hint":"{"info":"gameGetPreloadTableBegin","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"5599","netw":"","oaid":
+2025/1/22 16:42:43  [log]   WMOneMiniGameSDK-Unity: 1737535363563Ja2wE127f5L7dFM131A16aU0mdh9I6nq{"device":{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"},"events":[{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"gameGetPreloadTableBegin","hint":"{"info":"gameGetPreloadTableBegin","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","
+2025/1/22 16:42:43  [warn]   [PLUGIN MONITOR]  frame=267; cost=104ms; runtime=5405ms
+2025/1/22 16:42:43  [log]   WMOneMiniGameSDK-Unity: WMNetService UnityWebRequest
+https://clientlog.wanmei.com/rc?aid=1290&tid=2 
+response：{"msg":"ok","data":null,"Result":"0"}
+2025/1/22 16:42:44  [warn]   [PLUGIN MONITOR]  frame=297; cost=121ms; runtime=6122ms
+2025/1/22 16:42:44  [log]   WMOneMiniGameSDK-Unity: deviceJson:{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"}
+2025/1/22 16:42:44  [log]   WMOneMiniGameSDK-Unity: customEvent:{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"gameGetServerListBegin","hint":"{"info":"gameGetServerListBegin","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"5599","netw":"","oaid":"1290","plat":"9","scene":"","snid":"0d358b9cd338dbbe206e86515a04c1f2","tid":"2","tvn":"3.0.0","ts":"1737535364550","to":"c91e1a29c2c8b3e1ae857f3d3aac5d63","typ":"1","vc":"3.0.0","we":""}
+2025/1/22 16:42:44  [log]   WMOneMiniGameSDK-Unity: uploadEventJson:{"device":{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"},"events":[{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"gameGetServerListBegin","hint":"{"info":"gameGetServerListBegin","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"5599","netw":"","oaid":"129
+2025/1/22 16:42:44  [log]   WMOneMiniGameSDK-Unity: 1737535364554Ja2wE127f5L7dFM131A16aU0mdh9I6nq{"device":{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"},"events":[{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"gameGetServerListBegin","hint":"{"info":"gameGetServerListBegin","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med"
+2025/1/22 16:42:44  [log]   InitApplication isRset: True
+2025/1/22 16:42:44  [log]   WMOneMiniGameSDK-Unity: WMNetService UnityWebRequest
+https://clientlog.wanmei.com/rc?aid=1290&tid=2 
+response：{"msg":"ok","data":null,"Result":"0"}
+2025/1/22 16:42:44  [log]   WMOneMiniGameSDK-Unity: deviceJson:{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"}
+2025/1/22 16:42:44  [log]   WMOneMiniGameSDK-Unity: customEvent:{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"gameGetServerListSuccess","hint":"{"info":"gameGetServerListSuccess","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"5599","netw":"","oaid":"1290","plat":"9","scene":"","snid":"6b52cc161878421779cb9207d3f87cfc","tid":"2","tvn":"3.0.0","ts":"1737535364713","to":"c1b53676f17f83f84b06107066c6058e","typ":"1","vc":"3.0.0","we":""}
+2025/1/22 16:42:44  [log]   WMOneMiniGameSDK-Unity: uploadEventJson:{"device":{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"},"events":[{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"gameGetServerListSuccess","hint":"{"info":"gameGetServerListSuccess","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"5599","netw":"","oaid":
+2025/1/22 16:42:44  [log]   WMOneMiniGameSDK-Unity: 1737535364718Ja2wE127f5L7dFM131A16aU0mdh9I6nq{"device":{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"},"events":[{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"gameGetServerListSuccess","hint":"{"info":"gameGetServerListSuccess","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","
+2025/1/22 16:42:44  [log]   WMOneMiniGameSDK-Unity: deviceJson:{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"}
+2025/1/22 16:42:44  [log]   WMOneMiniGameSDK-Unity: customEvent:{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"05_BeginLoadRes","hint":"{"info":"05_BeginLoadRes","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"5599","netw":"","oaid":"1290","plat":"9","scene":"","snid":"f14472797606b8311ef01d224e3c5f86","tid":"2","tvn":"3.0.0","ts":"1737535364731","to":"18c7bd040498371c2643085dd4165668","typ":"1","vc":"3.0.0","we":""}
+2025/1/22 16:42:44  [log]   WMOneMiniGameSDK-Unity: uploadEventJson:{"device":{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"},"events":[{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"05_BeginLoadRes","hint":"{"info":"05_BeginLoadRes","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"5599","netw":"","oaid":"1290","plat":"9",
+2025/1/22 16:42:44  [log]   WMOneMiniGameSDK-Unity: 1737535364737Ja2wE127f5L7dFM131A16aU0mdh9I6nq{"device":{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"},"events":[{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"05_BeginLoadRes","hint":"{"info":"05_BeginLoadRes","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"5599","netw"
+2025/1/22 16:42:44  [log]   WMOneMiniGameSDK-Unity: WMNetService UnityWebRequest
+https://clientlog.wanmei.com/rc?aid=1290&tid=2 
+response：{"msg":"ok","data":null,"Result":"0"}
+2025/1/22 16:42:45  [log]   CleanUp
+2025/1/22 16:42:45  [log]   WX.SetKeepScreenOn successes
+2025/1/22 16:42:45  [warn]   [PLUGIN MONITOR]  frame=329; cost=737ms; runtime=7532ms
+2025/1/22 16:42:46  [warn]   [PLUGIN MONITOR]  frame=330; cost=399ms; runtime=7931ms
+2025/1/22 16:42:46  [log]   WMOneMiniGameSDK-Unity: deviceJson:{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"}
+2025/1/22 16:42:46  [log]   WMOneMiniGameSDK-Unity: customEvent:{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"gameGetLaunchPreloadBundleBegin","hint":"{"info":"gameGetLaunchPreloadBundleBegin","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"5599","netw":"","oaid":"1290","plat":"9","scene":"","snid":"09cff39884ccb8da2a67a1e7cfc35895","tid":"2","tvn":"3.0.0","ts":"1737535366235","to":"30b5ac7e4d8be0c54d5da637a2b09866","typ":"1","vc":"3.0.0","we":""}
+2025/1/22 16:42:46  [log]   WMOneMiniGameSDK-Unity: uploadEventJson:{"device":{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"},"events":[{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"gameGetLaunchPreloadBundleBegin","hint":"{"info":"gameGetLaunchPreloadBundleBegin","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"5599","ne
+2025/1/22 16:42:46  [error]   Script error.\n
+2025/1/22 16:42:46  [warn]   [PLUGIN MONITOR]  frame=331; cost=155ms; runtime=8086ms
+2025/1/22 16:42:46  [warn]   [PLUGIN MONITOR]  frame=332; cost=139ms; runtime=8225ms
+2025/1/22 16:42:46  [log]   WMOneMiniGameSDK-Unity: WMNetService UnityWebRequest
+https://clientlog.wanmei.com/rc?aid=1290&tid=2 
+response：{"msg":"ok","data":null,"Result":"0"}
+2025/1/22 16:42:46  [warn]   [PLUGIN MONITOR]  frame=333; cost=386ms; runtime=8611ms
+2025/1/22 16:42:46  [warn]   [PLUGIN MONITOR]  frame=334; cost=113ms; runtime=8724ms
+2025/1/22 16:42:47  [warn]   [PLUGIN MONITOR]  frame=336; cost=102ms; runtime=8903ms
+2025/1/22 16:42:47  [warn]   [PLUGIN MONITOR]  frame=337; cost=160ms; runtime=9063ms
+2025/1/22 16:42:47  [log]   load table finish in Clip Ienumerator
+2025/1/22 16:42:52  [log]   PreloadBundle ³É¹¦
+2025/1/22 16:42:53  [warn]   [PLUGIN MONITOR]  frame=506; cost=234ms; runtime=14978ms
+2025/1/22 16:42:53  [warn]   [PLUGIN MONITOR]  frame=509; cost=131ms; runtime=15267ms
+2025/1/22 16:42:54  [log]   WMOneMiniGameSDK-Unity: deviceJson:{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"}
+2025/1/22 16:42:54  [log]   WMOneMiniGameSDK-Unity: customEvent:{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"14_EnterLoginScene","hint":"{"info":"14_EnterLoginScene","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"5599","netw":"","oaid":"1290","plat":"9","scene":"","snid":"c85e4b1c0a80e55245f8f27e0f41954e","tid":"2","tvn":"3.0.0","ts":"1737535374088","to":"33a8bef720b69594e1a352e0bc28bf93","typ":"1","vc":"3.0.0","we":""}
+2025/1/22 16:42:54  [log]   WMOneMiniGameSDK-Unity: uploadEventJson:{"device":{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"},"events":[{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"14_EnterLoginScene","hint":"{"info":"14_EnterLoginScene","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"5599","netw":"","oaid":"1290","plat
+2025/1/22 16:42:54  [log]   WMOneMiniGameSDK-Unity: 1737535374094Ja2wE127f5L7dFM131A16aU0mdh9I6nq{"device":{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"},"events":[{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"14_EnterLoginScene","hint":"{"info":"14_EnterLoginScene","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"5599",
+2025/1/22 16:42:54  [warn]   [PLUGIN MONITOR]  frame=525; cost=201ms; runtime=16059ms
+2025/1/22 16:42:54  [log]   WMOneMiniGameSDK-Unity: WMNetService UnityWebRequest
+https://clientlog.wanmei.com/rc?aid=1290&tid=2 
+response：{"msg":"ok","data":null,"Result":"0"}
+2025/1/22 16:42:54  [log]   WARNING: RGBA Compressed DXT5|BC3 sRGB format is not supported, decompressing texture
+2025/1/22 16:42:54  [error]   DecompressDXT should not be reached since it has been disabled by slim.
+2025/1/22 16:42:54  [warn]   Try to report [object Object]
+2025/1/22 16:42:54  [log]   UnloadTime: 2.000000 ms
+2025/1/22 16:42:54  [warn]   [PLUGIN MONITOR]  frame=533; cost=112ms; runtime=16401ms
+2025/1/22 16:42:54  [log]   Unloading 5 Unused Serialized files (Serialized files now loaded: 44)
+2025/1/22 16:42:54  [log]   Unloading 352 unused Assets to reduce memory usage. Loaded Objects now: 10322.
+2025/1/22 16:42:54  [log]   Total: 95.000000 ms (FindLiveObjects: 3.000000 ms CreateObjectMapping: 3.000000 ms MarkObjects: 88.000000 ms  DeleteObjects: 1.000000 ms)
+
+2025/1/22 16:42:54  [warn]   [PLUGIN MONITOR]  frame=535; cost=125ms; runtime=16535ms
+2025/1/22 16:42:54  [log]   Unloading 0 Unused Serialized files (Serialized files now loaded: 44)
+2025/1/22 16:42:54  [log]   Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 10322.
+2025/1/22 16:42:54  [log]   Total: 87.000000 ms (FindLiveObjects: 2.000000 ms CreateObjectMapping: 2.000000 ms MarkObjects: 83.000000 ms  DeleteObjects: 0.000000 ms)
+
+2025/1/22 16:42:54  [warn]   [PLUGIN MONITOR]  frame=538; cost=117ms; runtime=16697ms
+2025/1/22 16:42:55  [warn]   The referenced script (Unknown) on this Behaviour is missing!
+2025/1/22 16:42:55  [warn]   The referenced script on this Behaviour (Game Object 'NavMesh Surface') is missing!
+2025/1/22 16:42:55  [warn]   The referenced script on this Behaviour (Game Object 'ZeusCore') is missing!
+2025/1/22 16:42:55  [log]   UnloadTime: 0.000000 ms
+2025/1/22 16:42:55  [log]   -1
+2025/1/22 16:42:55  [warn]   [PLUGIN MONITOR]  frame=559; cost=266ms; runtime=17751ms
+2025/1/22 16:42:56  [log]   Unloading 2 Unused Serialized files (Serialized files now loaded: 81)
+2025/1/22 16:42:56  [warn]   [PLUGIN MONITOR]  frame=560; cost=150ms; runtime=17901ms
+2025/1/22 16:42:56  [log]   Unloading 77 unused Assets to reduce memory usage. Loaded Objects now: 11177.
+2025/1/22 16:42:56  [log]   Total: 79.000000 ms (FindLiveObjects: 1.000000 ms CreateObjectMapping: 1.000000 ms MarkObjects: 76.000000 ms  DeleteObjects: 1.000000 ms)
+
+2025/1/22 16:42:56  [warn]   [PLUGIN MONITOR]  frame=561; cost=107ms; runtime=18008ms
+2025/1/22 16:42:56  [warn]   [PLUGIN MONITOR]  frame=562; cost=193ms; runtime=18201ms
+2025/1/22 16:42:56  [info]   tj.showShareMenu method is not implemented
+2025/1/22 16:42:56  [info]   tj.onShareAppMessage method is not implemented
+2025/1/22 16:42:56  [warn]   The setting "useSubpackage" is false, please check it.
+2025/1/22 16:42:56  [log]   WMOneMiniGameSDK-Unity: deviceJson:{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"}
+2025/1/22 16:42:56  [log]   WMOneMiniGameSDK-Unity: customEvent:{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"ViewRecommendServer","hint":"{"info":"ViewRecommendServer","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"5599","netw":"","oaid":"1290","plat":"9","scene":"","snid":"6e085806a3bc482231147ab33f2323ac","tid":"2","tvn":"3.0.0","ts":"1737535376632","to":"a91932a68d84a8acc3f8b79108cfd7ac","typ":"1","vc":"3.0.0","we":""}
+2025/1/22 16:42:56  [log]   WMOneMiniGameSDK-Unity: uploadEventJson:{"device":{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"},"events":[{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"ViewRecommendServer","hint":"{"info":"ViewRecommendServer","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"5599","netw":"","oaid":"1290","pl
+2025/1/22 16:42:56  [log]   WMOneMiniGameSDK-Unity: 1737535376639Ja2wE127f5L7dFM131A16aU0mdh9I6nq{"device":{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"},"events":[{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"ViewRecommendServer","hint":"{"info":"ViewRecommendServer","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"5599
+2025/1/22 16:42:56  [warn]   The setting "useSubpackage" is false, please check it.
+2025/1/22 16:42:56  [warn]   [PLUGIN MONITOR]  frame=568; cost=180ms; runtime=18530ms
+2025/1/22 16:42:56  [warn]   [PLUGIN MONITOR]  frame=569; cost=222ms; runtime=18752ms
+2025/1/22 16:42:57  [log]   network disconect
+2025/1/22 16:42:57  [log]   WMOneMiniGameSDK-Unity: WMNetService UnityWebRequest
+https://clientlog.wanmei.com/rc?aid=1290&tid=2 
+response：{"msg":"ok","data":null,"Result":"0"}
+2025/1/22 16:42:57  [warn]   [PLUGIN MONITOR]  frame=570; cost=326ms; runtime=19078ms
+2025/1/22 16:42:57  [warn]   [PLUGIN MONITOR]  frame=571; cost=180ms; runtime=19258ms
+2025/1/22 16:42:57  [warn]   [PLUGIN MONITOR]  frame=572; cost=195ms; runtime=19453ms
+2025/1/22 16:42:57  [log]   CloseMainGameClubButton: 
+2025/1/22 16:42:57  [warn]   [PLUGIN MONITOR]  frame=574; cost=105ms; runtime=19619ms
+2025/1/22 16:42:58  [warn]   [PLUGIN MONITOR]  frame=581; cost=216ms; runtime=20039ms
+2025/1/22 16:42:58  [warn]   [PLUGIN MONITOR]  frame=587; cost=199ms; runtime=20422ms
+2025/1/22 16:42:58  [log]   WMOneMiniGameSDK-Unity: deviceJson:{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"}
+2025/1/22 16:42:58  [log]   WMOneMiniGameSDK-Unity: customEvent:{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"gameCloseNoticeWindow","hint":"{"info":"gameCloseNoticeWindow","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"5599","netw":"","oaid":"1290","plat":"9","scene":"","snid":"934c49c21aa0f8221dc0e2393ce8a59a","tid":"2","tvn":"3.0.0","ts":"1737535378678","to":"44d999393ce211f1b9b6d8d104358bd5","typ":"1","vc":"3.0.0","we":""}
+2025/1/22 16:42:58  [log]   WMOneMiniGameSDK-Unity: uploadEventJson:{"device":{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"},"events":[{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"gameCloseNoticeWindow","hint":"{"info":"gameCloseNoticeWindow","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"5599","netw":"","oaid":"1290"
+2025/1/22 16:42:58  [log]   WMOneMiniGameSDK-Unity: 1737535378683Ja2wE127f5L7dFM131A16aU0mdh9I6nq{"device":{"adid":"","adm":"","afid":"","anid":"","bsid":"","cty":"","cpuc":"","cpu":"Qualcomm Technologies, Inc SM8250","did":"5f9b0e37-2103-4c76-a19f-2643767faece","dmd":"M2012K11AC","dnm":"Redmi","dss":"Android 13","dt":"","dtp":"android","disk":"","emn":"","gpu":"","idfa":"","imei":"","jb":"","lag":"zh_CN","mac":"","mbd":"","mmr":"11596","ndid":"5f9b0e37-2103-4c76-a19f-2643767faece","pn":"1290","phn":"","res":"873x393","soc":"","ssid":"","udid":"5f9b0e37-2103-4c76-a19f-2643767faece","vdid":"","dc":"","ip":"10.86.112.77","net":"wifi","os":"2","sdk":"3.0.0"},"events":[{"aid":"1290","batt":"50","chn":"","cid":"","eid":"","k":"gameCloseNoticeWindow","hint":"{"info":"gameCloseNoticeWindow","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","memorysize":"11596","cputype":"Qualcomm Technologies, Inc SM8250","wxversion":"1.0.0","net":"wifi","enterfrom":"1001"}","loc":"","med":"
+2025/1/22 16:42:59  [warn]   [PLUGIN MONITOR]  frame=589; cost=583ms; runtime=21052ms
+2025/1/22 16:42:59  [log]   WMOneMiniGameSDK-Unity: WMNetService UnityWebRequest
+https://clientlog.wanmei.com/rc?aid=1290&tid=2 
+response：{"msg":"ok","data":null,"Result":"0"}
+2025/1/22 16:42:59  [log]   Unloading 1 Unused Serialized files (Serialized files now loaded: 267)
+2025/1/22 16:42:59  [log]   Unloading 84 unused Assets to reduce memory usage. Loaded Objects now: 48049.
+2025/1/22 16:42:59  [log]   Total: 222.000000 ms (FindLiveObjects: 11.000000 ms CreateObjectMapping: 8.000000 ms MarkObjects: 201.000000 ms  DeleteObjects: 2.000000 ms)
+
+2025/1/22 16:42:59  [warn]   [PLUGIN MONITOR]  frame=595; cost=247ms; runtime=21451ms
+2025/1/22 16:42:59  [info]   tj.onShareAppMessage method is not implemented

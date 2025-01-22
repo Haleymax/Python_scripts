@@ -1,5 +1,7 @@
 import re
 from datetime import datetime
+from sys import orig_argv
+
 
 def extract_time(log_line, keyword):
     """
@@ -45,7 +47,7 @@ def parse_log_line(line):
     wasm_download_time = extract_time(line, "下载wasm代码包")
     callmain_time = extract_time(line, "callMain耗时")
     game_start_time = extract_time(line, "游戏启动耗时")
-    subwasm_compile_time = extract_time(line, "subwasm编译耗时")
+    subwasm_compile_time = 0  # 默认值为 0
     wasm_compile_time = extract_time(line, "wasm编译耗时")
 
     # 提取时间戳
@@ -55,6 +57,29 @@ def parse_log_line(line):
     end_compile_wasm_time = extract_timestamp(line, "编译 WASM 首包完成")
     start_compile_subwasm_time = extract_timestamp(line, "开始编译 WASM 分包")
     end_compile_subwasm_time = extract_timestamp(line, "编译 WASM 分包完成")
+
+    # 新增提取逻辑
+    if "下载代码分包1完毕" in line:
+        match = re.search(r"下载代码分包1完毕:\s*([\d.]+)\s*s", line)
+        if match:
+            subwasm_download_time = float(match.group(1)) * 1000  # 转换为毫秒
+        else:
+            subwasm_download_time = 0  # 如果没有匹配到，默认值为 0
+
+    if "wasm编译耗时" in line:
+        match = re.search(r"wasm编译耗时:\s*(\d+)\s*ms", line)
+        if match:
+            wasm_compile_time = int(match.group(1))
+        else:
+            wasm_compile_time = 0  # 如果没有匹配到，默认值为 0
+
+    # 单独匹配 subwasm编译耗时
+    if "subwasm编译耗时" in line:
+        match = re.search(r"subwasm编译耗时\s*(\d+)", line)
+        if match:
+            subwasm_compile_time = int(match.group(1))
+        else:
+            subwasm_compile_time = 0  # 如果没有匹配到，默认值为 0
 
     return {
         "resource_download_time": resource_download_time,
@@ -70,6 +95,7 @@ def parse_log_line(line):
         "end_compile_wasm_time": end_compile_wasm_time,
         "start_compile_subwasm_time": start_compile_subwasm_time,
         "end_compile_subwasm_time": end_compile_subwasm_time,
+        "subwasm_download_time": subwasm_download_time if "subwasm_download_time" in locals() else 0,
     }
 
 def parse_log_file(file_path):
@@ -83,6 +109,7 @@ def parse_log_file(file_path):
     game_start_time = 0
     subwasm_compile_time = 0
     wasm_compile_time = 0
+    subwasm_download_time = 0
     start_download_subwasm_time = None
     end_download_subwasm_time = None
     start_compile_wasm_time = None
@@ -108,6 +135,8 @@ def parse_log_file(file_path):
                     subwasm_compile_time = result["subwasm_compile_time"]
                 if result["wasm_compile_time"]:
                     wasm_compile_time = result["wasm_compile_time"]
+                if result["subwasm_download_time"]:
+                    subwasm_download_time = result["subwasm_download_time"]
 
                 # 提取时间戳
                 if result["start_download_subwasm_time"]:
@@ -123,15 +152,6 @@ def parse_log_file(file_path):
                 if result["end_compile_subwasm_time"]:
                     end_compile_subwasm_time = result["end_compile_subwasm_time"]
 
-        # 计算 WASM 分包下载耗时
-        subwasm_download_time = calculate_time_difference(start_download_subwasm_time, end_download_subwasm_time)
-
-        # 计算 WASM 首包编译耗时
-        wasm_compile_time = calculate_time_difference(start_compile_wasm_time, end_compile_wasm_time)
-
-        # 计算 WASM 分包编译耗时
-        subwasm_compile_time = calculate_time_difference(start_compile_subwasm_time, end_compile_subwasm_time)
-
         # 输出结果
         print(f"资源包下载耗时: {resource_download_time}ms")
         print(f"资源包解压耗时: {resource_unzip_time}ms")
@@ -139,7 +159,6 @@ def parse_log_file(file_path):
         print(f"WASM 分包下载耗时: {subwasm_download_time}ms")
         print(f"WASM 首包编译耗时: {wasm_compile_time}ms")
         print(f"WASM 分包编译耗时: {subwasm_compile_time}ms")
-        # print(f"wasm 编译耗时: {wasm_compile_time}ms")
         print(f"CALLMAIN 耗时: {callmain_time}ms")
         print(f"游戏启动耗时: {game_start_time}ms")
 
@@ -151,13 +170,11 @@ def parse_log_file(file_path):
 if __name__ == "__main__":
     print("sdk 1.1.0")
     split = "130"
-    game = "dadao"
-    pack = "Terrible"
+    game = "zhuxian"
+    pack = "Terible"
+    print(f"{split} : {game} : {pack} ")
     for i in range(1, 6):
         print(f"第 {i} 轮结果")
-        log_file_path = r"D:\project\python\Python_scripts\check\{}\{}\{}\110_{}.txt".format(split, game, pack, i)
+        log_file_path = r"D:\project\python\Python_scripts\check\{}\{}\{}\100_{}.txt".format(split, game, pack, i)
         parse_log_file(log_file_path)
         print("----------------------------------------------------------------------------------------------------------")
-
-    # log_file_path2 = r"D:\project\python\Python_scripts\check\122\dadao\Normal\110_3.txt"
-    # parse_log_file(log_file_path2)
