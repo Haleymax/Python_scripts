@@ -1,0 +1,293 @@
+2025/1/21 14:47:12  [info]   Webglhost Git CommitId: 819ecd3  Tue Jan 21 2025 14:47:12 GMT+0800 (中国标准时间)
+2025/1/21 14:47:12  [log]   欢迎使用 vConsole
+2025/1/21 14:47:14  [info]   run new_custom.js
+2025/1/21 14:47:14  [info]   {}
+2025/1/21 14:47:14  [info]   run tj-proxy.js
+2025/1/21 14:47:14  [log]   js:buildRequire cur: require module: ["game.js"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:. require module: ["weapp-adapter"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:. require module: ["unity-sdk/utils"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/conf"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/resType"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/resTypeOther"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:. require module: ["events"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:. require module: ["texture-config"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:. require module: ["unity-namespace"]
+2025/1/21 14:47:14  [info]   game starting {"renderer":"","isH5Plus":false,"abi":"arm64-v8a","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 13","version":"1.1.0","SDKVersion":"3.4.7","benchmarkLevel":32}
+2025/1/21 14:47:14  [log]   js:buildRequire cur:. require module: ["webgl.wasm.framework.unityweb"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:. require module: ["wasm-split.js"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:. require module: ["check-version"]
+2025/1/21 14:47:14  [info]   tj.getAccountInfoSync is returning mock data
+2025/1/21 14:47:14  [log]   js:buildRequire cur:. require module: ["import-func-index"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:. require module: ["unity-sdk/index"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/storage"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/userinfo"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/share"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 14:47:14  [info]   tj.showShareMenu method is not implemented
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/ad"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/response"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/audio/utils"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/utils"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk/audio require module: ["check-version"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/store"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/const"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/canvas"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/response"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/fs"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/response"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/file-info"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/open-data"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/util"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["plugin-config"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["events"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/cloud"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/response"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/audio/index"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/inner-audio"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/module-helper"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk/audio require module: ["check-version"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/store"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/utils"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/const"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/unity-audio"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk/audio require module: ["check-version"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/store"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/const"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/utils"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/common"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/store"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/utils"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/texture"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/canvas-context"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/fix"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/canvas-context"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/video"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/logger"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/game-club"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/sdk"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/camera"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/recorder"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/upload-file"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/game-recorder"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/chat"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/font/index"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk/font require module: ["unity-sdk/module-helper"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk/font require module: ["unity-sdk/utils"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk/font require module: ["unity-sdk/font/fix-cmap"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk/font require module: ["unity-sdk/font/read-metrics"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk/font require module: ["unity-sdk/font/util"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk/font require module: ["unity-sdk/font/split-sc"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk/font require module: ["unity-sdk/font/util"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/authorize"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/video/index"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk/video require module: ["check-version"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/mobileKeyboard/index"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/touch/index"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk/touch require module: ["unity-sdk/utils"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/TCPSocket/index"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk/TCPSocket require module: ["unity-sdk/utils"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/UDPSocket/index"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk/UDPSocket require module: ["unity-sdk/utils"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/bluetooth/index"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk/bluetooth require module: ["unity-sdk/utils"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/gyroscope/index"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:unity-sdk/gyroscope require module: ["unity-sdk/utils"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:. require module: ["check-version"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:. require module: ["plugin-config"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:. require module: ["unity-sdk/font/index"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:. require module: ["plugins/screen-adapter"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur: require module: ["UnityPlugin/index"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/Objectvalues"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/Arrayincludes"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/Objectentries"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/regeneratorRuntime"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/typeof"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/construct"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/setPrototypeOf"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/isNativeReflectConstruct"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/slicedToArray"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/arrayWithHoles"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/iterableToArrayLimit"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/unsupportedIterableToArray"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/arrayLikeToArray"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/nonIterableRest"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/defineProperty"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/toPropertyKey"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/typeof"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/toPrimitive"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/typeof"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/createForOfIteratorHelper"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/unsupportedIterableToArray"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/typeof"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/toConsumableArray"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/arrayWithoutHoles"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/arrayLikeToArray"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/iterableToArray"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/unsupportedIterableToArray"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/nonIterableSpread"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/assertThisInitialized"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/inherits"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/setPrototypeOf"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/createSuper"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/getPrototypeOf"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/isNativeReflectConstruct"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/possibleConstructorReturn"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/typeof"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/assertThisInitialized"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/classCallCheck"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/createClass"]
+2025/1/21 14:47:14  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/toPropertyKey"]
+2025/1/21 14:47:14  [info]   tj.getAccountInfoSync is returning mock data
+2025/1/21 14:47:14  [log]   [minigamefe mgp]: inited
+2025/1/21 14:47:14  [warn]   [minigamfe mgp ]: 当前插件不支持 gameTransfer。
+2025/1/21 14:47:14  [warn]   [minigamefe mgp]: 当前环境不支持质量上报。
+2025/1/21 14:47:14  [info]   tj.getAccountInfoSync is returning mock data
+2025/1/21 14:47:14  [warn]   [PLUGIN WARN 14:47.14.265]  wxfile://usr/__GAME_FILE_CACHE目录不存在，创建目录
+2025/1/21 14:47:14  [info]   [PLUGIN LOG]  使用公共目录存储patch
+2025/1/21 14:47:14  [log]   [PLUGIN LOG 14:47.14.270]  使用公共目录存储patch
+2025/1/21 14:47:14  [warn]   [PLUGIN WARN 14:47.14.281]  [仅开发版/体验版生效]已开启最佳实践检测, 请前往github查阅说明文档:
+https://github.com/wechat-miniprogram/minigame-unity-webgl-transform/blob/main/Design/PerformanceMonitor.md
+2025/1/21 14:47:14  [info]   [PLUGIN LOG]  缓存文件数= 0 ,总文件大小= 0
+2025/1/21 14:47:14  [log]   [PLUGIN LOG 14:47.14.334]  缓存文件数= 0 ,总文件大小= 0
+2025/1/21 14:47:14  [log]   [PLUGIN LOG] systemInfo= [object Object]
+2025/1/21 14:47:14  [log]   [PLUGIN LOG] check permission: coverview=true, gameTransfer=false, reportKeyValue=false
+2025/1/21 14:47:14  [info]   [PLUGIN LOG]  特性开关拉取超时，使用默认值
+2025/1/21 14:47:14  [log]   [PLUGIN LOG 14:47.14.381]  特性开关拉取超时，使用默认值
+2025/1/21 14:47:14  [info]   [PLUGIN LOG]  资源无缓存
+2025/1/21 14:47:14  [log]   [PLUGIN LOG 14:47.14.386]  资源无缓存
+2025/1/21 14:47:14  [info]   [PLUGIN LOG]  插件信息:  [object Object]
+2025/1/21 14:47:14  [log]   [PLUGIN LOG 14:47.14.387]  插件信息:  [object Object]
+2025/1/21 14:47:14  [warn]   Try to report [object Object]
+2025/1/21 14:47:14  [info]   [PLUGIN LOG]  开始下载wasm代码包
+2025/1/21 14:47:14  [log]   [PLUGIN LOG 14:47.14.394]  开始下载wasm代码包
+2025/1/21 14:47:14  [info]   [PLUGIN LOG]  通过CDN加载资源 e38c943b31af7af7.webgl.data.unityweb.bin.br
+2025/1/21 14:47:14  [log]   [PLUGIN LOG 14:47.14.397]  通过CDN加载资源 e38c943b31af7af7.webgl.data.unityweb.bin.br
+2025/1/21 14:47:14  [info]   [PLUGIN LOG]  首包资源无缓存，开始下载
+2025/1/21 14:47:14  [log]   [PLUGIN LOG 14:47.14.398]  首包资源无缓存，开始下载
+2025/1/21 14:47:14  [info]   [PLUGIN LOG]  资源包下载url：https://tap-miniapp-3rdparty-bj.oss-cn-beijing.aliyuncs.com/8370/sword/TapTap/webgl/e38c943b31af7af7.webgl.data.unityweb.bin.br
+2025/1/21 14:47:14  [log]   [PLUGIN LOG 14:47.14.399]  资源包下载url：https://tap-miniapp-3rdparty-bj.oss-cn-beijing.aliyuncs.com/8370/sword/TapTap/webgl/e38c943b31af7af7.webgl.data.unityweb.bin.br
+2025/1/21 14:47:14  [info]   [PLUGIN LOG]  使用主线程写文件
+2025/1/21 14:47:14  [log]   [PLUGIN LOG 14:47.14.462]  使用主线程写文件
+2025/1/21 14:47:14  [log]   js:buildRequire cur: require module: ["wasmcode/game.js"]
+2025/1/21 14:47:14  [info]   [PLUGIN TIME LOG 14:47.14.636] 下载wasm代码包: 242ms
+2025/1/21 14:47:14  [log]   [PLUGIN TIME LOG 14:47.14.636] 下载wasm代码包: 242ms
+2025/1/21 14:47:14  [warn]   Try to report [object Object]
+2025/1/21 14:47:14  [info]   [PLUGIN LOG]  start invoke UnityModule
+2025/1/21 14:47:14  [log]   [PLUGIN LOG 14:47.14.641]  start invoke UnityModule
+2025/1/21 14:47:14  [info]   [PLUGIN LOG]  invoke UnityModule for il2cpp
+2025/1/21 14:47:14  [log]   [PLUGIN LOG 14:47.14.641]  invoke UnityModule for il2cpp
+2025/1/21 14:47:14  [warn]   navigator.mediaDevices not supported by this browser. Webcam access will not be available. Try hosting the page over HTTPS, because some browsers disable webcam access when insecure HTTP is being used.
+2025/1/21 14:47:14  [info]   [PLUGIN LOG]  addRunDependency:  wasm-instantiate
+2025/1/21 14:47:14  [log]   [PLUGIN LOG 14:47.14.671]  addRunDependency:  wasm-instantiate
+2025/1/21 14:47:14  [info]   [PLUGIN LOG]  addRunDependency:  wasm-preloadAssets
+2025/1/21 14:47:14  [log]   [PLUGIN LOG 14:47.14.672]  addRunDependency:  wasm-preloadAssets
+2025/1/21 14:47:14  [log]   in wasm-split instantiateWasm
+2025/1/21 14:47:14  [info]   [PLUGIN TIME LOG 14:47.14.915] wasm编译耗时: 243ms
+2025/1/21 14:47:14  [log]   [PLUGIN TIME LOG 14:47.14.915] wasm编译耗时: 243ms
+2025/1/21 14:47:14  [info]   [PLUGIN LOG]  removeRunDependency:  wasm-instantiate
+2025/1/21 14:47:14  [log]   [PLUGIN LOG 14:47.14.915]  removeRunDependency:  wasm-instantiate
+2025/1/21 14:47:14  [warn]   Try to report [object Object]
+2025/1/21 14:47:15  [info]   [PLUGIN TIME LOG 14:47.15.062] 下载资源包耗时: 663ms
+2025/1/21 14:47:15  [log]   [PLUGIN TIME LOG 14:47.15.062] 下载资源包耗时: 663ms
+2025/1/21 14:47:15  [info]   [PLUGIN LOG]  data download size=undefined
+2025/1/21 14:47:15  [log]   [PLUGIN LOG 14:47.15.063]  data download size=undefined
+2025/1/21 14:47:15  [warn]   Try to report [object Object]
+2025/1/21 14:47:15  [info]   [PLUGIN TIME LOG 14:47.15.169] 解压资源包耗时: 85ms
+2025/1/21 14:47:15  [log]   [PLUGIN TIME LOG 14:47.15.169] 解压资源包耗时: 85ms
+2025/1/21 14:47:15  [info]   [PLUGIN LOG]  data decompressed size=8382827
+2025/1/21 14:47:15  [log]   [PLUGIN LOG 14:47.15.170]  data decompressed size=8382827
+2025/1/21 14:47:15  [info]   [PLUGIN LOG]  [datapackage] content= 85,110,105,116,121,87,101,98,68,97,116,97,49,46,48,0,240,0,0,0,240,0,0,0,202,50,8,0,12,0,0,0,100,97,116,97,46,117,110,105,116,121,51,100,186,51,8,0,100,2,0,0,29,0,0,0,82,117,110,116,105,109,101,73
+2025/1/21 14:47:15  [log]   [PLUGIN LOG 14:47.15.170]  [datapackage] content= 85,110,105,116,121,87,101,98,68,97,116,97,49,46,48,0,240,0,0,0,240,0,0,0,202,50,8,0,12,0,0,0,100,97,116,97,46,117,110,105,116,121,51,100,186,51,8,0,100,2,0,0,29,0,0,0,82,117,110,116,105,109,101,73
+2025/1/21 14:47:15  [warn]   Try to report [object Object]
+2025/1/21 14:47:15  [info]   [PLUGIN LOG]  [datapackage] fileSize=8382827, defaultSize=8382827, optimalSize=NaN
+2025/1/21 14:47:15  [log]   [PLUGIN LOG 14:47.15.192]  [datapackage] fileSize=8382827, defaultSize=8382827, optimalSize=NaN
+2025/1/21 14:47:15  [info]   [PLUGIN TIME LOG 14:47.15.208] 解析资源: 15ms
+2025/1/21 14:47:15  [log]   [PLUGIN TIME LOG 14:47.15.208] 解析资源: 15ms
+2025/1/21 14:47:15  [info]   [PLUGIN LOG]  removeRunDependency:  wasm-preloadAssets
+2025/1/21 14:47:15  [log]   [PLUGIN LOG 14:47.15.209]  removeRunDependency:  wasm-preloadAssets
+2025/1/21 14:47:15  [info]   [PLUGIN LOG]  no dependencies, invoke run
+2025/1/21 14:47:15  [log]   [PLUGIN LOG 14:47.15.209]  no dependencies, invoke run
+2025/1/21 14:47:15  [warn]   [PLUGIN WARN 14:47.15.209]  IndexedDB is not available. Data will not persist in cache and PlayerPrefs will not be saved.
+2025/1/21 14:47:15  [log]   [UnityMemory] Configuration Parameters - Can be set up in boot.config
+2025/1/21 14:47:15  [log]       "memorysetup-allocator-temp-initial-block-size-main=262144"
+2025/1/21 14:47:15  [log]       "memorysetup-allocator-temp-initial-block-size-worker=262144"
+2025/1/21 14:47:15  [log]       "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+2025/1/21 14:47:15  [log]       "memorysetup-temp-allocator-size-audio-worker=65536"
+2025/1/21 14:47:15  [log]       "memorysetup-temp-allocator-size-background-worker=32768"
+2025/1/21 14:47:15  [log]       "memorysetup-bucket-allocator-granularity=16"
+2025/1/21 14:47:15  [log]       "memorysetup-bucket-allocator-bucket-count=8"
+2025/1/21 14:47:15  [log]       "memorysetup-bucket-allocator-block-size=4194304"
+2025/1/21 14:47:15  [log]       "memorysetup-bucket-allocator-block-count=1"
+2025/1/21 14:47:15  [log]       "memorysetup-main-allocator-block-size=16777216"
+2025/1/21 14:47:15  [log]       "memorysetup-thread-allocator-block-size=16777216"
+2025/1/21 14:47:15  [log]       "memorysetup-gfx-main-allocator-block-size=16777216"
+2025/1/21 14:47:15  [log]       "memorysetup-gfx-thread-allocator-block-size=16777216"
+2025/1/21 14:47:15  [log]       "memorysetup-cache-allocator-block-size=4194304"
+2025/1/21 14:47:15  [log]       "memorysetup-typetree-allocator-block-size=2097152"
+2025/1/21 14:47:15  [log]       "memorysetup-profiler-bucket-allocator-granularity=16"
+2025/1/21 14:47:15  [log]       "memorysetup-profiler-bucket-allocator-bucket-count=8"
+2025/1/21 14:47:15  [log]       "memorysetup-profiler-bucket-allocator-block-size=4194304"
+2025/1/21 14:47:15  [log]       "memorysetup-profiler-bucket-allocator-block-count=1"
+2025/1/21 14:47:15  [log]       "memorysetup-profiler-allocator-block-size=16777216"
+2025/1/21 14:47:15  [log]       "memorysetup-profiler-editor-allocator-block-size=1048576"
+2025/1/21 14:47:15  [log]       "memorysetup-temp-allocator-size-main=4194304"
+2025/1/21 14:47:15  [log]       "memorysetup-job-temp-allocator-block-size=2097152"
+2025/1/21 14:47:15  [log]       "memorysetup-job-temp-allocator-block-size-background=1048576"
+2025/1/21 14:47:15  [log]       "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+2025/1/21 14:47:15  [log]   [PhysX] Initialized SinglethreadedTaskDispatcher.
+2025/1/21 14:47:15  [log]   Loading player data from data.unity3d
+2025/1/21 14:47:15  [log]   Initialize engine version: 2022.3.40f1c1 (0bae6c114c78)
+2025/1/21 14:47:15  [log]   Creating WebGL 1.0 context.
+2025/1/21 14:47:15  [log]   Renderer: Chromium
+2025/1/21 14:47:15  [log]   Vendor:   Qualcomm
+2025/1/21 14:47:15  [log]   Version:  OpenGL ES 2.0 (OpenGL ES 3.2 V@0502.0 (GIT@db3d445dbc, Ia06b22fa1a, 1633355031) (Date:10/04/21))
+2025/1/21 14:47:15  [log]   GLES:     2
+2025/1/21 14:47:15  [log]    WEBGL_depth_texture OES_texture_half_float_linear OES_texture_half_float WEBGL_compressed_texture_astc WEBGL_color_buffer_float OES_vertex_array_object OES_texture_float WEBGL_compressed_texture_etc1 OES_texture_float_linear OES_standard_derivatives WEBGL_compressed_texture_etc OES_element_index_uint EXT_disjoint_timer_query WEBGL_debug_renderer_info EXT_texture_filter_anisotropic EXT_sRGB EXT_color_buffer_half_float ANGLE_instanced_arrays GL_WEBGL_depth_texture GL_OES_texture_half_float_linear GL_OES_texture_half_float GL_WEBGL_compressed_texture_astc GL_WEBGL_color_buffer_float GL_OES_vertex_array_object GL_OES_texture_float GL_WEBGL_compressed_texture_etc1 GL_OES_texture_float_linear GL_OES_standard_derivatives GL_WEBGL_compressed_texture_etc GL_OES_element_index_uint GL_EXT_disjoint_timer_query GL_WEBGL_debug_renderer_info GL_EXT_texture_filter_anisotropic GL_EXT_sRGB GL_EXT_color_buffer_half_float GL_ANGLE_instanced_arrays
+2025/1/21 14:47:15  [log]   OPENGL LOG: Creating OpenGL ES 2.0 graphics device ; Context level  <OpenGL ES 2.0> ; Context handle 1
+2025/1/21 14:47:15  [log]   use wx WebAudio
+2025/1/21 14:47:15  [log]   Input Manager initialize...
+2025/1/21 14:47:15  [log]   WARNING: RGBA Compressed DXT5|BC3 UNorm format is not supported, decompressing texture
+2025/1/21 14:47:15  [log]   [PhysX] Initialized SinglethreadedTaskDispatcher.
+2025/1/21 14:47:15  [log]   UnloadTime: 8.000000 ms
+2025/1/21 14:47:15  [log]   current_language_wx: zh_CN
+2025/1/21 14:47:15  [log]   当前语言：简体中文
+2025/1/21 14:47:15  [info]   [PLUGIN TIME LOG 14:47.15.713] callMain耗时: 503ms
+2025/1/21 14:47:15  [log]   [PLUGIN TIME LOG 14:47.15.713] callMain耗时: 503ms
+2025/1/21 14:47:15  [info]   [PLUGIN TIME LOG 14:47.15.713] 游戏启动耗时: 1459ms
+2025/1/21 14:47:15  [log]   [PLUGIN TIME LOG 14:47.15.713] 游戏启动耗时: 1459ms
+2025/1/21 14:47:15  [warn]   Try to report [object Object]
+2025/1/21 14:47:15  [warn]   [PLUGIN MONITOR]  frame=2; cost=189ms; runtime=193ms
+2025/1/21 14:47:16  [warn]   [PLUGIN MONITOR]  frame=24; cost=191ms; runtime=776ms

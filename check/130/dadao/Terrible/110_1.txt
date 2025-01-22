@@ -1,0 +1,823 @@
+2025/1/21 下午3:06:18  [info]   Webglhost Git CommitId: 819ecd3  Tue Jan 21 2025 15:06:18 GMT+0800 (中国标准时间)
+2025/1/21 下午3:06:18  [log]   欢迎使用 vConsole
+2025/1/21 下午3:06:19  [info]   run new_custom.js
+2025/1/21 下午3:06:19  [info]   {}
+2025/1/21 下午3:06:19  [info]   run tj-proxy.js
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur: require module: ["game.js"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:. require module: ["weapp-adapter"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:. require module: ["unity-sdk/utils"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/conf"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/resType"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/resTypeOther"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:. require module: ["events"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:. require module: ["texture-config"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:. require module: ["unity-namespace"]
+2025/1/21 下午3:06:19  [info]   game starting {"renderer":"","isH5Plus":false,"abi":"arm64-v8a","brand":"Redmi","model":"M2012K11AC","platform":"android","system":"Android 12","version":"1.1.0","SDKVersion":"3.4.7","benchmarkLevel":32}
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:. require module: ["webgl.wasm.framework.unityweb"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:. require module: ["wasm-split.js"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:. require module: ["check-version"]
+2025/1/21 下午3:06:19  [info]   tj.getAccountInfoSync is returning mock data
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:. require module: ["import-func-index"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:. require module: ["unity-sdk/index"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/storage"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/userinfo"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/share"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 下午3:06:19  [info]   tj.showShareMenu method is not implemented
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/ad"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/response"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/audio/utils"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/utils"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["check-version"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/store"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/const"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/canvas"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/response"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/fs"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/response"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/file-info"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/open-data"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/util"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["plugin-config"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["events"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/cloud"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/response"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/audio/index"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/inner-audio"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/module-helper"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["check-version"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/store"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/utils"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/const"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/unity-audio"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["check-version"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/store"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/const"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/utils"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/common"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/store"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk/audio require module: ["unity-sdk/audio/utils"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/texture"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/canvas-context"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/fix"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/canvas-context"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/video"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/logger"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/game-club"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/sdk"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/camera"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/recorder"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/upload-file"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/game-recorder"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/chat"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/font/index"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk/font require module: ["unity-sdk/module-helper"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk/font require module: ["unity-sdk/utils"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk/font require module: ["unity-sdk/font/fix-cmap"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk/font require module: ["unity-sdk/font/read-metrics"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk/font require module: ["unity-sdk/font/util"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk/font require module: ["unity-sdk/font/split-sc"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk/font require module: ["unity-sdk/font/util"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/authorize"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/module-helper"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/utils"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/video/index"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk/video require module: ["check-version"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/mobileKeyboard/index"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/touch/index"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk/touch require module: ["unity-sdk/utils"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/TCPSocket/index"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk/TCPSocket require module: ["unity-sdk/utils"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/UDPSocket/index"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk/UDPSocket require module: ["unity-sdk/utils"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/bluetooth/index"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk/bluetooth require module: ["unity-sdk/utils"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk require module: ["unity-sdk/gyroscope/index"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:unity-sdk/gyroscope require module: ["unity-sdk/utils"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:. require module: ["check-version"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:. require module: ["plugin-config"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:. require module: ["unity-sdk/font/index"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:. require module: ["plugins/screen-adapter"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur: require module: ["UnityPlugin/index"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/Objectvalues"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/Arrayincludes"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/Objectentries"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/regeneratorRuntime"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/typeof"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/construct"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/setPrototypeOf"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/isNativeReflectConstruct"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/slicedToArray"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/arrayWithHoles"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/iterableToArrayLimit"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/unsupportedIterableToArray"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/arrayLikeToArray"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/nonIterableRest"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/defineProperty"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/toPropertyKey"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/typeof"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/toPrimitive"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/typeof"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/createForOfIteratorHelper"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/unsupportedIterableToArray"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/typeof"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/toConsumableArray"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/arrayWithoutHoles"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/arrayLikeToArray"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/iterableToArray"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/unsupportedIterableToArray"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/nonIterableSpread"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/assertThisInitialized"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/inherits"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/setPrototypeOf"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/createSuper"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/getPrototypeOf"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/isNativeReflectConstruct"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/possibleConstructorReturn"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/typeof"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/assertThisInitialized"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/classCallCheck"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin require module: ["UnityPlugin/@babel/runtime/helpers/createClass"]
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur:UnityPlugin/@babel/runtime/helpers require module: ["UnityPlugin/@babel/runtime/helpers/toPropertyKey"]
+2025/1/21 下午3:06:19  [info]   tj.getAccountInfoSync is returning mock data
+2025/1/21 下午3:06:19  [log]   [minigamefe mgp]: inited
+2025/1/21 下午3:06:19  [warn]   [minigamfe mgp ]: 当前插件不支持 gameTransfer。
+2025/1/21 下午3:06:19  [warn]   [minigamefe mgp]: 当前环境不支持质量上报。
+2025/1/21 下午3:06:19  [info]   tj.getAccountInfoSync is returning mock data
+2025/1/21 下午3:06:19  [warn]   [PLUGIN WARN 15:06.19.444]  wxfile://usr/__GAME_FILE_CACHE目录不存在，创建目录
+2025/1/21 下午3:06:19  [info]   [PLUGIN LOG]  使用公共目录存储patch
+2025/1/21 下午3:06:19  [log]   [PLUGIN LOG 15:06.19.449]  使用公共目录存储patch
+2025/1/21 下午3:06:19  [warn]   [PLUGIN WARN 15:06.19.460]  [仅开发版/体验版生效]已开启最佳实践检测, 请前往github查阅说明文档:
+https://github.com/wechat-miniprogram/minigame-unity-webgl-transform/blob/main/Design/PerformanceMonitor.md
+2025/1/21 下午3:06:19  [info]   [PLUGIN LOG]  缓存文件数= 0 ,总文件大小= 0
+2025/1/21 下午3:06:19  [log]   [PLUGIN LOG 15:06.19.506]  缓存文件数= 0 ,总文件大小= 0
+2025/1/21 下午3:06:19  [log]   [PLUGIN LOG] systemInfo= [object Object]
+2025/1/21 下午3:06:19  [log]   [PLUGIN LOG] check permission: coverview=true, gameTransfer=false, reportKeyValue=false
+2025/1/21 下午3:06:19  [info]   [PLUGIN LOG]  特性开关拉取超时，使用默认值
+2025/1/21 下午3:06:19  [log]   [PLUGIN LOG 15:06.19.559]  特性开关拉取超时，使用默认值
+2025/1/21 下午3:06:19  [info]   [PLUGIN LOG]  资源无缓存
+2025/1/21 下午3:06:19  [log]   [PLUGIN LOG 15:06.19.561]  资源无缓存
+2025/1/21 下午3:06:19  [info]   [PLUGIN LOG]  插件信息:  [object Object]
+2025/1/21 下午3:06:19  [log]   [PLUGIN LOG 15:06.19.562]  插件信息:  [object Object]
+2025/1/21 下午3:06:19  [warn]   Try to report [object Object]
+2025/1/21 下午3:06:19  [info]   [PLUGIN LOG]  开始下载wasm代码包
+2025/1/21 下午3:06:19  [log]   [PLUGIN LOG 15:06.19.569]  开始下载wasm代码包
+2025/1/21 下午3:06:19  [info]   [PLUGIN LOG]  通过CDN加载资源 e38c943b31af7af7.webgl.data.unityweb.bin.br
+2025/1/21 下午3:06:19  [log]   [PLUGIN LOG 15:06.19.572]  通过CDN加载资源 e38c943b31af7af7.webgl.data.unityweb.bin.br
+2025/1/21 下午3:06:19  [info]   [PLUGIN LOG]  首包资源无缓存，开始下载
+2025/1/21 下午3:06:19  [log]   [PLUGIN LOG 15:06.19.573]  首包资源无缓存，开始下载
+2025/1/21 下午3:06:19  [info]   [PLUGIN LOG]  资源包下载url：https://tap-miniapp-3rdparty-bj.oss-cn-beijing.aliyuncs.com/8370/sword/TapTap/webgl/e38c943b31af7af7.webgl.data.unityweb.bin.br
+2025/1/21 下午3:06:19  [log]   [PLUGIN LOG 15:06.19.573]  资源包下载url：https://tap-miniapp-3rdparty-bj.oss-cn-beijing.aliyuncs.com/8370/sword/TapTap/webgl/e38c943b31af7af7.webgl.data.unityweb.bin.br
+2025/1/21 下午3:06:19  [info]   [PLUGIN LOG]  使用主线程写文件
+2025/1/21 下午3:06:19  [log]   [PLUGIN LOG 15:06.19.623]  使用主线程写文件
+2025/1/21 下午3:06:19  [log]   js:buildRequire cur: require module: ["wasmcode/game.js"]
+2025/1/21 下午3:06:19  [info]   [PLUGIN TIME LOG 15:06.19.972] 下载wasm代码包: 404ms
+2025/1/21 下午3:06:19  [log]   [PLUGIN TIME LOG 15:06.19.972] 下载wasm代码包: 404ms
+2025/1/21 下午3:06:19  [warn]   Try to report [object Object]
+2025/1/21 下午3:06:19  [info]   [PLUGIN LOG]  start invoke UnityModule
+2025/1/21 下午3:06:19  [log]   [PLUGIN LOG 15:06.19.980]  start invoke UnityModule
+2025/1/21 下午3:06:19  [info]   [PLUGIN LOG]  invoke UnityModule for il2cpp
+2025/1/21 下午3:06:19  [log]   [PLUGIN LOG 15:06.19.980]  invoke UnityModule for il2cpp
+2025/1/21 下午3:06:20  [warn]   navigator.mediaDevices not supported by this browser. Webcam access will not be available. Try hosting the page over HTTPS, because some browsers disable webcam access when insecure HTTP is being used.
+2025/1/21 下午3:06:20  [info]   [PLUGIN LOG]  addRunDependency:  wasm-instantiate
+2025/1/21 下午3:06:20  [log]   [PLUGIN LOG 15:06.20.008]  addRunDependency:  wasm-instantiate
+2025/1/21 下午3:06:20  [info]   [PLUGIN LOG]  addRunDependency:  wasm-preloadAssets
+2025/1/21 下午3:06:20  [log]   [PLUGIN LOG 15:06.20.008]  addRunDependency:  wasm-preloadAssets
+2025/1/21 下午3:06:20  [log]   in wasm-split instantiateWasm
+2025/1/21 下午3:06:20  [info]   [PLUGIN TIME LOG 15:06.20.229] wasm编译耗时: 221ms
+2025/1/21 下午3:06:20  [log]   [PLUGIN TIME LOG 15:06.20.229] wasm编译耗时: 221ms
+2025/1/21 下午3:06:20  [info]   [PLUGIN LOG]  removeRunDependency:  wasm-instantiate
+2025/1/21 下午3:06:20  [log]   [PLUGIN LOG 15:06.20.229]  removeRunDependency:  wasm-instantiate
+2025/1/21 下午3:06:20  [warn]   Try to report [object Object]
+2025/1/21 下午3:06:21  [info]   [PLUGIN TIME LOG 15:06.21.271] 下载资源包耗时: 1697ms
+2025/1/21 下午3:06:21  [log]   [PLUGIN TIME LOG 15:06.21.271] 下载资源包耗时: 1697ms
+2025/1/21 下午3:06:21  [info]   [PLUGIN LOG]  data download size=undefined
+2025/1/21 下午3:06:21  [log]   [PLUGIN LOG 15:06.21.273]  data download size=undefined
+2025/1/21 下午3:06:21  [warn]   Try to report [object Object]
+2025/1/21 下午3:06:21  [info]   [PLUGIN TIME LOG 15:06.21.374] 解压资源包耗时: 78ms
+2025/1/21 下午3:06:21  [log]   [PLUGIN TIME LOG 15:06.21.374] 解压资源包耗时: 78ms
+2025/1/21 下午3:06:21  [info]   [PLUGIN LOG]  data decompressed size=8382827
+2025/1/21 下午3:06:21  [log]   [PLUGIN LOG 15:06.21.374]  data decompressed size=8382827
+2025/1/21 下午3:06:21  [info]   [PLUGIN LOG]  [datapackage] content= 85,110,105,116,121,87,101,98,68,97,116,97,49,46,48,0,240,0,0,0,240,0,0,0,202,50,8,0,12,0,0,0,100,97,116,97,46,117,110,105,116,121,51,100,186,51,8,0,100,2,0,0,29,0,0,0,82,117,110,116,105,109,101,73
+2025/1/21 下午3:06:21  [log]   [PLUGIN LOG 15:06.21.375]  [datapackage] content= 85,110,105,116,121,87,101,98,68,97,116,97,49,46,48,0,240,0,0,0,240,0,0,0,202,50,8,0,12,0,0,0,100,97,116,97,46,117,110,105,116,121,51,100,186,51,8,0,100,2,0,0,29,0,0,0,82,117,110,116,105,109,101,73
+2025/1/21 下午3:06:21  [warn]   Try to report [object Object]
+2025/1/21 下午3:06:21  [info]   [PLUGIN LOG]  [datapackage] fileSize=8382827, defaultSize=8382827, optimalSize=NaN
+2025/1/21 下午3:06:21  [log]   [PLUGIN LOG 15:06.21.392]  [datapackage] fileSize=8382827, defaultSize=8382827, optimalSize=NaN
+2025/1/21 下午3:06:21  [info]   [PLUGIN TIME LOG 15:06.21.405] 解析资源: 13ms
+2025/1/21 下午3:06:21  [log]   [PLUGIN TIME LOG 15:06.21.405] 解析资源: 13ms
+2025/1/21 下午3:06:21  [info]   [PLUGIN LOG]  removeRunDependency:  wasm-preloadAssets
+2025/1/21 下午3:06:21  [log]   [PLUGIN LOG 15:06.21.405]  removeRunDependency:  wasm-preloadAssets
+2025/1/21 下午3:06:21  [info]   [PLUGIN LOG]  no dependencies, invoke run
+2025/1/21 下午3:06:21  [log]   [PLUGIN LOG 15:06.21.406]  no dependencies, invoke run
+2025/1/21 下午3:06:21  [warn]   [PLUGIN WARN 15:06.21.406]  IndexedDB is not available. Data will not persist in cache and PlayerPrefs will not be saved.
+2025/1/21 下午3:06:21  [log]   [UnityMemory] Configuration Parameters - Can be set up in boot.config
+2025/1/21 下午3:06:21  [log]       "memorysetup-allocator-temp-initial-block-size-main=262144"
+2025/1/21 下午3:06:21  [log]       "memorysetup-allocator-temp-initial-block-size-worker=262144"
+2025/1/21 下午3:06:21  [log]       "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+2025/1/21 下午3:06:21  [log]       "memorysetup-temp-allocator-size-audio-worker=65536"
+2025/1/21 下午3:06:21  [log]       "memorysetup-temp-allocator-size-background-worker=32768"
+2025/1/21 下午3:06:21  [log]       "memorysetup-bucket-allocator-granularity=16"
+2025/1/21 下午3:06:21  [log]       "memorysetup-bucket-allocator-bucket-count=8"
+2025/1/21 下午3:06:21  [log]       "memorysetup-bucket-allocator-block-size=4194304"
+2025/1/21 下午3:06:21  [log]       "memorysetup-bucket-allocator-block-count=1"
+2025/1/21 下午3:06:21  [log]       "memorysetup-main-allocator-block-size=16777216"
+2025/1/21 下午3:06:21  [log]       "memorysetup-thread-allocator-block-size=16777216"
+2025/1/21 下午3:06:21  [log]       "memorysetup-gfx-main-allocator-block-size=16777216"
+2025/1/21 下午3:06:21  [log]       "memorysetup-gfx-thread-allocator-block-size=16777216"
+2025/1/21 下午3:06:21  [log]       "memorysetup-cache-allocator-block-size=4194304"
+2025/1/21 下午3:06:21  [log]       "memorysetup-typetree-allocator-block-size=2097152"
+2025/1/21 下午3:06:21  [log]       "memorysetup-profiler-bucket-allocator-granularity=16"
+2025/1/21 下午3:06:21  [log]       "memorysetup-profiler-bucket-allocator-bucket-count=8"
+2025/1/21 下午3:06:21  [log]       "memorysetup-profiler-bucket-allocator-block-size=4194304"
+2025/1/21 下午3:06:21  [log]       "memorysetup-profiler-bucket-allocator-block-count=1"
+2025/1/21 下午3:06:21  [log]       "memorysetup-profiler-allocator-block-size=16777216"
+2025/1/21 下午3:06:21  [log]       "memorysetup-profiler-editor-allocator-block-size=1048576"
+2025/1/21 下午3:06:21  [log]       "memorysetup-temp-allocator-size-main=4194304"
+2025/1/21 下午3:06:21  [log]       "memorysetup-job-temp-allocator-block-size=2097152"
+2025/1/21 下午3:06:21  [log]       "memorysetup-job-temp-allocator-block-size-background=1048576"
+2025/1/21 下午3:06:21  [log]       "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+2025/1/21 下午3:06:21  [log]   [PhysX] Initialized SinglethreadedTaskDispatcher.
+2025/1/21 下午3:06:21  [log]   Loading player data from data.unity3d
+2025/1/21 下午3:06:21  [log]   Initialize engine version: 2022.3.40f1c1 (0bae6c114c78)
+2025/1/21 下午3:06:21  [log]   Creating WebGL 1.0 context.
+2025/1/21 下午3:06:21  [log]   Renderer: Chromium
+2025/1/21 下午3:06:21  [log]   Vendor:   Qualcomm
+2025/1/21 下午3:06:21  [log]   Version:  OpenGL ES 2.0 (OpenGL ES 3.2 V@0502.0 (GIT@db3d445dbc, Ia06b22fa1a, 1633355031) (Date:10/04/21))
+2025/1/21 下午3:06:21  [log]   GLES:     2
+2025/1/21 下午3:06:21  [log]    WEBGL_depth_texture OES_texture_half_float_linear OES_texture_half_float WEBGL_compressed_texture_astc WEBGL_color_buffer_float OES_vertex_array_object OES_texture_float WEBGL_compressed_texture_etc1 OES_texture_float_linear OES_standard_derivatives WEBGL_compressed_texture_etc OES_element_index_uint EXT_disjoint_timer_query WEBGL_debug_renderer_info EXT_texture_filter_anisotropic EXT_sRGB EXT_color_buffer_half_float ANGLE_instanced_arrays GL_WEBGL_depth_texture GL_OES_texture_half_float_linear GL_OES_texture_half_float GL_WEBGL_compressed_texture_astc GL_WEBGL_color_buffer_float GL_OES_vertex_array_object GL_OES_texture_float GL_WEBGL_compressed_texture_etc1 GL_OES_texture_float_linear GL_OES_standard_derivatives GL_WEBGL_compressed_texture_etc GL_OES_element_index_uint GL_EXT_disjoint_timer_query GL_WEBGL_debug_renderer_info GL_EXT_texture_filter_anisotropic GL_EXT_sRGB GL_EXT_color_buffer_half_float GL_ANGLE_instanced_arrays
+2025/1/21 下午3:06:21  [log]   OPENGL LOG: Creating OpenGL ES 2.0 graphics device ; Context level  <OpenGL ES 2.0> ; Context handle 1
+2025/1/21 下午3:06:21  [log]   use wx WebAudio
+2025/1/21 下午3:06:21  [log]   Input Manager initialize...
+2025/1/21 下午3:06:21  [log]   WARNING: RGBA Compressed DXT5|BC3 UNorm format is not supported, decompressing texture
+2025/1/21 下午3:06:21  [log]   [PhysX] Initialized SinglethreadedTaskDispatcher.
+2025/1/21 下午3:06:21  [log]   UnloadTime: 11.000000 ms
+2025/1/21 下午3:06:21  [log]   current_language_wx: zh_CN
+2025/1/21 下午3:06:21  [log]   当前语言：简体中文
+2025/1/21 下午3:06:21  [info]   [PLUGIN TIME LOG 15:06.21.928] callMain耗时: 522ms
+2025/1/21 下午3:06:21  [log]   [PLUGIN TIME LOG 15:06.21.928] callMain耗时: 522ms
+2025/1/21 下午3:06:21  [info]   [PLUGIN TIME LOG 15:06.21.929] 游戏启动耗时: 2494ms
+2025/1/21 下午3:06:21  [log]   [PLUGIN TIME LOG 15:06.21.929] 游戏启动耗时: 2494ms
+2025/1/21 下午3:06:21  [warn]   Try to report [object Object]
+2025/1/21 下午3:06:22  [warn]   [PLUGIN MONITOR]  frame=2; cost=201ms; runtime=206ms
+2025/1/21 下午3:06:23  [warn]   [PLUGIN MONITOR]  frame=72; cost=175ms; runtime=1557ms
+2025/1/21 下午3:06:28  [warn]   [PLUGIN MONITOR]  frame=360; cost=117ms; runtime=6597ms
+2025/1/21 下午3:06:30  [log]   [PLUGIN LOG] wait for func:  88774
+2025/1/21 下午3:06:30  [log]   [PLUGIN LOG] start instantiateSubWasm: needBlock  true
+2025/1/21 下午3:06:30  [log]   [PLUGIN LOG] start loadSubPackage wasmcode1
+2025/1/21 下午3:06:31  [log]   js:buildRequire cur: require module: ["wasmcode1/game.js"]
+2025/1/21 下午3:06:31  [log]   [PLUGIN LOG] 下载代码分包1完毕:  0.72 s
+2025/1/21 下午3:06:31  [info]   [PLUGIN LOG]  subwasm下载耗时  undefined
+2025/1/21 下午3:06:31  [log]   [PLUGIN LOG 15:06.31.459]  subwasm下载耗时  undefined
+2025/1/21 下午3:06:31  [log]   [PLUGIN LOG] start compileSubWasm: needBlock  true
+2025/1/21 下午3:06:31  [info]   [PLUGIN TIME LOG 15:06.31.462] 首次加载subwasm: 12028ms
+2025/1/21 下午3:06:31  [log]   [PLUGIN TIME LOG 15:06.31.462] 首次加载subwasm: 12028ms
+2025/1/21 下午3:06:32  [info]   [PLUGIN LOG]  subwasm编译耗时  843
+2025/1/21 下午3:06:32  [log]   [PLUGIN LOG 15:06.32.306]  subwasm编译耗时  843
+2025/1/21 下午3:06:32  [log]   [PLUGIN LOG] [PLUGIN SUBWASM LOG]subwasm loaded:  843
+2025/1/21 下午3:06:32  [log]   [PLUGIN LOG] await loadSubWasmPackage and callback:  1.57 s
+2025/1/21 下午3:06:32  [warn]   Try to report [object Object]
+2025/1/21 下午3:06:36  [warn]   [PLUGIN MONITOR]  frame=492; cost=5639ms; runtime=14444ms
+2025/1/21 下午3:06:36  [info]   invoke reportMissFuncs
+2025/1/21 下午3:06:36  [log]   [WasmSplit Log]: Report split missing functions success.
+2025/1/21 下午3:06:44  [warn]   [PLUGIN MONITOR]  frame=955; cost=125ms; runtime=22413ms
+2025/1/21 下午3:06:45  [log]   max unlock io level is 1
+2025/1/21 下午3:06:45  [log]   SlashAdsABTest TestD
+2025/1/21 下午3:06:45  [warn]   [PLUGIN MONITOR]  frame=990; cost=136ms; runtime=23119ms
+2025/1/21 下午3:06:46  [log]   [PhysX] Initialized SinglethreadedTaskDispatcher.
+2025/1/21 下午3:06:46  [log]   UnloadTime: 3.000000 ms
+2025/1/21 下午3:06:46  [log]   Unloading 5 Unused Serialized files (Serialized files now loaded: 306)
+2025/1/21 下午3:06:46  [log]   Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 1852.
+2025/1/21 下午3:06:46  [log]   Total: 20.000000 ms (FindLiveObjects: 1.000000 ms CreateObjectMapping: 0.000000 ms MarkObjects: 18.000000 ms  DeleteObjects: 1.000000 ms)
+
+2025/1/21 下午3:06:46  [log]   Unloading 0 Unused Serialized files (Serialized files now loaded: 306)
+2025/1/21 下午3:06:46  [log]   Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1852.
+2025/1/21 下午3:06:46  [log]   Total: 14.000000 ms (FindLiveObjects: 0.000000 ms CreateObjectMapping: 1.000000 ms MarkObjects: 13.000000 ms  DeleteObjects: 0.000000 ms)
+
+2025/1/21 下午3:06:47  [log]   need star 40
+2025/1/21 下午3:06:48  [warn]   [PLUGIN MONITOR]  frame=1156; cost=169ms; runtime=26199ms
+2025/1/21 下午3:06:49  [warn]   [PLUGIN MONITOR]  frame=1256; cost=107ms; runtime=27976ms
+2025/1/21 下午3:06:51  [info]   invoke reportMissFuncs
+2025/1/21 下午3:06:51  [log]   [WasmSplit Log]: Report split missing functions success.
+2025/1/21 下午3:07:21  [log]   [PLUGIN MONITOR]  ----启动数据监控 start----
+2025/1/21 下午3:07:21  [log]   [PLUGIN MONITOR]  启动基本信息:  [object Object]
+2025/1/21 下午3:07:21  [log]   [PLUGIN MONITOR]  ----启动数据监控 end----
+2025/1/21 下午3:07:21  [log]   [PLUGIN MONITOR]  ----预下载监控 start----
+2025/1/21 下午3:07:21  [log]   [PLUGIN MONITOR]  预下载基本信息:  [object Object] , callmain完成时预下载信息 [object Object]
+2025/1/21 下午3:07:21  [warn]   [PLUGIN MONITOR]  预下载优化建议：
+2025/1/21 下午3:07:21  [warn]   [PLUGIN MONITOR]  未使用预下载能力
+2025/1/21 下午3:07:21  [log]   [PLUGIN MONITOR]  ----预下载监控 end----
+2025/1/21 下午3:07:21  [log]   [PLUGIN MONITOR]  ----wasm分包监控 start----
+2025/1/21 下午3:07:21  [log]   [PLUGIN MONITOR]  wasm分包基本信息:  [object Object]
+2025/1/21 下午3:07:21  [warn]   [PLUGIN MONITOR]  wasm分包优化建议：
+2025/1/21 下午3:07:21  [warn]   [PLUGIN MONITOR]  wasm子包加载时机过早，请使用分包工具继续收集
+2025/1/21 下午3:07:21  [log]   [PLUGIN MONITOR]  ----wasm分包监控 end----
+2025/1/21 下午3:07:21  [log]   [PLUGIN MONITOR]  ----网络监控 start----
+2025/1/21 下午3:07:21  [log]   [PLUGIN MONITOR]  网络基本信息： [object Object]
+2025/1/21 下午3:07:21  [warn]   [PLUGIN MONITOR]  网络优化建议：
+2025/1/21 下午3:07:21  [warn]   [PLUGIN MONITOR]  未命中CDN缓存
+请勿请求catalog.hash来做资源热更新，小游戏平台不支持
+网络并发数过少
+网络未充分利用
+2025/1/21 下午3:07:21  [log]   [PLUGIN MONITOR]  ----网络监控 end----
+2025/1/21 下午3:07:21  [log]   [PLUGIN MONITOR]  ----帧率检测 start ----
+2025/1/21 下午3:07:21  [log]   [PLUGIN MONITOR]  帧率基本信息： [object Object]
+2025/1/21 下午3:07:21  [warn]   [PLUGIN MONITOR]  帧率优化建议：
+2025/1/21 下午3:07:21  [warn]   [PLUGIN MONITOR]  存在长耗时帧cost=5639ms,runtime=14444ms
+总卡顿时长6669ms
+请使用安卓cpuprofile分析卡顿问题
+2025/1/21 下午3:07:21  [log]   [PLUGIN MONITOR]  ----帧率检测 end ----
+2025/1/21 下午3:07:21  [warn]   [PLUGIN MONITOR]  [monitor-report] 检测报告:  wasm下载耗时: 405ms
+wasm包大小: 3.03MB
+资源包下载耗时: 1698ms
+资源包大小: 7.99MB
+资源包是否压缩: true
+引擎初始化耗时: 523ms
+引擎初始化完成耗时: 2494ms
+预下载配置个数: 0
+总预下载完成个数: 0
+总预下载完成大小: 0.00MB
+引擎初始化完成时预载个数: 0
+引擎初始化完成时预载大小: 0.00MB
+网络时长: 23481ms
+网络时长占比: 39.1%
+距首个网络请求开始时长: 59940ms
+总请求个数(含命中本地缓存): 349
+实际网络请求个数(未命中本地缓存): 349
+自动缓存资源个数: 347
+未自动缓存资源个数: 2
+自动缓存资源网络个数: 347
+纹理个数: 0
+总资源大小(含预载): 18.44MB
+总资源大小(不含预载): 18.44MB
+自动缓存资源大小: 15.37MB
+未自动缓存资源大小: 3.07MB
+自动缓存资源网络大小: 15.37MB
+纹理大小: 0.00MB
+是否缓存纹理: true
+平均并发数: 2
+最大并发数: 3
+平均请求阻塞时长: 0ms
+TOP5请求
+2025/1/21 下午3:07:21  [warn]   Try to report [object Object]
+2025/1/21 下午3:07:21  [error]   [PLUGIN ERROR]  [开发阶段提示 不影响线上版本]请使用自定义上报能力 WX.ReportGameStart, 便于分析数据做启动优化, 文档: 
+https://github.com/wechat-miniprogram/minigame-unity-webgl-transform/blob/main/Design/ReportStartupStat.md
+2025/1/21 下午3:07:21  [error]   [PLUGIN ERROR 15:07.21.944]  [开发阶段提示 不影响线上版本]请使用自定义上报能力 WX.ReportGameStart, 便于分析数据做启动优化, 文档: 
+https://github.com/wechat-miniprogram/minigame-unity-webgl-transform/blob/main/Design/ReportStartupStat.md
+2025/1/21 下午3:07:31  [error]   24  193
+2025/1/21 下午3:07:31  [error]   15  142
+2025/1/21 下午3:07:31  [error]   25  646
+2025/1/21 下午3:07:31  [error]   18  644
+2025/1/21 下午3:07:31  [error]   28  1
+2025/1/21 下午3:07:31  [error]   23  192
+2025/1/21 下午3:07:31  [error]   22  191
+2025/1/21 下午3:07:31  [error]   11  139
+2025/1/21 下午3:07:31  [error]   10  138
+2025/1/21 下午3:07:31  [error]   24  193
+2025/1/21 下午3:07:31  [error]   15  142
+2025/1/21 下午3:07:31  [error]   25  646
+2025/1/21 下午3:07:31  [error]   18  644
+2025/1/21 下午3:07:31  [error]   28  1
+2025/1/21 下午3:07:31  [error]   23  192
+2025/1/21 下午3:07:31  [error]   22  191
+2025/1/21 下午3:07:31  [error]   11  139
+2025/1/21 下午3:07:31  [error]   10  138
+2025/1/21 下午3:07:31  [error]   24  193
+2025/1/21 下午3:07:31  [error]   15  142
+2025/1/21 下午3:07:31  [error]   25  646
+2025/1/21 下午3:07:31  [error]   18  644
+2025/1/21 下午3:07:31  [error]   28  1
+2025/1/21 下午3:07:31  [error]   23  192
+2025/1/21 下午3:07:31  [error]   22  191
+2025/1/21 下午3:07:31  [error]   11  139
+2025/1/21 下午3:07:31  [error]   10  138
+2025/1/21 下午3:07:31  [error]   24  193
+2025/1/21 下午3:07:31  [error]   15  142
+2025/1/21 下午3:07:31  [error]   25  646
+2025/1/21 下午3:07:31  [error]   18  644
+2025/1/21 下午3:07:31  [error]   28  1
+2025/1/21 下午3:07:31  [error]   23  192
+2025/1/21 下午3:07:31  [error]   22  191
+2025/1/21 下午3:07:31  [error]   11  139
+2025/1/21 下午3:07:31  [error]   10  138
+2025/1/21 下午3:07:31  [error]   24  193
+2025/1/21 下午3:07:31  [error]   15  142
+2025/1/21 下午3:07:31  [error]   25  646
+2025/1/21 下午3:07:31  [error]   18  644
+2025/1/21 下午3:07:31  [error]   28  1
+2025/1/21 下午3:07:31  [error]   23  192
+2025/1/21 下午3:07:31  [error]   22  191
+2025/1/21 下午3:07:31  [error]   11  139
+2025/1/21 下午3:07:31  [error]   10  138
+2025/1/21 下午3:07:31  [error]   24  193
+2025/1/21 下午3:07:31  [error]   15  142
+2025/1/21 下午3:07:31  [error]   25  646
+2025/1/21 下午3:07:31  [error]   18  644
+2025/1/21 下午3:07:31  [error]   28  1
+2025/1/21 下午3:07:31  [error]   23  192
+2025/1/21 下午3:07:31  [error]   22  191
+2025/1/21 下午3:07:31  [error]   11  139
+2025/1/21 下午3:07:31  [error]   10  138
+2025/1/21 下午3:07:31  [error]   24  193
+2025/1/21 下午3:07:31  [error]   15  142
+2025/1/21 下午3:07:31  [error]   25  646
+2025/1/21 下午3:07:31  [error]   18  644
+2025/1/21 下午3:07:31  [error]   28  1
+2025/1/21 下午3:07:31  [error]   23  192
+2025/1/21 下午3:07:31  [error]   22  191
+2025/1/21 下午3:07:31  [error]   11  139
+2025/1/21 下午3:07:31  [error]   10  138
+2025/1/21 下午3:07:31  [error]   24  193
+2025/1/21 下午3:07:31  [error]   15  142
+2025/1/21 下午3:07:31  [error]   25  646
+2025/1/21 下午3:07:31  [error]   18  644
+2025/1/21 下午3:07:31  [error]   28  1
+2025/1/21 下午3:07:31  [error]   23  192
+2025/1/21 下午3:07:31  [error]   22  191
+2025/1/21 下午3:07:31  [error]   11  139
+2025/1/21 下午3:07:31  [error]   10  138
+2025/1/21 下午3:07:31  [error]   24  193
+2025/1/21 下午3:07:31  [error]   15  142
+2025/1/21 下午3:07:31  [error]   25  646
+2025/1/21 下午3:07:31  [error]   18  644
+2025/1/21 下午3:07:31  [error]   28  1
+2025/1/21 下午3:07:31  [error]   23  192
+2025/1/21 下午3:07:31  [error]   22  191
+2025/1/21 下午3:07:31  [error]   11  139
+2025/1/21 下午3:07:31  [error]   10  138
+2025/1/21 下午3:07:31  [error]   24  193
+2025/1/21 下午3:07:31  [error]   15  142
+2025/1/21 下午3:07:31  [error]   25  646
+2025/1/21 下午3:07:31  [error]   18  644
+2025/1/21 下午3:07:31  [error]   28  1
+2025/1/21 下午3:07:31  [error]   23  192
+2025/1/21 下午3:07:31  [error]   22  191
+2025/1/21 下午3:07:31  [error]   11  139
+2025/1/21 下午3:07:31  [error]   10  138
+2025/1/21 下午3:07:31  [error]   24  193
+2025/1/21 下午3:07:31  [error]   15  142
+2025/1/21 下午3:07:31  [error]   25  646
+2025/1/21 下午3:07:31  [error]   18  644
+2025/1/21 下午3:07:31  [error]   28  1
+2025/1/21 下午3:07:31  [error]   23  192
+2025/1/21 下午3:07:31  [error]   22  191
+2025/1/21 下午3:07:31  [error]   11  139
+2025/1/21 下午3:07:31  [error]   10  138
+2025/1/21 下午3:07:31  [error]   24  193
+2025/1/21 下午3:07:31  [error]   15  142
+2025/1/21 下午3:07:31  [error]   25  646
+2025/1/21 下午3:07:31  [error]   18  644
+2025/1/21 下午3:07:31  [error]   23  192
+2025/1/21 下午3:07:31  [error]   22  191
+2025/1/21 下午3:07:31  [error]   11  139
+2025/1/21 下午3:07:31  [error]   10  138
+2025/1/21 下午3:07:31  [error]   24  193
+2025/1/21 下午3:07:31  [error]   15  142
+2025/1/21 下午3:07:31  [error]   25  646
+2025/1/21 下午3:07:31  [error]   18  644
+2025/1/21 下午3:07:31  [error]   23  192
+2025/1/21 下午3:07:31  [error]   22  191
+2025/1/21 下午3:07:31  [error]   11  139
+2025/1/21 下午3:07:31  [error]   10  138
+2025/1/21 下午3:07:31  [error]   24  193
+2025/1/21 下午3:07:31  [error]   15  142
+2025/1/21 下午3:07:31  [error]   25  646
+2025/1/21 下午3:07:31  [error]   18  644
+2025/1/21 下午3:07:31  [error]   23  192
+2025/1/21 下午3:07:31  [error]   22  191
+2025/1/21 下午3:07:31  [error]   11  139
+2025/1/21 下午3:07:31  [error]   10  138
+2025/1/21 下午3:07:31  [error]   24  193
+2025/1/21 下午3:07:31  [error]   15  142
+2025/1/21 下午3:07:31  [error]   25  646
+2025/1/21 下午3:07:31  [error]   18  644
+2025/1/21 下午3:07:31  [error]   23  192
+2025/1/21 下午3:07:31  [error]   22  191
+2025/1/21 下午3:07:31  [error]   11  139
+2025/1/21 下午3:07:31  [error]   10  138
+2025/1/21 下午3:07:31  [error]   24  193
+2025/1/21 下午3:07:31  [error]   15  142
+2025/1/21 下午3:07:31  [error]   25  646
+2025/1/21 下午3:07:31  [error]   18  644
+2025/1/21 下午3:07:31  [error]   23  192
+2025/1/21 下午3:07:31  [error]   22  191
+2025/1/21 下午3:07:31  [error]   11  139
+2025/1/21 下午3:07:31  [error]   10  138
+2025/1/21 下午3:07:31  [error]   24  193
+2025/1/21 下午3:07:31  [error]   15  142
+2025/1/21 下午3:07:31  [error]   25  646
+2025/1/21 下午3:07:31  [error]   18  644
+2025/1/21 下午3:07:31  [error]   23  192
+2025/1/21 下午3:07:31  [error]   22  191
+2025/1/21 下午3:07:31  [error]   11  139
+2025/1/21 下午3:07:31  [error]   10  138
+2025/1/21 下午3:07:31  [error]   24  193
+2025/1/21 下午3:07:31  [error]   15  142
+2025/1/21 下午3:07:31  [error]   25  646
+2025/1/21 下午3:07:31  [error]   18  644
+2025/1/21 下午3:07:31  [error]   23  192
+2025/1/21 下午3:07:31  [error]   22  191
+2025/1/21 下午3:07:31  [error]   11  139
+2025/1/21 下午3:07:31  [error]   10  138
+2025/1/21 下午3:07:31  [error]   24  193
+2025/1/21 下午3:07:31  [error]   15  142
+2025/1/21 下午3:07:31  [error]   25  646
+2025/1/21 下午3:07:31  [error]   18  644
+2025/1/21 下午3:07:31  [error]   23  192
+2025/1/21 下午3:07:31  [error]   22  191
+2025/1/21 下午3:07:31  [error]   11  139
+2025/1/21 下午3:07:31  [error]   10  138
+2025/1/21 下午3:07:31  [error]   24  193
+2025/1/21 下午3:07:31  [error]   15  142
+2025/1/21 下午3:07:31  [error]   25  646
+2025/1/21 下午3:07:31  [error]   18  644
+2025/1/21 下午3:07:31  [error]   23  192
+2025/1/21 下午3:07:31  [error]   22  191
+2025/1/21 下午3:07:31  [error]   11  139
+2025/1/21 下午3:07:31  [error]   10  138
+2025/1/21 下午3:07:31  [error]   24  193
+2025/1/21 下午3:07:31  [error]   15  142
+2025/1/21 下午3:07:31  [error]   25  646
+2025/1/21 下午3:07:31  [error]   18  644
+2025/1/21 下午3:07:31  [error]   23  192
+2025/1/21 下午3:07:31  [error]   22  191
+2025/1/21 下午3:07:31  [error]   11  139
+2025/1/21 下午3:07:31  [error]   10  138
+2025/1/21 下午3:07:31  [error]   24  193
+2025/1/21 下午3:07:31  [error]   15  142
+2025/1/21 下午3:07:31  [error]   25  646
+2025/1/21 下午3:07:31  [error]   18  644
+2025/1/21 下午3:07:31  [error]   23  192
+2025/1/21 下午3:07:31  [error]   22  191
+2025/1/21 下午3:07:31  [error]   11  139
+2025/1/21 下午3:07:31  [error]   10  138
+2025/1/21 下午3:07:31  [error]   24  193
+2025/1/21 下午3:07:31  [error]   15  142
+2025/1/21 下午3:07:31  [error]   25  646
+2025/1/21 下午3:07:31  [error]   18  644
+2025/1/21 下午3:07:31  [error]   23  192
+2025/1/21 下午3:07:31  [error]   22  191
+2025/1/21 下午3:07:31  [error]   11  139
+2025/1/21 下午3:07:31  [error]   10  138
+2025/1/21 下午3:07:31  [error]   24  193
+2025/1/21 下午3:07:31  [error]   15  142
+2025/1/21 下午3:07:31  [error]   25  646
+2025/1/21 下午3:07:31  [error]   18  644
+2025/1/21 下午3:07:31  [error]   23  192
+2025/1/21 下午3:07:31  [error]   22  191
+2025/1/21 下午3:07:31  [error]   11  139
+2025/1/21 下午3:07:31  [error]   10  138
+2025/1/21 下午3:07:31  [error]   24  193
+2025/1/21 下午3:07:31  [error]   15  142
+2025/1/21 下午3:07:31  [error]   25  646
+2025/1/21 下午3:07:31  [error]   23  192
+2025/1/21 下午3:07:31  [error]   22  191
+2025/1/21 下午3:07:31  [error]   24  193
+2025/1/21 下午3:07:31  [error]   15  142
+2025/1/21 下午3:07:31  [error]   25  646
+2025/1/21 下午3:07:31  [error]   23  192
+2025/1/21 下午3:07:31  [error]   22  191
+2025/1/21 下午3:07:31  [error]   24  193
+2025/1/21 下午3:07:31  [error]   15  142
+2025/1/21 下午3:07:31  [error]   25  646
+2025/1/21 下午3:07:31  [error]   23  192
+2025/1/21 下午3:07:31  [error]   22  191
+2025/1/21 下午3:07:31  [error]   24  193
+2025/1/21 下午3:07:31  [error]   15  142
+2025/1/21 下午3:07:31  [error]   25  646
+2025/1/21 下午3:07:31  [error]   23  192
+2025/1/21 下午3:07:31  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:32  [error]   24  193
+2025/1/21 下午3:07:32  [error]   15  142
+2025/1/21 下午3:07:32  [error]   25  646
+2025/1/21 下午3:07:32  [error]   23  192
+2025/1/21 下午3:07:32  [error]   22  191
+2025/1/21 下午3:07:38  [log]   ~Triangulator error:System.ArgumentException: Destination array was not long enough. Check destIndex and length, and the array's lower bounds
+Parameter name: destinationArray
+  at System.Array.Copy (System.Array sourceArray, System.Int32 sourceIndex, System.Array destinationArray, System.Int32 destinationIndex, System.Int32 length) [0x00000] in <00000000000000000000000000000000>:0 
+2025/1/21 下午3:08:06  [info]   invoke reportMissFuncs
+2025/1/21 下午3:08:06  [log]   [WasmSplit Log]: Report split missing functions success.
+2025/1/21 下午3:08:21  [info]   invoke reportMissFuncs
+2025/1/21 下午3:08:21  [log]   [WasmSplit Log]: Report split missing functions success.
+2025/1/21 下午3:09:20  [log]   text is 角色库{0}级
+2025/1/21 下午3:09:22  [log]   score is 7,30,17
