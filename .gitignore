@@ -4,3 +4,4 @@ test/
 **/_pycache_
 **/.idea
 **/log
+weak_net/__pycache__
